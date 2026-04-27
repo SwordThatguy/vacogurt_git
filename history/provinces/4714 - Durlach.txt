@@ -6,7 +6,6 @@ culture = swabian
 religion = catholic
 trade_goods = wine
 fort_15th = yes
-hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 3

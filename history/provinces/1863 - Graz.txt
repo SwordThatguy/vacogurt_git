@@ -4,7 +4,6 @@ is_city = yes
 culture = bavarian
 religion = catholic
 trade_goods = grain
-hre = yes
 base_tax = 8
 base_production = 4
 base_manpower = 2

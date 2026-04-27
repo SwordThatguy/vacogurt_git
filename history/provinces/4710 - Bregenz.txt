@@ -4,7 +4,6 @@ is_city = yes
 culture = austrian
 religion = catholic
 trade_goods = wool
-hre = yes
 base_tax = 1
 base_production = 1
 base_manpower = 2

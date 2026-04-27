@@ -1,14 +1,14 @@
-owner = DAN
-controller = DAN
+owner = SOR
 capital = "Wismar"
 is_city = yes
 culture = danish
 religion = catholic
 trade_goods = cloth
+hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 1
-add_core = DAN
+add_core = SOR
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

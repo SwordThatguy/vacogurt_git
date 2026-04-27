@@ -5,6 +5,9 @@ technology_group = western
 religion = catholic
 primary_culture = danish
 capital = 4165
+
+create_union = SOR
+
 1444.11.11= {
 	monarch = {
 		name = "Hjalmar"

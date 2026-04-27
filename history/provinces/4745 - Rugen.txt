@@ -1,14 +1,13 @@
-owner = DAN
-controller = DAN
+owner = SOR
 capital = "Bergen auf Rügen"
 is_city = yes
 culture = sorbian
 religion = catholic
 trade_goods = fish
+hre = yes
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = DAN
 add_core = SOR
 discovered_by = eastern
 discovered_by = muslim

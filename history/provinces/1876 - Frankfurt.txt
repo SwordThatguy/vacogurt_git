@@ -5,7 +5,6 @@ is_city = yes
 culture = hessian
 religion = catholic
 trade_goods = paper
-hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 4

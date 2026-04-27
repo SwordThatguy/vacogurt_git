@@ -1,4 +1,4 @@
-owner = Z2G
+owner = CAS
 controller = Z2G
 capital = "Toledo"
 is_city = yes

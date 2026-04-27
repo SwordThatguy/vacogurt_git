@@ -1,4 +1,4 @@
-owner = Z1Z
+owner = GRA
 controller = Z1Z
 capital = "Badajoz"
 is_city = yes

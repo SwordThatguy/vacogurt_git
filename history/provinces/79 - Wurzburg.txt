@@ -5,7 +5,6 @@ is_city = yes
 culture = dynamic-franconian-culture-num1
 religion = catholic
 trade_goods = wine
-hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 5

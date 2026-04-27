@@ -1,5 +1,4 @@
 owner = ITA
-controller = ITA
 capital = "Tunis"
 is_city = yes
 culture = tunisian

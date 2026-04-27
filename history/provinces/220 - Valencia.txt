@@ -1,4 +1,4 @@
-owner = Z2N
+owner = VAL
 controller = Z2N
 capital = "València"
 is_city = yes

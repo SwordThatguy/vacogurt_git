@@ -1,5 +1,4 @@
-owner = ITA
-controller = ITA
+owner = SAV
 capital = "Montferrat"
 is_city = yes
 culture = piedmontese
@@ -8,6 +7,7 @@ trade_goods = wine
 base_tax = 5
 base_production = 4
 base_manpower = 2
+add_core = SAV
 add_core = ITA
 discovered_by = eastern
 discovered_by = muslim

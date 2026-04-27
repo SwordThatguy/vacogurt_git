@@ -1,5 +1,4 @@
 owner = ITA
-controller = ITA
 capital = "Bergamo"
 is_city = yes
 culture = lombard

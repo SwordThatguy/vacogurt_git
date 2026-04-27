@@ -1,5 +1,4 @@
-owner = POR
-controller = POR
+owner = LON
 capital = "León"
 is_city = yes
 culture = leonese
@@ -10,7 +9,7 @@ base_production = 3
 base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
-add_core = POR
+add_core = LON
 add_permanent_claim = LON
 discovered_by = eastern
 discovered_by = muslim

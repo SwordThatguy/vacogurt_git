@@ -5,6 +5,7 @@ is_city = yes
 culture = sudeten
 religion = catholic
 trade_goods = livestock
+hre = yes
 base_tax = 1
 base_production = 1
 base_manpower = 2

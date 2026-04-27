@@ -1,5 +1,4 @@
-owner = ITA
-controller = ITA
+owner = NAP
 capital = "Potenza"
 is_city = yes
 culture = neapolitan

@@ -1,4 +1,4 @@
-owner = CAT
+owner = ARA
 controller = CAT
 capital = "Barcelona"
 is_city = yes

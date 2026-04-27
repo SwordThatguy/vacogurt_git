@@ -1,5 +1,4 @@
-owner = ITA
-controller = ITA
+owner = MLO
 capital = "Pavia"
 is_city = yes
 culture = lombard

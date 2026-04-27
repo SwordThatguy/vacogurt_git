@@ -1,5 +1,4 @@
-owner = ITA
-controller = ITA
+owner = VEN
 capital = "Venezia"
 is_city = yes
 culture = venetian
