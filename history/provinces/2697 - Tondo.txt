@@ -1,0 +1,14 @@
+owner = Z36
+controller = Z36
+capital = "Tondo"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = spices
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = SUL
+add_core = Z0G
+add_core = Z36
+discovered_by = chinese

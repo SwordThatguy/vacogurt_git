@@ -1,0 +1,12 @@
+owner = DAR
+controller = DAR
+capital = "Yao"
+is_city = yes
+culture = kanuri
+religion = sunni
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = DAR
+discovered_by = sub_saharan

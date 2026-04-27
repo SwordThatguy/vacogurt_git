@@ -1,0 +1,14 @@
+owner = Z3N
+controller = Z3N
+capital = "Khara Narin Ula"
+is_city = yes
+culture = mongol
+religion = confucianism
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z3N
+add_permanent_claim = KHA
+discovered_by = chinese
+discovered_by = nomad_group

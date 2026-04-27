@@ -1,0 +1,14 @@
+owner = JAP
+controller = JAP
+capital = "Suwon"
+is_city = yes
+culture = korean
+religion = mahayana
+trade_goods = chinaware
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = JAP
+add_core = KOR
+discovered_by = chinese
+discovered_by = nomad_group

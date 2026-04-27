@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 178 116 221 }
+revolutionary_colors = { 8 9 0 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Adin #2" = 10
+	"Anindya #0" = -1
+	"Arai #0" = -1
+	"Aswawarman #1" = 10
+	"Bungio #0" = -1
+	"Buron #0" = -1
+	"Cendera Warmandewa #1" = 10
+	"Eti #0" = -1
+	"Gadingga Warmandewa #1" = 10
+	"Gajayanawarman #1" = 10
+	"Godu #0" = -1
+	"Indra Mulia Tungga Warmandewa #1" = 10
+	"Indra Warmandewa #1" = 10
+	"Jaya Tungga Nagawarman #1" = 10
+	"Jukat #0" = 0
+	"Lankadewa #0" = 0
+	"Luli #0" = -1
+	"Majau #1" = 10
+	"Majin #0" = 0
+	"Marawijayawarman #1" = 10
+	"Mayang Mulawarni #1" = -1
+	"Mula #0" = 0
+	"Mulawarman Naladewa #1" = 10
+	"Nala #1" = 10
+	"Nala Indradewa #1" = 10
+	"Nala Perana Tungga Warmandewa #1" = 10
+	"Nala Singawarman #1" = 10
+	"Nyat #0" = 0
+	"Prabu Mula Tunggaldewa #1" = 10
+	"Punai #0" = -1
+	"Singa Wirama Warmandewa #1" = 10
+	"Singa Wirgala Warmandewa #1" = 10
+	"Wijaya Tunggawarman #1" = 10
+}
+leader_names = {
+	"Agung"
+	"Budi"
+	"Hamengku"
+	"Harto"
+	"Karno"
+	"Kencono"
+	"Mas"
+	"Ratri"
+	"Slamet"
+	"Wani"
+}
+ship_names = {
+	"Agong"
+	"Baris"
+	"Barong"
+	"Batukaru"
+	"Batur"
+	"Bratan"
+	"Catur"
+	"Kecak"
+	"Kelatakan"
+	"Legong"
+	"Lesong"
+	"Merbuk"
+	"Mesehe"
+	"Musi"
+	"Patas"
+	"Pendet"
+	"Pohen"
+	"Sanglang"
+	"Sangyang"
+	"Seraya"
+	"Topeng"
+}

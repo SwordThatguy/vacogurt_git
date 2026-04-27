@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+capital = "Gaizhou"
+is_city = yes
+culture = dynamic-khitan-culture-num3
+religion = buddhism
+trade_goods = fish
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = JAP
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,17 @@
+owner = Z2C
+controller = Z2C
+capital = "Tawdani"
+is_city = yes
+culture = berber
+religion = masmudi
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = TLC
+add_core = Z2C
+discovered_by = MOR
+discovered_by = sub_saharan
+native_size = 60
+native_ferocity = 4
+native_hostileness = 10

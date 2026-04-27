@@ -1,0 +1,94 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 157 200 42 }
+revolutionary_colors = { 10 4 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Akal #0" = -1
+	"Ardavan #0" = 0
+	"Aurang #0" = 0
+	"Behnaz #0" = -1
+	"Bhaadar #0" = 0
+	"Darab #0" = 0
+	"Dinah #0" = -1
+	"Faramarz #0" = 0
+	"Ferdows #0" = 0
+	"Golnaz #0" = -1
+	"Kavadh #1" = 10
+	"Khosrow #0" = 0
+	"Kumaradevi #0" = -1
+	"Lakshman #0" = -1
+	"Mahendrapal #0" = 0
+	"Mahmudshah #3" = 10
+	"Parsa #0" = 0
+	"Ramabhadra #0" = 0
+	"Salomeh #0" = -1
+	"Sonpala #0" = 0
+	"Soroush #1" = 10
+	"Tahmasb #0" = 0
+	"Tahminah #0" = -1
+	"Touran #0" = -1
+	"Uzluk #0" = 0
+	"Vahhab #0" = 0
+}
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lohia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Ra'ana"
+	"Sharif"
+	"Sharma"
+	"Sinan"
+	"Singh"
+	"Viqar-ul-Mulk"
+}
+ship_names = {
+	"Alia"
+	"Chambal"
+	"Fatimah"
+	"Ganges"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Spiti"
+	"Yamuna"
+	"Yasmine"
+}

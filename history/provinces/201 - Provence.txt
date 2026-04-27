@@ -1,0 +1,23 @@
+owner = ARA
+controller = ARA
+capital = "Aix-en-Provence"
+is_city = yes
+culture = occitain
+religion = catholic
+trade_goods = wine
+fort_15th = yes
+base_tax = 7
+base_production = 4
+base_manpower = 6
+extra_cost = 10
+center_of_trade = 1
+add_core = ARA
+add_core = PRO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = rhone_estuary_modifier
+	duration = -1
+}

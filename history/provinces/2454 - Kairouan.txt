@@ -1,0 +1,17 @@
+owner = ITA
+controller = ITA
+capital = "El Kef"
+is_city = yes
+culture = tunisian
+religion = catholic
+trade_goods = wool
+fort_15th = yes
+base_tax = 4
+base_production = 3
+base_manpower = 3
+add_core = ITA
+add_core = TUN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

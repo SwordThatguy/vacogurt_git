@@ -1,0 +1,13 @@
+owner = Z3W
+controller = Z3W
+capital = "Biram"
+is_city = yes
+culture = hausa
+religion = sunni
+trade_goods = dyes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = HAU
+add_core = Z3W
+discovered_by = sub_saharan

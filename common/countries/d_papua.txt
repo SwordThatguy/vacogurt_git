@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = polynesiangfx
+color = { 161 46 36 }
+monarch_names = {
+	"Aditya #0" = 0
+	"Atma #0" = 0
+	"Darmastyadewa #0" = 0
+	"Ganawirya #0" = 0
+	"Limbur Kancana #0" = 0
+	"Megh #0" = 0
+	"Nila Panjadi #1" = -1
+	"Rahayu #0" = -1
+	"Wangi #0" = -1
+}

@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 50 37 125 }
+revolutionary_colors = { 13 16 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Bardé #1" = 10
+	"Chidétsen #1" = 10
+	"Chungsang Ormang #1" = 10
+	"Chéchentsa Tsédé #1" = 10
+	"Esfandiar #1" = 10
+	"Ghoncheh #0" = -1
+	"Gyalsig Shuteng #1" = 10
+	"Gyaltore Taknye #1" = 10
+	"Hossein #0" = 0
+	"Jangchup-Ö #1" = 10
+	"Jowo Gyelpo #1" = 10
+	"Khorré #1" = 10
+	"Kitsi #0" = 0
+	"Kyesang Dongtsab #1" = 10
+	"Langboche #0" = 0
+	"Lhadé #1" = 10
+	"Lontramo #1" = 10
+	"Lotsen #1" = 10
+	"Mangje Lhalo #1" = 10
+	"Mangpoje Lhasung #1" = 10
+	"Mangpoje Shangnang #1" = 10
+	"Mangsham Sumnang #1" = 10
+	"Mangsham Taktsab #1" = 10
+	"Mohammed #0" = 0
+	"Namdé Ösung #1" = 10
+	"Namdétsen #1" = 10
+	"Nangshar Sutsen #1" = 10
+	"Neelab #0" = -1
+	"Pelkhortsen #1" = 10
+	"Pungse Sutse #1" = 10
+	"Rochana #0" = -1
+	"Shang Gyaltsen Lhanang #1" = 10
+	"Songngé Yéshé-Ö #1" = 10
+	"Songul #0" = -1
+	"Sönamtsé #1" = 10
+	"Tadra Khonglo #1" = 10
+	"Takdra Lukhong #1" = 10
+	"Thrikhyiding #1" = 10
+	"Tongtsen Yulsung #3" = 10
+	"Trashi Tsentsen #1" = 10
+	"Trashigön #1" = 10
+	"Trashitsé #1" = 10
+	"Trinring Tsendro #1" = 10
+	"Trisang Yalag #1" = 10
+	"Trisig Shangnyen #2" = 10
+	"Trisu Ramsha #1" = 10
+	"Trisumje Taknang #1" = 10
+	"Tsenye Dompu #1" = 10
+	"Tsébartsen #1" = 10
+	"Ödétsen #1" = 10
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

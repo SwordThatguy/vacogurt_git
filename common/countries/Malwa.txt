@@ -1,0 +1,121 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 192 5 24 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	economic_ideas
+	quantity_ideas
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ahila #0" = 0
+	"Azad #0" = 0
+	"Ballala #1" = 10
+	"Banafshah #0" = -1
+	"Belour #0" = -1
+	"Bhoja #1" = 10
+	"Chavundaraya #0" = 0
+	"Devasakti #1" = 10
+	"Farzam #0" = 0
+	"Hatice #0" = -1
+	"Jayasimha #1" = 10
+	"Jayavarman #1" = 10
+	"Kakustha #1" = 10
+	"Kanaguta #0" = -1
+	"Kourash #0" = 0
+	"Kumarapala #1" = 10
+	"Lakshmana #1" = 10
+	"Mayanalladevi #0" = -1
+	"Mehrab #1" = 10
+	"Murarirao #0" = 0
+	"Nagabhata #2" = 10
+	"Namdar #1" = 10
+	"Naravarman #1" = 10
+	"Nazaneen #0" = -1
+	"Noshrad #0" = 0
+	"Prasadhanadevi #0" = -1
+	"Rudramadevi #0" = -1
+	"Shahrbano #0" = -1
+	"Shahrukh #0" = 0
+	"Sina #1" = 10
+	"Sindhu #1" = 10
+	"Siyaka #1" = 10
+	"Tara #0" = -1
+	"Thandar #0" = -1
+	"Udayaditya #1" = 10
+	"Vakpati #1" = 10
+	"Vatsraja #1" = 10
+	"Vindhyavarman #1" = 10
+	"Yahya #0" = 0
+	"Yasovarman #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Chambal"
+	"Dhasan"
+	"Fatimah"
+	"Ghambir"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Mahi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Shipra"
+	"Suhalia"
+	"Yasmine"
+}

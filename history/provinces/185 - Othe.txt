@@ -1,0 +1,15 @@
+owner = FRA
+controller = FRA
+capital = "Nemours"
+is_city = yes
+culture = dynamic-cosmopolitan_french-culture-num1
+religion = catholic
+trade_goods = paper
+base_tax = 6
+base_production = 3
+base_manpower = 4
+add_core = FRA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = YAT
+controller = YAT
+capital = "Isaq"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = YAT
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

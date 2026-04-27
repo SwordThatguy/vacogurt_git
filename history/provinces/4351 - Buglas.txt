@@ -1,0 +1,13 @@
+owner = Z34
+controller = Z34
+capital = "Silay"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = sugar
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = SUL
+add_core = Z34
+discovered_by = chinese

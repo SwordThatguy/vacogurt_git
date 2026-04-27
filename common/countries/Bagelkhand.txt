@@ -1,0 +1,115 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 123 14 148 }
+revolutionary_colors = { 8 0 8 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Asaga #0" = 0
+	"Avinita #2" = 10
+	"Balaharsha #1" = 10
+	"Bukka #0" = 0
+	"Chandaladevi #0" = -1
+	"Dashavarman #0" = 0
+	"Durgavati #0" = -1
+	"Ereyanga #0" = 0
+	"Gangeyadeva #1" = 10
+	"Gayakarna #1" = 10
+	"Govinda #0" = 0
+	"Gunasagara #1" = 10
+	"Jayasimha #1" = 10
+	"Karnadeva #1" = 10
+	"Kokkala #2" = 10
+	"Krishna #0" = 0
+	"Krishnaraja #1" = 10
+	"Kundakadevi #0" = -1
+	"Lakshmanaraja #1" = 10
+	"Laksmanaraja #1" = 10
+	"Madhava #0" = 0
+	"Mayuraja #1" = 10
+	"Narasimha #1" = 10
+	"Nilkanth #0" = 0
+	"Sankaragana #3" = 10
+	"Simin #0" = -1
+	"Soorjat Badwaik #0" = 0
+	"Srivikrama #0" = 0
+	"Vamaraja #1" = 10
+	"Vijamba #0" = -1
+	"Vijayasimha #1" = 10
+	"Viranarasimha #0" = 0
+	"Virupaksha #0" = 0
+	"Yajnavati #0" = -1
+	"Yashkarna #1" = 10
+	"Yuvaraja #2" = 10
+}
+leader_names = {
+	"Baghela"
+	"Bais"
+	"Bhaal"
+	"Bundela"
+	"Chandela"
+	"Chattar"
+	"Chauhan"
+	"Datia"
+	"Jadon"
+	"Jasos"
+	"Katoch"
+	"Mihir"
+	"Minhas"
+	"Mori"
+	"Naga"
+	"Naru"
+	"Pakhral"
+	"Pundir"
+	"Saharan"
+	"Singh"
+	"Tomara"
+}
+ship_names = {
+	"Betwa"
+	"Devi"
+	"Durga"
+	"Gandak"
+	"Ganga"
+	"Gayatri"
+	"Ghagra"
+	"Gomti"
+	"Jalsena"
+	"Kala Jahazi"
+	"Ken"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ramganga"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Satlaj"
+	"Sita"
+	"Yamuna"
+}

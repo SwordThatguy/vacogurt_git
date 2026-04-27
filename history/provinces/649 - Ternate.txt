@@ -1,0 +1,13 @@
+owner = Z0I
+controller = Z0I
+capital = "Ternate"
+is_city = yes
+culture = moluccan
+religion = hinduism
+trade_goods = cloves
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = TER
+add_core = Z0I
+discovered_by = chinese

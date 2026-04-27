@@ -1,0 +1,17 @@
+owner = ITA
+controller = ITA
+capital = "Avellino"
+is_city = yes
+culture = neapolitan
+religion = catholic
+trade_goods = grain
+fort_15th = yes
+base_tax = 5
+base_production = 7
+base_manpower = 3
+add_core = ITA
+add_core = NAP
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

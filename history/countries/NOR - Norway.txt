@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = norwegian
+capital = 20
+1444.11.11= {
+	monarch = {
+		name = "Fasti"
+		dynasty = "Skakki"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1383.5.9
+		religion = catholic
+		culture = norwegian
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Linda"
+		dynasty = "Yngling"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = NOR
+		birth_date = 1389.12.19
+		death_date = 1449.12.19
+		female = yes
+		religion = catholic
+		culture = norwegian
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = fierce_negotiator_personality
+	heir = {
+		name = "Ása"
+		monarch_name = "Ása"
+		dynasty = "Skakki-Úlfasund"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1407.10.12
+		death_date = 1472.10.12
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = norwegian
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 51
+}

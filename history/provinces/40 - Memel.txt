@@ -1,0 +1,21 @@
+owner = LIT
+controller = LIT
+capital = "Memel"
+is_city = yes
+culture = lithuanian
+religion = catholic
+trade_goods = livestock
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+extra_cost = 10
+add_core = LIT
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = neman_estuary_modifier
+	duration = -1
+}

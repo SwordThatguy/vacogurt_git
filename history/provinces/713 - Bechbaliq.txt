@@ -1,0 +1,13 @@
+owner = CHG
+controller = CHG
+capital = "Bechbaliq"
+is_city = yes
+culture = dynamic-uyghur-culture-num1
+religion = vajrayana
+trade_goods = salt
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = CHG
+discovered_by = chinese
+discovered_by = nomad_group

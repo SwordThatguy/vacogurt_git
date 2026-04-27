@@ -1,0 +1,14 @@
+owner = Z00
+controller = Z00
+capital = "Lamphun"
+is_city = yes
+culture = mon
+religion = hinduism
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = PEG
+add_core = Z00
+discovered_by = chinese
+discovered_by = indian

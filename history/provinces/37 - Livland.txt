@@ -1,0 +1,14 @@
+owner = EST
+controller = EST
+capital = "Fellin"
+is_city = yes
+culture = estonian
+religion = catholic
+trade_goods = livestock
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = EST
+add_permanent_claim = LIT
+discovered_by = eastern
+discovered_by = western

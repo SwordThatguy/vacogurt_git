@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 240 200 160 }
+monarch_names = {
+	"Abitu #0" = 0
+	"Badai #1" = 10
+	"Barghujin #0" = 0
+	"Bukha #0" = 0
+	"Chéngen #0" = 0
+	"Doquz #0" = -1
+	"Jinniáng #0" = -1
+	"Maiju #0" = 0
+	"Mongoljin #0" = -1
+	"Qiao #0" = -1
+	"Shidé #0" = 0
+	"Siwen #0" = 0
+	"Siyì #0" = 0
+	"Tolui #1" = 10
+	"Tudan #0" = -1
+	"Tumen #1" = 10
+	"Xuánjing #0" = 0
+	"Xuelù #0" = -1
+	"Yuánchao #1" = 10
+	"Yánqìng #0" = 0
+}

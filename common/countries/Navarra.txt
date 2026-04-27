@@ -1,0 +1,137 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 233 58 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	french_caracolle
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Alifonso #1" = 10
+	"Anderkina #0" = -1
+	"Antso #5" = 10
+	"Auctune #0" = 0
+	"Eneko #1" = 10
+	"Facundu #0" = 0
+	"Gartzia #5" = 10
+	"Gontzal #0" = 0
+	"Guterre #0" = 0
+	"Konstantzia #1" = -1
+	"Malik #0" = 0
+	"Manuel #1" = 10
+	"Margarida #0" = -1
+	"Marinha #0" = -1
+	"Munia #0" = -1
+	"Orti #1" = 10
+	"Pero #1" = 10
+	"Sancho #1" = 10
+	"Sibyl #0" = -1
+	"Ubayd Allah #0" = 0
+	"Álvaro #0" = 0
+}
+leader_names = {
+	"Bergera"
+	"Elizalde"
+	"Goyeneche"
+	"Jimeno"
+	"Jiménez de Rada"
+	"Navarro"
+	"Palafox"
+	"Pérez de Zabalza"
+	"de Aguirre"
+	"de Albret"
+	"de Antillón"
+	"de Aranda"
+	"de Armendariz"
+	"de Azagra"
+	"de Azpilcueta"
+	"de Beaumont"
+	"de Beortegui"
+	"de Borbón"
+	"de Carranza"
+	"de Garay"
+	"de Goñi"
+	"de Heredia"
+	"de Hijar"
+	"de Jaso"
+	"de Landívar"
+	"de Salazar"
+	"de Uribe"
+	"de Ursúa"
+	"de Yanguas"
+	"de Zárate"
+}
+ship_names = {
+	"Atlántida"
+	"Conde de Evreux"
+	"Conde de Foix"
+	"Conde de Guenduláin"
+	"Conde de Lerín"
+	"Don Jimeno"
+	"Duque de Armagnac"
+	"Duque de Champaña"
+	"El Agramontés"
+	"El Beaomontés"
+	"El Bearnés"
+	"El Cruzado Navarro"
+	"El Montañés"
+	"El Navarro"
+	"El Salvador"
+	"El Trobador"
+	"El Viñador"
+	"Emperador Hispánico"
+	"Europa"
+	"Mar de Navarra"
+	"Nuestra Sra de Leyre"
+	"Príncipe de Viana"
+	"Reina Juana"
+	"Rey Enrique"
+	"Rey García"
+	"Rey Sancho"
+	"Reyno de Navarra"
+	"Reyno de Pamplona"
+	"San Agustín"
+	"San Andrés"
+	"San Antonio"
+	"San Carlos"
+	"San Enrique"
+	"San Esteban"
+	"San Fermín"
+	"San Francisco"
+	"San Francisco Xabier"
+	"San Gregorio"
+	"San Juan"
+	"San León"
+	"San Miguel Arcángel"
+	"San Raimundo"
+	"San Virila"
+	"Santa Ana"
+	"Santa Catalina"
+	"Santa Juana"
+	"Santa Leonor"
+	"Santísima Trinidad"
+	"Señor de Tudela"
+	"Vasconia"
+}

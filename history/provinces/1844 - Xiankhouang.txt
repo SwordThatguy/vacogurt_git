@@ -1,0 +1,14 @@
+owner = YUE
+controller = YUE
+capital = "Muang Khoun"
+is_city = yes
+culture = central_thai
+religion = confucianism
+trade_goods = grain
+base_tax = 2
+base_production = 3
+base_manpower = 1
+add_core = AYU
+add_core = YUE
+discovered_by = chinese
+discovered_by = indian

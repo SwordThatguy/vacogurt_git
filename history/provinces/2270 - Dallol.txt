@@ -1,0 +1,14 @@
+owner = SON
+controller = SON
+capital = "Say"
+is_city = yes
+culture = mossi
+religion = masmudi
+trade_goods = grain
+fort_15th = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = MSI
+add_core = SON
+discovered_by = sub_saharan

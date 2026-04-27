@@ -1,0 +1,15 @@
+owner = SWE
+controller = SWE
+capital = "Lieksa"
+is_city = yes
+culture = finnish
+religion = catholic
+trade_goods = fur
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = FIN
+add_core = SWE
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

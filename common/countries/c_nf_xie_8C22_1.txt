@@ -1,0 +1,8 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 100 100 100 }
+monarch_names = {
+	"Kuórán #1" = 10
+	"Shènwei #0" = 0
+	"Yuánli #0" = 0
+}

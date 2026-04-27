@@ -1,0 +1,17 @@
+owner = FKN
+controller = FKN
+capital = "Aschaffenburg"
+is_city = yes
+culture = franconian
+religion = catholic
+trade_goods = cloth
+hre = yes
+base_tax = 4
+base_production = 3
+base_manpower = 2
+add_core = FKN
+add_core = WBG
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

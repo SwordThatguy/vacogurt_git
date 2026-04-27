@@ -1,0 +1,83 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 87 92 104 }
+revolutionary_colors = { 0 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Abagha #0" = 0
+	"Ajinai #0" = 0
+	"Asli #0" = -1
+	"Bozçin #0" = -1
+	"Cuibi #0" = -1
+	"Khojin #0" = -1
+	"Kopti #0" = 0
+	"Shige #0" = -1
+	"Sukhrab #0" = 0
+	"Tamachi #0" = 0
+	"Thawi #0" = 0
+	"Tumbinai Setsen #0" = 0
+	"Uzur #0" = 0
+	"Yoshiko #0" = -1
+	"Özlem #0" = -1
+}
+leader_names = {
+	"Altan Unegen"
+	"Altanqai"
+	"Arigh Erdene"
+	"Bayan Vachir"
+	"Bayardai"
+	"Boke Qorchi"
+	"Boketei"
+	"Delger Dash"
+	"Qadancher"
+	"Suren Chinua"
+	"Tegusteni"
+	"Tolui-gene"
+	"Yekedai"
+}
+ship_names = {
+	"Alghu Khan"
+	"Amir Husayn"
+	"Amo Darya"
+	"Baraq Khan"
+	"Chagatai"
+	"Duwa"
+	"Genghis Khan"
+	"Güyük"
+	"Irtysh"
+	"Jagatai Khan"
+	"Mubarak Shah"
+	"Möngke Khan"
+	"Orghina"
+	"Qazan Khan"
+	"Qipchaq"
+	"Qubilai Khan"
+	"Samarqand"
+	"Syr Darya"
+	"Timur i Leng"
+	"Tughlugh Timur"
+	"Yesünto'a"
+	"Ögedai Khan"
+}

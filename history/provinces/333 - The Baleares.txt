@@ -1,0 +1,16 @@
+owner = ARA
+controller = ARA
+capital = "Palma"
+is_city = yes
+culture = catalan
+religion = sunni
+trade_goods = sugar
+base_tax = 1
+base_production = 3
+base_manpower = 3
+add_core = ARA
+add_permanent_claim = VAL
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

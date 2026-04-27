@@ -1,0 +1,13 @@
+owner = SWE
+controller = SWE
+capital = "Åbo"
+is_city = yes
+culture = swedish
+religion = catholic
+trade_goods = grain
+base_tax = 3
+base_production = 2
+base_manpower = 1
+add_core = SWE
+discovered_by = eastern
+discovered_by = western

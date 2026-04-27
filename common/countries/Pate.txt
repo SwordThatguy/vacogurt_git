@@ -1,0 +1,80 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 104 111 208 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	african_western_franchise_warfare
+	bantu_gunpowder_warfare
+	bantu_plains_warfare
+	bantu_tribal_warfare
+	westernized_bantu
+}
+monarch_names = {
+	"Abu-Bakr #0" = 0
+	"Amir #0" = 0
+	"Athman #1" = 10
+	"Awe #0" = 0
+	"Baraka #0" = 0
+	"Hamar #0" = 0
+	"Hoodo #0" = -1
+	"Ishaq #1" = 10
+	"Khalaf #0" = 0
+	"Leyla #0" = -1
+	"Mbarak #1" = 10
+	"Mohamed #1" = 10
+	"Nahwi #0" = 0
+	"Nuru #0" = -1
+	"Omari #1" = 10
+	"Rasa #0" = -1
+	"Sehnaz #0" = -1
+	"Umar #0" = 0
+	"Yusuf #1" = 10
+	"Zuber #1" = 10
+	"Zuberi #1" = 10
+}
+leader_names = {
+	"Dato"
+	"Jumbe"
+	"Kawawe"
+	"Salim"
+	"Semid"
+	"Setia"
+	"Sokoine"
+	"Suja"
+	"Wakil"
+	"Yomba"
+}
+ship_names = {
+	"Mlima"
+	"damu"
+	"homu"
+	"jua"
+	"maji"
+	"mbwa"
+	"mnyama"
+	"moshi"
+	"moto"
+	"mwezi"
+	"ndege"
+	"nyoka"
+	"nyota"
+	"samaki"
+	"ua"
+	"ukungu"
+}

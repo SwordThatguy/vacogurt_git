@@ -1,0 +1,17 @@
+owner = YUE
+controller = YUE
+capital = "Huangzhou"
+is_city = yes
+culture = hubei
+religion = buddhism
+trade_goods = grain
+base_tax = 5
+base_production = 3
+base_manpower = 3
+add_core = CXI
+add_core = YUE
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

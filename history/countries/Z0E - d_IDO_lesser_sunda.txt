@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = moluccan
+capital = 633
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Meuligoe"
+		dynasty = "Nipa"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1389.1.6
+		female = yes
+		religion = hinduism
+		culture = moluccan
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Semada"
+		monarch_name = "Semada"
+		dynasty = "Cendana"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1417.9.23
+		death_date = 1482.9.23
+		claim = 89
+		religion = hinduism
+		culture = moluccan
+	}
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = industrious_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 30
+}

@@ -1,0 +1,170 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 132 97 138 }
+revolutionary_colors = { 8 16 8 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalaïda #0" = -1
+	"Adelaida #0" = -1
+	"Alifonso #1" = 10
+	"Anna #0" = -1
+	"Arnaut #0" = 0
+	"Aubrey #0" = 0
+	"Aufrica #0" = -1
+	"Bermond #0" = 0
+	"Clara #0" = -1
+	"Clemència #0" = -1
+	"Faghissa #0" = -1
+	"Felip #0" = 0
+	"Florènç #0" = 0
+	"Frédéric #0" = 0
+	"Gautier #0" = 0
+	"Girvais #0" = 0
+	"Godafres #0" = 0
+	"Ioulanda #0" = -1
+	"Jaufret #0" = 0
+	"Margaret #0" = -1
+	"Margarida #0" = -1
+	"Mark #0" = 0
+	"Mussa #1" = 10
+	"Muza #1" = 10
+	"Pèire #1" = 10
+	"Tifilwit #0" = 0
+	"Ximena #0" = -1
+	"Yahya #1" = 10
+	"Yunes #1" = 10
+}
+leader_names = {
+	"Alemany"
+	"Ametller"
+	"Amic"
+	"Barceló"
+	"Blanc"
+	"Canals"
+	"Casanovas"
+	"Casaus"
+	"Dalmau"
+	"Desplà"
+	"Destorrent"
+	"Domènec"
+	"Ferrer"
+	"Folc de Cardona"
+	"Fontana"
+	"Gallart"
+	"Gassol"
+	"Gisbert"
+	"Graner"
+	"Guimet"
+	"Lleixà"
+	"Llull"
+	"Moragues"
+	"Muntaner"
+	"Nadal"
+	"Pallarès"
+	"Pinós"
+	"Piquer"
+	"Pons"
+	"Rasquí"
+	"Ribalta"
+	"Rifós"
+	"Ripio"
+	"Salavert"
+	"Tamarit"
+	"Vallès"
+	"Vergós"
+	"Vilamarí"
+	"Vilaplana"
+	"de Balaguer"
+	"de Grau"
+	"de Guimerà"
+	"de Margarit"
+	"de Montcada"
+	"de Mur"
+	"de Ripoll"
+	"de Subirats"
+	"de Vivar"
+	"de la Riba"
+	"d’Espés"
+	"d’Oms"
+}
+ship_names = {
+	"Alerta"
+	"Blanca Aurora"
+	"Catalunya"
+	"Ceres"
+	"Constança"
+	"Eclipsi"
+	"Empordà"
+	"Falcó"
+	"Flama"
+	"Invencible"
+	"Jaume el Conqueridor"
+	"Juno"
+	"La Bonaventura"
+	"La Garsa"
+	"La Gasela"
+	"La Reial"
+	"Lleona"
+	"Magnana"
+	"Mart"
+	"Roger de Flor"
+	"Roger de Llúria"
+	"Sant Ambrós"
+	"Sant Antoni"
+	"Sant Bernat"
+	"Sant Climent"
+	"Sant Ferran"
+	"Sant Francesc"
+	"Sant Gabriel"
+	"Sant Jacob"
+	"Sant Joan Baptista"
+	"Sant Joan Evangelista"
+	"Sant Jordi"
+	"Sant Miquel"
+	"Sant Pere de Roma"
+	"Sant Víctor"
+	"Santa Bàrbara"
+	"Santa Caterina"
+	"Santa Coloma"
+	"Santa Creu"
+	"Santa Eulàlia"
+	"Santa Magdalena"
+	"Santa Maria"
+	"Santa Ventura"
+	"Santa Ágata"
+	"Santíssima Trinitat"
+	"Sobirà"
+	"Sorpresa"
+	"Telèmac"
+	"Temerària"
+	"Terrible"
+	"Trinitat"
+	"Verge de Montserrat"
+	"Verge de les Neus"
+	"Verge del Carme"
+	"Vigilant"
+}

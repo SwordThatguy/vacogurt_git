@@ -1,0 +1,171 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 213 132 76 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aldedramn #1" = 10
+	"Amalberga #0" = -1
+	"Berengar #1" = 10
+	"Berenguer Ramon #2" = 10
+	"Bermond #0" = 0
+	"Bernat #1" = 10
+	"Berà #1" = 10
+	"Borrell #1" = 10
+	"Bérard #2" = 10
+	"Ermenerda #0" = -1
+	"Gausfred #1" = 10
+	"Guifred #1" = 10
+	"Guifré #1" = 10
+	"Guilhelm #1" = 10
+	"Guinidilda #0" = -1
+	"Harun #1" = 10
+	"Hunifred #1" = 10
+	"Isembard #1" = 10
+	"Mahalta #1" = -1
+	"Matruh #1" = 10
+	"Miró #1" = 10
+	"Odelric #1" = 10
+	"Pere-Amat #1" = 10
+	"Ramon Berenguer #5" = 10
+	"Ramon Borrell #1" = 10
+	"Rampon #1" = 10
+	"Roger #0" = 0
+	"Sadun #1" = 10
+	"Suleyman #1" = 10
+	"Sunifred #1" = 10
+	"Sunyer #1" = 10
+}
+leader_names = {
+	"Alemany"
+	"Ametller"
+	"Amic"
+	"Barceló"
+	"Blanc"
+	"Canals"
+	"Casanovas"
+	"Casaus"
+	"Dalmau"
+	"Desplà"
+	"Destorrent"
+	"Domènec"
+	"Ferrer"
+	"Folc de Cardona"
+	"Fontana"
+	"Gallart"
+	"Gassol"
+	"Gisbert"
+	"Graner"
+	"Guimet"
+	"Lleixà"
+	"Llull"
+	"Moragues"
+	"Muntaner"
+	"Nadal"
+	"Pallarès"
+	"Pinós"
+	"Piquer"
+	"Pons"
+	"Rasquí"
+	"Ribalta"
+	"Rifós"
+	"Ripio"
+	"Salavert"
+	"Tamarit"
+	"Vallès"
+	"Vergós"
+	"Vilamarí"
+	"Vilaplana"
+	"de Balaguer"
+	"de Grau"
+	"de Guimerà"
+	"de Margarit"
+	"de Montcada"
+	"de Mur"
+	"de Ripoll"
+	"de Subirats"
+	"de la Riba"
+	"d’Espés"
+	"d’Oms"
+}
+ship_names = {
+	"Alerta"
+	"Blanca Aurora"
+	"Catalunya"
+	"Ceres"
+	"Constança"
+	"Eclipsi"
+	"Empordà"
+	"Falcó"
+	"Flama"
+	"Invencible"
+	"Jaume el Conqueridor"
+	"Juno"
+	"La Bonaventura"
+	"La Garsa"
+	"La Gasela"
+	"La Reial"
+	"Lleona"
+	"Magnana"
+	"Mart"
+	"Roger de Flor"
+	"Roger de Llúria"
+	"Sant Ambrós"
+	"Sant Antoni"
+	"Sant Bernat"
+	"Sant Climent"
+	"Sant Ferran"
+	"Sant Francesc"
+	"Sant Gabriel"
+	"Sant Jacob"
+	"Sant Joan Baptista"
+	"Sant Joan Evangelista"
+	"Sant Jordi"
+	"Sant Miquel"
+	"Sant Pere de Roma"
+	"Sant Víctor"
+	"Santa Bàrbara"
+	"Santa Caterina"
+	"Santa Coloma"
+	"Santa Creu"
+	"Santa Eulàlia"
+	"Santa Magdalena"
+	"Santa Maria"
+	"Santa Ventura"
+	"Santa Ágata"
+	"Santíssima Trinitat"
+	"Sobirà"
+	"Sorpresa"
+	"Telèmac"
+	"Temerària"
+	"Terrible"
+	"Trinitat"
+	"Verge de Montserrat"
+	"Verge de les Neus"
+	"Verge del Carme"
+	"Vigilant"
+}

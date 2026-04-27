@@ -1,0 +1,14 @@
+owner = SON
+controller = SON
+capital = "Birnin Yawuri"
+is_city = yes
+culture = hausa
+religion = shamanism
+trade_goods = coffee
+fort_15th = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = HAU
+add_core = SON
+discovered_by = sub_saharan

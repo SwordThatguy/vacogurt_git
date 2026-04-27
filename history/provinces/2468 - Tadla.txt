@@ -1,0 +1,15 @@
+owner = MRK
+controller = MRK
+capital = "Tadla"
+is_city = yes
+culture = moroccan
+religion = masmudi
+trade_goods = copper
+base_tax = 1
+base_production = 4
+base_manpower = 2
+add_core = MOR
+add_core = MRK
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

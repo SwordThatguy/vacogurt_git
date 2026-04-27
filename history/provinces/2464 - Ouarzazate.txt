@@ -1,0 +1,15 @@
+owner = TFL
+controller = TFL
+capital = "Ouarzazate"
+is_city = yes
+culture = moroccan
+religion = masmudi
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = MOR
+add_core = TFL
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,141 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 67 124 181 }
+revolutionary_colors = { 6 8 6 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ahavamalla #1" = 10
+	"Airamadeva #1" = 10
+	"Alkan #0" = 0
+	"Amara #1" = 10
+	"Amaragangeyya #1" = 10
+	"Ayanna #0" = 0
+	"Bahman #0" = 0
+	"Ballala #1" = 10
+	"Belour #0" = -1
+	"Bhillama #4" = 10
+	"Busah #0" = -1
+	"Dhadiyappa #2" = 10
+	"Dridhaprahara #1" = 10
+	"Gangambika #0" = -1
+	"Giv #0" = 0
+	"Gordiya #0" = 0
+	"Govindaraja #1" = 10
+	"Gwejda #0" = -1
+	"Housyar #0" = 0
+	"Human #0" = 0
+	"Jahangir #1" = 10
+	"Kamshad #0" = 0
+	"Kavoos #1" = 10
+	"Kourash #0" = 0
+	"Mahidevi #0" = -1
+	"Mallugi #2" = 10
+	"Nava #0" = -1
+	"Nuh #1" = 10
+	"Omaid #0" = 0
+	"Omesh #1" = 10
+	"Pagzman #0" = 0
+	"Parwana #0" = -1
+	"Ramabai #0" = -1
+	"Sankama #1" = 10
+	"Sapedah #0" = -1
+	"Seunachandra #2" = 10
+	"Shahzadah #0" = -1
+	"Shivamara #0" = 0
+	"Singhana #1" = 10
+	"Srivikrama #0" = 0
+	"Vadugi #1" = 10
+	"Vesugi #2" = 10
+}
+leader_names = {
+	"Aher"
+	"Bhat"
+	"Bhoit"
+	"Bhonsle"
+	"Chavan"
+	"Dabhad"
+	"Gaikwad"
+	"Gujar"
+	"Holkar"
+	"Jadhav"
+	"Jagtap"
+	"Kadam"
+	"Kate"
+	"Kaushal"
+	"Khursh"
+	"Krishnamma"
+	"Lolaksi"
+	"Malusare"
+	"Maruthi"
+	"Moit"
+	"Moray"
+	"Nagaraj"
+	"Narsala"
+	"Nikam"
+	"Nimbalk"
+	"Palkar"
+	"Pawar"
+	"Ramiah"
+	"Rane"
+	"Satavahana"
+	"Sawant"
+	"Shinde"
+	"Shirke"
+	"Yadava"
+}
+ship_names = {
+	"Agni"
+	"Bhim"
+	"Brahma"
+	"Devi"
+	"Durga"
+	"Ganesh"
+	"Gayatri"
+	"Hanumaun"
+	"Indra"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali"
+	"Krishna"
+	"Kubera"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Shiva"
+	"Sita"
+	"Soma"
+	"Surya"
+	"Varuna"
+	"Vayu"
+	"Vishnu"
+	"Yama"
+}

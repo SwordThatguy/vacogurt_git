@@ -1,0 +1,17 @@
+owner = FEZ
+controller = FEZ
+capital = "Melilla"
+is_city = yes
+culture = moroccan
+religion = masmudi
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = FEZ
+add_core = MOR
+add_permanent_claim = Z24
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

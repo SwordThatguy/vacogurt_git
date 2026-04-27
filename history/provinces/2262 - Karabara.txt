@@ -1,0 +1,13 @@
+owner = GUR
+controller = GUR
+capital = "Karabara"
+is_city = yes
+culture = songhai
+religion = masmudi
+trade_goods = fish
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = GUR
+add_permanent_claim = SON
+discovered_by = sub_saharan

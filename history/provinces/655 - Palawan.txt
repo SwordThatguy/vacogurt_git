@@ -1,0 +1,14 @@
+owner = Z36
+controller = Z36
+capital = "Palawan"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = sugar
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = SUL
+add_core = Z0H
+add_core = Z36
+discovered_by = chinese

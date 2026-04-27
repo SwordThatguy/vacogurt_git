@@ -1,0 +1,14 @@
+owner = BJA
+controller = BJA
+capital = "Kargopol"
+is_city = yes
+culture = novgorodian
+religion = orthodox
+trade_goods = naval_supplies
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = BJA
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

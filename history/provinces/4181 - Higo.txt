@@ -1,0 +1,17 @@
+owner = JAP
+controller = JAP
+capital = "Kumamoto"
+is_city = yes
+culture = kyushuan
+religion = shinto
+trade_goods = fish
+base_tax = 7
+base_production = 2
+base_manpower = 7
+add_core = JAP
+add_core = OTM
+discovered_by = KHA
+discovered_by = MCH
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = chinese

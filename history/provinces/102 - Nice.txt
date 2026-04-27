@@ -1,0 +1,16 @@
+owner = ARA
+controller = ARA
+capital = "Nice"
+is_city = yes
+culture = occitain
+religion = catholic
+trade_goods = fish
+base_tax = 7
+base_production = 4
+base_manpower = 5
+add_core = ARA
+add_core = PRO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

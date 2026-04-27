@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 217 144 88 }
+revolutionary_colors = { 13 10 5 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Akhsitan #0" = 0
+	"Alp Arslan #1" = 10
+	"Anushirvan Sharaf #3" = 10
+	"Ardashir #1" = 10
+	"Arslan Shah #1" = 10
+	"Ayse #0" = -1
+	"Berkyaruq #1" = 10
+	"Bisutun #1" = 10
+	"Bozorg #0" = 0
+	"Ceylan #0" = -1
+	"Dabuya #1" = 10
+	"Dadhburzmihr #1" = 10
+	"Dawud #1" = 10
+	"Farrukhan #1" = 10
+	"Gavbarih #1" = 10
+	"Ghazi Rustam #1" = 10
+	"Gulçiçek #0" = -1
+	"Gunduz #1" = 10
+	"Hasan #1" = 10
+	"Hormazd #1" = 10
+	"Inanch Yabghu #1" = 10
+	"Irge #0" = -1
+	"Khurshid #1" = 10
+	"Leyla #0" = -1
+	"Mahmud #2" = 10
+	"Malik Shah #2" = 10
+	"Manuchihr #1" = 10
+	"Mardavij #1" = 10
+	"Mas'ud #1" = 10
+	"Mohammed #1" = 10
+	"Muhammed #1" = 10
+	"Mustafa #0" = 0
+	"Niki #0" = -1
+	"Qabus #2" = 10
+	"Ramazan #1" = 10
+	"Sorkhab #1" = 10
+	"Togli #0" = 0
+	"Togrul #1" = 10
+	"Vushmgir #1" = 10
+}
+leader_names = {
+	"Ardashir"
+	"Buzurg"
+	"Dabuya"
+	"Dadhburzmihr"
+	"Farrukhan"
+	"Hassan"
+	"Kamal"
+	"Khurshid"
+	"Kiya"
+	"Mazyar"
+	"Qarin"
+	"Quhyar"
+	"Rida"
+	"Rustam"
+	"Shahriyar"
+	"Vindadhhurmuzd"
+}
+ship_names = {
+	"Amol"
+	"Ardashir"
+	"Astarabad"
+	"Chalus"
+	"Farim"
+	"Kelar"
+	"Lahican"
+	"Mazyar"
+	"Natel"
+	"Rustam"
+	"Vindadhhurmuzd"
+}

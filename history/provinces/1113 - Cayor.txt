@@ -1,0 +1,19 @@
+owner = Z1N
+controller = Z1N
+capital = "Mboul"
+is_city = yes
+culture = senegambian
+religion = sunni
+trade_goods = slaves
+base_tax = 2
+base_production = 1
+base_manpower = 1
+extra_cost = 10
+add_core = Z1N
+add_core = Z2S
+add_permanent_claim = KBU
+discovered_by = sub_saharan
+add_permanent_province_modifier = {
+	name = senegal_estuary_modifier
+	duration = -1
+}

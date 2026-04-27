@@ -1,0 +1,15 @@
+owner = BYZ
+controller = BYZ
+capital = "Mytilene"
+is_city = yes
+culture = anatolian
+religion = orthodox
+trade_goods = fish
+base_tax = 4
+base_production = 3
+base_manpower = 2
+add_core = BYZ
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

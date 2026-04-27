@@ -1,0 +1,14 @@
+owner = OYO
+controller = OYO
+capital = "Ife Ile"
+is_city = yes
+culture = yorumba
+religion = masmudi
+trade_goods = glass
+fort_15th = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = OYO
+discovered_by = sub_saharan
+add_province_triggered_modifier = city_of_401_deities

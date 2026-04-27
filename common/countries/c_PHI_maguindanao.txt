@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 228 164 0 }
+monarch_names = {
+	"Buisan #1" = 10
+	"Dani #1" = 10
+	"Lilo #1" = 10
+	"Linampas #0" = 0
+	"Parang #1" = 10
+	"Putri #0" = -1
+	"Salamat #0" = -1
+	"Silongan #1" = 10
+}

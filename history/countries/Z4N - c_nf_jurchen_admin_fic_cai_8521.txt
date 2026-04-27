@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = confucianism
+primary_culture = khitan
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 50
+	add_treasury = -14
+}

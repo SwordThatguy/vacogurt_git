@@ -1,0 +1,15 @@
+owner = Z1X
+controller = Z1X
+capital = "Lobi"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = gold
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = Z1X
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

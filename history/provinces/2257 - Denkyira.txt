@@ -1,0 +1,15 @@
+owner = ASH
+controller = ASH
+capital = "Dunkwa"
+is_city = yes
+culture = aka
+religion = shamanism
+trade_goods = coffee
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = ASH
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

@@ -1,0 +1,16 @@
+owner = CHP
+controller = CHP
+capital = "Charolles"
+is_city = yes
+culture = burgundian
+religion = catholic
+trade_goods = salt
+fort_15th = yes
+base_tax = 6
+base_production = 4
+base_manpower = 4
+add_core = CHP
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

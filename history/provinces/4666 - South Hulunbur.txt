@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+capital = "Barag"
+is_city = yes
+culture = mongol
+religion = buddhism
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAP
+discovered_by = chinese
+discovered_by = nomad_group

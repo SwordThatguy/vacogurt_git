@@ -1,0 +1,15 @@
+owner = ARA
+controller = ARA
+capital = "Castellon"
+is_city = yes
+culture = catalan
+religion = catholic
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = ARA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

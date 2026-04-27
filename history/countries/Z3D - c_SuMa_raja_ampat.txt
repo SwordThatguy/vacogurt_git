@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = moluccan
+capital = 1245
+fixed_capital = 1245
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Sulung"
+		dynasty = "Waigeo"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1395.4.24
+		religion = hinduism
+		culture = moluccan
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = careful_personality
+	queen = {
+		name = "Mahsuri"
+		dynasty = "Tidore"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z3D
+		birth_date = 1400.6.22
+		death_date = 1460.6.22
+		female = yes
+		religion = animism
+		culture = moluccan
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Bongsu"
+		monarch_name = "Bongsu III"
+		dynasty = "Waigeo"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1422.10.1
+		death_date = 1487.10.1
+		claim = 89
+		religion = hinduism
+		culture = moluccan
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 51
+	add_treasury = 60
+}

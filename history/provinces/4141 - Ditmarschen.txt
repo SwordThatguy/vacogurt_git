@@ -1,0 +1,16 @@
+owner = DTT
+capital = "Meldorf"
+is_city = yes
+culture = lower_saxon
+religion = catholic
+trade_goods = grain
+hre = yes
+base_tax = 1
+base_production = 3
+base_manpower = 2
+add_core = DTT
+add_core = HAN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

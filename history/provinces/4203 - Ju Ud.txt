@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+capital = "Ulanhad"
+is_city = yes
+culture = dynamic-khitan-culture-num2
+religion = vajrayana
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAP
+discovered_by = chinese
+discovered_by = nomad_group

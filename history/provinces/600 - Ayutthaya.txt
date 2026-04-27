@@ -1,0 +1,15 @@
+owner = Z00
+controller = Z00
+capital = "Ayutthaya"
+is_city = yes
+culture = dynamic-mon-central_thai-culture-num1
+religion = mahayana
+trade_goods = ivory
+base_tax = 3
+base_production = 3
+base_manpower = 2
+extra_cost = 16
+center_of_trade = 2
+add_core = Z00
+discovered_by = chinese
+discovered_by = indian

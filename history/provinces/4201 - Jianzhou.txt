@@ -1,0 +1,14 @@
+owner = JAP
+controller = JAP
+capital = "Jianzhou"
+is_city = yes
+culture = dynamic-khitan-culture-num3
+religion = mahayana
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAP
+discovered_by = chinese
+discovered_by = nomad_group
+add_province_triggered_modifier = changbai_mountain

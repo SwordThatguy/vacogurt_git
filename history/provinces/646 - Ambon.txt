@@ -1,0 +1,17 @@
+owner = Z0J
+controller = Z0J
+capital = "Ambon"
+is_city = yes
+culture = moluccan
+religion = animism
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = TER
+add_core = Z0J
+discovered_by = chinese
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

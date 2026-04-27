@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 100 100 100 }
+monarch_names = {
+	"Bahei #0" = 0
+	"Bulo #0" = 0
+	"Hezhenbao #0" = 0
+	"Julæ #1" = 10
+	"Mapo #0" = 0
+	"Tunggi #1" = -1
+	"Wòtèla #1" = 10
+	"Yansun #0" = 0
+	"Yongle #0" = -1
+	"Zhaolie #0" = 0
+	"Çilen #0" = -1
+}

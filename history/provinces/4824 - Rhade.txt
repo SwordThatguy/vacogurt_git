@@ -1,0 +1,15 @@
+owner = KHM
+controller = KHM
+capital = "Rhade"
+is_city = yes
+culture = khmer
+religion = hinduism
+trade_goods = copper
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

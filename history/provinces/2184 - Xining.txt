@@ -1,0 +1,16 @@
+owner = YUE
+controller = YUE
+capital = "Xining"
+is_city = yes
+culture = xibei
+religion = confucianism
+trade_goods = salt
+fort_15th = yes
+base_tax = 3
+base_production = 2
+base_manpower = 1
+add_core = CSH
+add_core = YUE
+add_permanent_claim = Z01
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,17 @@
+owner = SAV
+controller = SAV
+capital = "Bourg-en-Bresse"
+is_city = yes
+culture = arpitan
+religion = catholic
+trade_goods = cloth
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 4
+add_core = DAU
+add_core = SAV
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,16 @@
+owner = Z00
+controller = Z00
+capital = "Suphanburi"
+is_city = yes
+culture = central_thai
+religion = mahayana
+trade_goods = grain
+base_tax = 2
+base_production = 3
+base_manpower = 1
+add_core = AYU
+add_core = Z00
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

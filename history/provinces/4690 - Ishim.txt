@@ -1,0 +1,13 @@
+owner = GLH
+controller = GLH
+capital = "Ishim"
+is_city = yes
+culture = ostyaki
+religion = siberian_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = GLH
+add_core = YUG
+discovered_by = nomad_group

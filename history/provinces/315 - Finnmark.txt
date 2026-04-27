@@ -1,0 +1,14 @@
+owner = NOR
+controller = NOR
+capital = "Vardø"
+is_city = yes
+culture = norwegian
+religion = catholic
+trade_goods = fish
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = NOR
+add_permanent_claim = SMI
+discovered_by = eastern
+discovered_by = western

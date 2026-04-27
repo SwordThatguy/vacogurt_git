@@ -1,0 +1,16 @@
+owner = Z0D
+controller = Z0D
+capital = "Kuching"
+is_city = yes
+culture = dayak
+religion = mahayana
+trade_goods = fish
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z0D
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

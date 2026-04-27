@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 2
+technology_group = chinese
+religion = buddhism
+primary_culture = manchu
+capital = 4659
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Fanca"
+		dynasty = "Giahuna"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1416.5.14
+		religion = buddhism
+		culture = manchu
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = greedy_personality
+	queen = {
+		name = "Mædæri"
+		dynasty = "Tugiali"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z02
+		birth_date = 1416.11.15
+		death_date = 1476.11.15
+		female = yes
+		religion = buddhism
+		culture = manchu
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Ašïngha"
+		monarch_name = "Ašïngha"
+		dynasty = "Giahuna"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1442.12.10
+		death_date = 1507.12.10
+		claim = 89
+		religion = buddhism
+		culture = manchu
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 52
+}

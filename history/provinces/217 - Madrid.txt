@@ -1,0 +1,16 @@
+owner = Z2G
+controller = Z2G
+capital = "Madrid"
+is_city = yes
+culture = castillian
+religion = catholic
+trade_goods = cloth
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = Z2G
+add_permanent_claim = CAS
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

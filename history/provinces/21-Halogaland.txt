@@ -1,0 +1,14 @@
+owner = NOR
+controller = NOR
+capital = "Steig"
+is_city = yes
+culture = norwegian
+religion = catholic
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = NOR
+add_permanent_claim = SMI
+discovered_by = eastern
+discovered_by = western

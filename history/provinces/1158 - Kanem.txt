@@ -1,0 +1,14 @@
+owner = AIR
+controller = AIR
+capital = "Ngala"
+is_city = yes
+culture = kanuri
+religion = sunni
+trade_goods = paper
+base_tax = 2
+base_production = 1
+base_manpower = 1
+extra_cost = 8
+center_of_trade = 1
+add_core = AIR
+discovered_by = sub_saharan

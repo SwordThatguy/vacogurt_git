@@ -1,0 +1,13 @@
+owner = KHM
+controller = KHM
+capital = "Champasak"
+is_city = yes
+culture = khmer
+religion = mahayana
+trade_goods = tea
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

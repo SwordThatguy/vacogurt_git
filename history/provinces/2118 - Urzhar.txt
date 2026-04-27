@@ -1,0 +1,15 @@
+owner = CHG
+controller = CHG
+capital = "Urzhar"
+is_city = yes
+culture = khitan
+religion = mahayana
+trade_goods = salt
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = CHG
+add_core = LIO
+discovered_by = chinese
+discovered_by = nomad_group

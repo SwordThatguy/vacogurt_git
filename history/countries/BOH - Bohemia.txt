@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = czech
+capital = 266
+elector = yes
+1444.11.11= {
+	monarch = {
+		name = "Sobeslav"
+		dynasty = "Premyslid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1383.8.31
+		religion = catholic
+		culture = czech
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Margarete"
+		dynasty = "Askanien"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = BOH
+		birth_date = 1396.11.19
+		death_date = 1456.11.19
+		female = yes
+		religion = catholic
+		culture = saxon
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Bedrich"
+		monarch_name = "Bedrich"
+		dynasty = "Premyslid"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1383.10.17
+		death_date = 1448.10.17
+		claim = 89
+		religion = catholic
+		culture = czech
+	}
+	add_heir_personality = entrepreneur_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 97
+	add_treasury = 81
+}

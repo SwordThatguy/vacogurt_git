@@ -1,0 +1,14 @@
+owner = Z02
+controller = Z02
+capital = "Kuru"
+is_city = yes
+culture = manchu
+religion = buddhism
+trade_goods = naval_supplies
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = MJZ
+add_core = Z02
+discovered_by = chinese
+discovered_by = nomad_group

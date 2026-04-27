@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 36 109 194 }
+revolutionary_colors = { 9 5 9 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Anula #0" = -1
+	"Anuridi #0" = -1
+	"Bakht #0" = 0
+	"Bhuvanekabahu #0" = 0
+	"Budhagupta #1" = 10
+	"Chandragupta #2" = 10
+	"Dappula #0" = 0
+	"Dasharathadeva #0" = 0
+	"Dathopatissa #0" = 0
+	"Dhamika #0" = -1
+	"Digakassapa #0" = 0
+	"Kumaragupta #3" = 10
+	"Kyawswa #0" = 0
+	"Madhvacharya #0" = 0
+	"Myo Myat #0" = -1
+	"Napha #0" = -1
+	"Narasimhagupta #1" = 10
+	"Purugupta #1" = 10
+	"Purushadata #0" = -1
+	"Samudaguta #0" = -1
+	"Samudragupta #1" = 10
+	"Skandagupta #1" = 10
+	"Tannet #1" = 10
+	"Thuzar #0" = -1
+	"Vikramabahu #0" = 0
+	"Vishnugupta #1" = 10
+	"Yahasaya #0" = -1
+}
+leader_names = {
+	"Azad"
+	"Bose"
+	"Chodhury"
+	"Das"
+	"Debshikdar"
+	"Ganesha"
+	"Ganguly"
+	"Ghosh"
+	"Karani"
+	"Khan"
+	"Majumdar"
+	"Mukerjhee"
+	"Pal"
+	"Roy"
+	"Saraswoti"
+	"Sarkar"
+	"Sen"
+	"Shahi"
+	"Shaikh"
+	"Suri"
+	"Thakur"
+	"Waddedar"
+	"Zamindar"
+	"ad-Daula"
+}
+ship_names = {
+	"Abu Bakr"
+	"Ali Khan"
+	"Bhagirathi"
+	"Brahmaputra"
+	"Chingri Mach"
+	"Chittagong"
+	"Durbar"
+	"Durdasha"
+	"Fatima"
+	"Ganga"
+	"Hilsa Mach"
+	"Hooghly"
+	"Ilish Mach"
+	"Jalangi"
+	"Jasmine"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kolkata"
+	"Lal Nauk"
+	"Machli"
+	"Malda"
+	"Meghna"
+	"Mongla"
+	"Murshidabad"
+	"Nauk-i-Islam"
+	"Nawaber Nauk"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Osman"
+	"Padma"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Shaheed"
+	"Sheikher Nauk"
+	"Sonar Bangladesh"
+	"Sunderboner Bahini"
+	"Sunderboner Nauk"
+	"Tasleema"
+}

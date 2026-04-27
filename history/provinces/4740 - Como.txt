@@ -1,0 +1,16 @@
+owner = ITA
+controller = ITA
+capital = "Como"
+is_city = yes
+culture = lombard
+religion = catholic
+trade_goods = cloth
+base_tax = 1
+base_production = 4
+base_manpower = 2
+add_core = ITA
+add_core = MLO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

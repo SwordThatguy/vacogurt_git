@@ -1,0 +1,13 @@
+owner = BTU
+controller = BTU
+capital = "Caminawit"
+is_city = yes
+culture = filipino
+religion = vajrayana
+trade_goods = gems
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = BTU
+add_core = SUL
+discovered_by = chinese

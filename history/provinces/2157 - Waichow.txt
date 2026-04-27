@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Waichow"
+is_city = yes
+culture = hakka
+religion = confucianism
+trade_goods = grain
+base_tax = 7
+base_production = 2
+base_manpower = 7
+add_core = HUA
+add_core = YUE
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

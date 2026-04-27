@@ -1,0 +1,21 @@
+owner = POR
+controller = POR
+capital = "Sevilla"
+is_city = yes
+culture = dynamic-andalucian-berber-culture-num1
+religion = sunni
+trade_goods = wine
+base_tax = 6
+base_production = 4
+base_manpower = 5
+extra_cost = 26
+center_of_trade = 2
+add_core = POR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = guadiana_estuary_modifier
+	duration = -1
+}

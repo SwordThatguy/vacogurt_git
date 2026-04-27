@@ -1,0 +1,15 @@
+owner = SWI
+capital = "St Gallen"
+is_city = yes
+culture = swiss
+religion = catholic
+trade_goods = livestock
+hre = yes
+base_tax = 4
+base_production = 1
+base_manpower = 2
+add_core = SWI
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

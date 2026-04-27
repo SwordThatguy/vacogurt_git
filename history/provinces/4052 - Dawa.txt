@@ -1,0 +1,17 @@
+owner = Z31
+controller = Z31
+capital = "Dawa"
+is_city = yes
+culture = sidamo
+religion = shamanism
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = KAF
+add_core = Z31
+discovered_by = east_african
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

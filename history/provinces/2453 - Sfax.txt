@@ -1,0 +1,16 @@
+owner = ITA
+controller = ITA
+capital = "Sfax"
+is_city = yes
+culture = tunisian
+religion = catholic
+trade_goods = sugar
+base_tax = 1
+base_production = 3
+base_manpower = 2
+add_core = ITA
+add_core = TUN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

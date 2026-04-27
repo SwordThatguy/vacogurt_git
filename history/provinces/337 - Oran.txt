@@ -1,0 +1,16 @@
+owner = Z0A
+controller = Z0A
+capital = "Oran"
+is_city = yes
+culture = algerian
+religion = masmudi
+trade_goods = cloth
+base_tax = 1
+base_production = 3
+base_manpower = 2
+add_core = ALG
+add_core = Z0A
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,23 @@
+owner = JAP
+controller = JAP
+capital = "Kyoto"
+is_city = yes
+culture = japanese
+religion = buddhism
+trade_goods = silk
+fort_15th = yes
+base_tax = 4
+base_production = 1
+base_manpower = 3
+add_core = JAP
+add_core = MRI
+discovered_by = ANU
+discovered_by = KHA
+discovered_by = MCH
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = chinese
+add_permanent_province_modifier = {
+	name = heian_kyo
+	duration = -1
+}

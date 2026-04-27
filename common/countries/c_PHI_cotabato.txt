@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 197 120 16 }
+monarch_names = {
+	"Binidayan #1" = 10
+	"Botod #1" = 10
+	"Bualan #0" = 0
+	"Bulak #0" = -1
+	"Damasena #0" = -1
+	"Dolangan #1" = 10
+	"Hara #0" = -1
+	"Humabon #1" = 10
+	"Kituka #0" = -1
+	"Lapu #1" = 10
+	"Linampas #0" = 0
+	"Lubay #0" = 0
+	"Marantao #0" = 0
+	"Pagbuaya #0" = 0
+	"Prithviraj #0" = 0
+	"Pula #1" = 10
+	"Sula #0" = -1
+	"Tunina #0" = -1
+}

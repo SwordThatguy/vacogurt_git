@@ -1,0 +1,15 @@
+owner = EST
+controller = EST
+capital = "Reval"
+is_city = yes
+culture = estonian
+religion = catholic
+trade_goods = grain
+fort_15th = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+center_of_trade = 1
+add_core = EST
+discovered_by = eastern
+discovered_by = western

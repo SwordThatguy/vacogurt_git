@@ -1,0 +1,72 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 40 75 175 }
+revolutionary_colors = { 4 0 13 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	shaybani
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Bizhan #0" = -1
+	"Chadan #0" = -1
+	"Gulçiçek #0" = -1
+	"Gundes #0" = -1
+	"Ishaq #1" = 10
+	"Ituk #0" = 0
+	"Könçek #1" = 10
+	"Mala #0" = -1
+	"Muhammad #3" = 10
+	"Muhmud #0" = 0
+	"Nasr #1" = 10
+	"Roshanora #0" = -1
+	"Roudabeh #0" = -1
+	"Sencer #0" = 0
+	"Sevilay #0" = -1
+	"Törtogul #0" = 0
+}
+leader_names = {
+	"Alim"
+	"Bachi"
+	"Bahadur"
+	"Erdeni"
+	"Khudayar"
+	"Malla"
+	"Murad"
+	"Quli"
+	"Tura"
+}
+ship_names = {
+	"Alajskij Chrebet"
+	"Amu Darja"
+	"Besharik"
+	"Fergana"
+	"Khamza"
+	"Khavakend"
+	"Kuva"
+	"Kuvasay"
+	"Margilan"
+	"Nar"
+	"Rishdan"
+	"Syr Darja"
+	"Uzeravsan"
+}

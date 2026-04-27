@@ -1,0 +1,15 @@
+owner = Z00
+controller = Z00
+capital = "Battambang"
+is_city = yes
+culture = khmer
+religion = hinduism
+trade_goods = ivory
+fort_15th = yes
+base_tax = 2
+base_production = 3
+base_manpower = 1
+add_core = Z00
+add_permanent_claim = KHM
+discovered_by = chinese
+discovered_by = indian

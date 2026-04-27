@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = masmudi
+primary_culture = berber
+capital = 218
+religious_school = shafii_school
+add_accepted_culture = andalucian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Mussa II"
+		dynasty = "Mu'minid"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1400.3.7
+		religion = masmudi
+		culture = berber
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Adiva"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = Z1Z
+		birth_date = 1398.11.15
+		death_date = 1458.11.15
+		female = yes
+		religion = masmudi
+		culture = berber
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "H'emmu"
+		monarch_name = "H'emmu"
+		dynasty = "Mu'minid"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1404.2.6
+		death_date = 1469.2.6
+		claim = 89
+		religion = masmudi
+		culture = berber
+	}
+	add_heir_personality = martial_educator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 45
+}

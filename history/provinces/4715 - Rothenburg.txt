@@ -1,0 +1,16 @@
+owner = ANS
+controller = ANS
+capital = "Rothenburg ob der Tauber"
+is_city = yes
+culture = dynamic-franconian-culture-num1
+religion = catholic
+trade_goods = grain
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = ANS
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

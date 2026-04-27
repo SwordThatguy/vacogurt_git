@@ -1,0 +1,14 @@
+owner = Z16
+controller = Z16
+capital = "Ih Huree"
+is_city = yes
+culture = kirgiz
+religion = tengri_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z16
+add_permanent_claim = KHA
+discovered_by = chinese
+discovered_by = nomad_group

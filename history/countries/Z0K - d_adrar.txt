@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = masmudi
+primary_culture = berber
+capital = 1111
+religious_school = shafii_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Magsen"
+		dynasty = "Lamta"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1423.6.30
+		religion = masmudi
+		culture = berber
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Su'ad"
+		dynasty = "Antequerid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z0K
+		birth_date = 1421.12.11
+		death_date = 1481.12.11
+		female = yes
+		religion = sunni
+		culture = andalucian
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yaghmurasen"
+		monarch_name = "Yaghmurasen II"
+		dynasty = "Lamta"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1388.11.10
+		death_date = 1453.11.10
+		claim = 89
+		religion = masmudi
+		culture = berber
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11= {
+	add_prestige = 54
+	add_treasury = 50
+}

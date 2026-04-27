@@ -1,0 +1,14 @@
+owner = Z31
+controller = Z31
+capital = "Fofa"
+is_city = yes
+culture = sidamo
+religion = coptic
+trade_goods = slaves
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = KAF
+add_core = Z31
+discovered_by = east_african
+discovered_by = muslim

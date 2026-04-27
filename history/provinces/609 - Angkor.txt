@@ -1,0 +1,14 @@
+owner = KHM
+controller = KHM
+capital = "Angkor"
+is_city = yes
+culture = khmer
+religion = mahayana
+trade_goods = tropical_wood
+fort_15th = yes
+base_tax = 1
+base_production = 6
+base_manpower = 1
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

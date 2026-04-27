@@ -1,0 +1,13 @@
+owner = ZZZ
+controller = ZZZ
+capital = "Dutsi"
+is_city = yes
+culture = nupe
+religion = sunni
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = NUP
+add_core = ZZZ
+discovered_by = sub_saharan

@@ -1,0 +1,12 @@
+owner = SON
+controller = SON
+capital = "Bilanga"
+is_city = yes
+culture = mali
+religion = masmudi
+trade_goods = grain
+base_tax = 4
+base_production = 1
+base_manpower = 1
+add_core = SON
+discovered_by = sub_saharan

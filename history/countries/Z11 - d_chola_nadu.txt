@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 2085
+religious_school = hanafi_school
+add_accepted_culture = tamil
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Mallikarjuna II"
+		dynasty = "Hoysala-Srirangam"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1401.8.1
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Mahidevi"
+		dynasty = "Paramara-Jhalawar"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z11
+		birth_date = 1381.10.31
+		death_date = 1441.10.31
+		female = yes
+		religion = sunni
+		culture = malvi
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = drunkard_personality
+	heir = {
+		name = "Shahrukh"
+		monarch_name = "Shahrukh"
+		dynasty = "Hoysala-Srirangam"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1422.2.16
+		death_date = 1487.2.16
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 60
+}

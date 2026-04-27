@@ -1,0 +1,16 @@
+owner = ITA
+controller = ITA
+capital = "Arborea"
+is_city = yes
+culture = sardinian
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = ITA
+add_core = SAR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

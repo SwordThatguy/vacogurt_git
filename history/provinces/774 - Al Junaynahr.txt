@@ -1,0 +1,16 @@
+owner = DAR
+controller = DAR
+capital = "Al-Junaynahr"
+is_city = yes
+culture = daju
+religion = coptic
+trade_goods = unknown
+fort_15th = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = DAR
+discovered_by = sub_saharan
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9

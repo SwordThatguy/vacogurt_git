@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 218 147 87 }
+monarch_names = {
+	"Deopali-Deo #0" = 0
+	"Jay-Singh #1" = 10
+	"Kirtipala #0" = 0
+	"Padmini #0" = -1
+	"Parastu #0" = -1
+	"Pratha #0" = -1
+	"Somalladevi #0" = -1
+}

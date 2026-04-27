@@ -1,0 +1,16 @@
+owner = BYZ
+controller = BYZ
+capital = "Agios Georgios"
+is_city = yes
+culture = greek
+religion = orthodox
+trade_goods = wine
+base_tax = 1
+base_production = 3
+base_manpower = 2
+add_core = BYZ
+add_core = GRE
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = SWE
+controller = SWE
+capital = "Mora"
+is_city = yes
+culture = swedish
+religion = catholic
+trade_goods = copper
+base_tax = 1
+base_production = 3
+base_manpower = 2
+extra_cost = 10
+add_core = SWE
+discovered_by = eastern
+discovered_by = western
+add_province_triggered_modifier = stora_kopparberget_modifier

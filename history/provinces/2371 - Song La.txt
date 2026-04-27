@@ -1,0 +1,14 @@
+owner = YUE
+controller = YUE
+capital = "Song La"
+is_city = yes
+culture = vietnamese
+religion = confucianism
+trade_goods = tea
+base_tax = 1
+base_production = 5
+base_manpower = 1
+add_core = DAI
+add_core = YUE
+discovered_by = chinese
+discovered_by = indian

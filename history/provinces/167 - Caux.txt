@@ -1,0 +1,21 @@
+owner = FRA
+controller = FRA
+capital = "Rouen"
+is_city = yes
+culture = normand
+religion = catholic
+trade_goods = glass
+base_tax = 5
+base_production = 3
+base_manpower = 4
+extra_cost = 10
+add_core = FRA
+add_core = NRM
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = seine_estuary_modifier
+	duration = -1
+}

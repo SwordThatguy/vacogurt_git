@@ -1,0 +1,17 @@
+owner = NOV
+controller = NOV
+capital = "Mozhaisk"
+is_city = yes
+culture = russian
+religion = orthodox
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = MOS
+add_core = NOV
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

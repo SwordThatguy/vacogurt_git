@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Xuzhou"
+is_city = yes
+culture = zhongyuan
+religion = confucianism
+trade_goods = iron
+fort_15th = yes
+base_tax = 4
+base_production = 2
+base_manpower = 3
+add_core = LNG
+add_core = YUE
+discovered_by = chinese
+discovered_by = nomad_group

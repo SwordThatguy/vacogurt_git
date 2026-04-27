@@ -1,0 +1,15 @@
+owner = Z38
+controller = Z38
+capital = "Panay"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 1
+extra_cost = 8
+center_of_trade = 1
+add_core = SUL
+add_core = Z38
+discovered_by = chinese

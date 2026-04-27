@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Shiukwan"
+is_city = yes
+culture = hakka
+religion = buddhism
+trade_goods = iron
+fort_15th = yes
+base_tax = 5
+base_production = 3
+base_manpower = 5
+add_core = HUA
+add_core = YUE
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,17 @@
+owner = POL
+controller = POL
+capital = "Mitau"
+is_city = yes
+culture = latvian
+religion = orthodox
+trade_goods = naval_supplies
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = LTG
+add_core = POL
+add_permanent_claim = LIT
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

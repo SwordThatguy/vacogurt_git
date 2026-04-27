@@ -1,0 +1,17 @@
+owner = YUE
+controller = YUE
+capital = "Fuzhou"
+is_city = yes
+culture = chimin
+religion = confucianism
+trade_goods = tea
+fort_15th = yes
+base_tax = 7
+base_production = 3
+base_manpower = 6
+extra_cost = 8
+center_of_trade = 1
+add_core = MIN
+add_core = YUE
+discovered_by = chinese
+discovered_by = nomad_group

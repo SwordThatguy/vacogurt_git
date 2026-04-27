@@ -1,0 +1,165 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 169 26 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adam #0" = 0
+	"Adelchis #1" = 10
+	"Alberic #2" = 10
+	"Alberich #0" = 0
+	"Anscario #1" = 10
+	"Bonifacio #2" = 10
+	"Constància #0" = -1
+	"Ehrenfried #1" = 10
+	"Eliška #0" = -1
+	"Engelbert #1" = 10
+	"Federico #1" = 10
+	"Gerberga #0" = -1
+	"Giselbert #0" = 0
+	"Gotthard #0" = 0
+	"Guy #4" = 10
+	"Hardwin #0" = 0
+	"Heinrich #1" = 10
+	"Hildeprand #1" = 10
+	"Karl #0" = 0
+	"Konrad #3" = 10
+	"Lambert #3" = 10
+	"Liutpold #0" = 0
+	"Lothar #1" = 10
+	"Luitpold #0" = 0
+	"Matilda #2" = -1
+	"Mauring #1" = 10
+	"Radbot #0" = 0
+	"Raniero #1" = 10
+	"Reinhard #0" = 0
+	"Richara #0" = -1
+	"Suppo #2" = 10
+	"Teobaldo #1" = 10
+	"Theodicus #1" = 10
+	"Ubert #2" = 10
+	"Uc #1" = 10
+	"Ulrich #1" = 10
+	"Václav #0" = 0
+	"Walram #0" = 0
+	"Welf #3" = 10
+	"Werner #1" = 10
+}
+leader_names = {
+	"Accoramboni"
+	"Acqua"
+	"Albertini"
+	"Ancaiani"
+	"Arnaldi"
+	"Benedetti"
+	"Bianconi"
+	"Bonavisa"
+	"Bucci di Cave"
+	"Cacciaguerra"
+	"Cadolini"
+	"Campilius"
+	"Canali"
+	"Castrucci"
+	"Claudi"
+	"Collicola"
+	"Corvini"
+	"Croci"
+	"Cybo"
+	"Di Campello"
+	"Eroli"
+	"Facchinetti"
+	"Fantini"
+	"Gaddi"
+	"Gattapone"
+	"Gherardi"
+	"Lanfranco"
+	"Leonio"
+	"Lippi"
+	"Locaetlli"
+	"Maculari"
+	"Marignoli"
+	"Menotti"
+	"Merlini"
+	"Muti"
+	"Paladini"
+	"Pandolfini"
+	"Petruccini"
+	"Pianciani"
+	"Pontano"
+	"Rosario"
+	"Sabbioni"
+	"Sansi"
+	"Sanvitale"
+	"Sardi"
+	"Sbarretti"
+	"Scelli"
+	"Sciamanna"
+	"Sordini"
+	"Vincioli"
+	"Vittori"
+	"Viviari"
+	"Zabolino"
+	"da Teramo"
+	"de Pomis"
+	"de Vigili"
+	"de' Bardi"
+	"de' Bonneval"
+	"de' Conti"
+	"di Campli"
+	"di Lese"
+	"di Montichiello"
+	"di Preneste"
+}
+ship_names = {
+	"Azzano"
+	"Duca Faroaldo"
+	"Egidio Albornoz"
+	"Maddalena"
+	"Monteluco"
+	"Paoluccio"
+	"Ponte Sanguinario"
+	"San Bonaventura"
+	"San Domenico"
+	"San Filippo Neri"
+	"San Gregorio Maggiore"
+	"San Paolo"
+	"San Ponziano"
+	"San Salvatore"
+	"Sant'Ansano"
+	"Sant'Eufemia"
+	"Santa Maria Assunta"
+	"Santa Maria della Manna d'Oro"
+	"Spoletum"
+	"Suor Marina"
+	"Vespasiano"
+	"Zottone"
+	"gaio Melisso"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

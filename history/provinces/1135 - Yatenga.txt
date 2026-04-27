@@ -1,0 +1,13 @@
+owner = GUR
+controller = GUR
+capital = "Gursi"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = livestock
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = GUR
+add_permanent_claim = YAT
+discovered_by = sub_saharan

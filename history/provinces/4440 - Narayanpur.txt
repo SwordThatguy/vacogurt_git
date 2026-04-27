@@ -1,0 +1,15 @@
+owner = BHU
+controller = BHU
+capital = "Narayanpur"
+is_city = yes
+culture = dynamic-assamese-nepali-culture-num1
+religion = confucianism
+trade_goods = tea
+fort_15th = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = BHU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 115 70 70 }
+monarch_names = {
+	"Citaguta #0" = -1
+	"Damadina #0" = -1
+	"Dharmasoka #0" = 0
+	"Gajabahu #1" = 10
+	"Kumaradata #0" = -1
+	"Kusgano #0" = 0
+	"Rajasinha #0" = 0
+	"Rohaka #0" = 0
+	"Vicciyakkan #0" = -1
+	"Viranarendra #0" = 0
+}

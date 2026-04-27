@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+capital = "Andong"
+is_city = yes
+culture = dynamic-khitan-culture-num3
+religion = buddhism
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAP
+discovered_by = chinese
+discovered_by = nomad_group

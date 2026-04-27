@@ -1,0 +1,13 @@
+owner = MAL
+controller = MAL
+capital = "Timbo"
+is_city = yes
+culture = fulani
+religion = sunni
+trade_goods = ivory
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = FUL
+add_core = MAL
+discovered_by = sub_saharan

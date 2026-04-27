@@ -1,0 +1,19 @@
+owner = DAN
+controller = DAN
+capital = "Lund"
+is_city = yes
+culture = danish
+religion = catholic
+trade_goods = fish
+base_tax = 4
+base_production = 3
+base_manpower = 5
+add_core = DAN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = skanemarket
+	duration = -1
+}

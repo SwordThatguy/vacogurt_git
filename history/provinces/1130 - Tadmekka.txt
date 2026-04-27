@@ -1,0 +1,13 @@
+owner = Z08
+controller = Z08
+capital = "Tadmekka al-Suq"
+is_city = yes
+culture = berber
+religion = ibadi
+trade_goods = wool
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = TLC
+add_core = Z08
+discovered_by = sub_saharan

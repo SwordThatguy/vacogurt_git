@@ -1,0 +1,16 @@
+owner = SMB
+controller = SMB
+capital = "Sigalang"
+is_city = yes
+culture = dayak
+religion = hinduism
+trade_goods = gems
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = SMB
+add_permanent_claim = Z0D
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

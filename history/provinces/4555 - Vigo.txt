@@ -1,0 +1,16 @@
+owner = LON
+controller = LON
+capital = "Pontevedra"
+is_city = yes
+culture = galician
+religion = catholic
+trade_goods = fish
+base_tax = 7
+base_production = 4
+base_manpower = 2
+add_core = GAL
+add_core = LON
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

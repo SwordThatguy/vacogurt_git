@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Kengtung"
+is_city = yes
+culture = bai
+religion = confucianism
+trade_goods = tropical_wood
+base_tax = 2
+base_production = 1
+base_manpower = 3
+add_core = CDL
+add_core = YUE
+add_permanent_claim = Z00
+discovered_by = chinese
+discovered_by = indian

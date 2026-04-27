@@ -1,0 +1,15 @@
+owner = Z2L
+controller = Z2L
+capital = "Uliastai"
+is_city = yes
+culture = buryat
+religion = tengri_pagan
+trade_goods = wool
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = BRT
+add_core = Z2L
+add_permanent_claim = KHA
+discovered_by = chinese
+discovered_by = nomad_group

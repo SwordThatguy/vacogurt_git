@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 227 108 3 }
+monarch_names = {
+	"Anula #0" = -1
+	"Anuridi #0" = -1
+	"Bakht #0" = 0
+	"Bhuvanekabahu #0" = 0
+	"Dappula #0" = 0
+	"Dasharathadeva #0" = 0
+	"Dathopatissa #0" = 0
+	"Dhamika #0" = -1
+	"Digakassapa #0" = 0
+	"Kyawswa #0" = 0
+	"Madhvacharya #0" = 0
+	"Myo Myat #0" = -1
+	"Napha #0" = -1
+	"Purushadata #0" = -1
+	"Samudaguta #0" = -1
+	"Tannet #0" = 0
+	"Thuzar #0" = -1
+	"Vikramabahu #0" = 0
+	"Yahasaya #0" = -1
+}

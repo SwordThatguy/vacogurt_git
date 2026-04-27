@@ -1,0 +1,13 @@
+owner = PRM
+controller = PRM
+capital = "Chimgi-Tura"
+is_city = yes
+culture = uralic
+religion = catholic
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 2
+center_of_trade = 1
+add_core = PRM
+discovered_by = nomad_group

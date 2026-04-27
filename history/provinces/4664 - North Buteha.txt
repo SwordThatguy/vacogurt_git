@@ -1,0 +1,14 @@
+owner = JAP
+controller = JAP
+capital = "Oroqen"
+is_city = yes
+culture = khitan
+religion = animism
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAP
+add_core = LIO
+discovered_by = chinese
+discovered_by = nomad_group

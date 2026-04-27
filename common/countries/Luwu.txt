@@ -1,0 +1,86 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 132 133 197 }
+revolutionary_colors = { 10 8 6 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	religious_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Adwaya #0" = 0
+	"Amijaya #0" = -1
+	"Angkasa #0" = 0
+	"Budiman #1" = 10
+	"Dara Jingga #0" = -1
+	"Darmeswara #1" = 10
+	"Dwi #0" = -1
+	"Embun #0" = 0
+	"Hariwangsa #0" = 0
+	"Indrajayasingha #0" = 0
+	"Juwita #0" = -1
+	"Mahinhin #0" = -1
+	"Merdeka #0" = -1
+	"Nilawati #0" = -1
+	"Permata #0" = -1
+	"Purana #0" = 0
+	"Putri #0" = -1
+	"Sasanti #0" = -1
+	"Tong #0" = -1
+	"Tri #0" = -1
+	"Vikramavira #0" = 0
+	"Wahyu #0" = 0
+}
+leader_names = {
+	"Abdulfatah"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamzah"
+	"Hasanuddin"
+	"Ibnu"
+	"Kyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Natzar"
+	"Nazmizan"
+	"Roem"
+	"Syarifuddin"
+	"Zulkifli"
+}
+ship_names = {
+	"Apa"
+	"Balla"
+	"Bambang"
+	"Battu"
+	"Bulu"
+	"Cipuru"
+	"Doe"
+	"Iyo"
+	"Karaeng"
+	"Keko"
+	"Lakeko"
+	"Lompo"
+	"Sallo"
+	"Tabe"
+	"Tena"
+}

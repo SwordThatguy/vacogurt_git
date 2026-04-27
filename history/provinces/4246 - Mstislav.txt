@@ -1,0 +1,16 @@
+owner = NOV
+controller = NOV
+capital = "Mstsislaw"
+is_city = yes
+culture = byelorussian
+religion = orthodox
+trade_goods = wool
+fort_15th = yes
+base_tax = 5
+base_production = 3
+base_manpower = 4
+add_core = NOV
+add_core = PLT
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

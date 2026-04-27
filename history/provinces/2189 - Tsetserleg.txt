@@ -1,0 +1,16 @@
+owner = KHA
+controller = KHA
+capital = "Tsetserleg"
+is_city = yes
+culture = dynamic-mongol-culture-num2
+religion = tengri_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = KHA
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

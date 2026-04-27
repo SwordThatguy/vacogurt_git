@@ -1,0 +1,15 @@
+owner = KBU
+controller = KBU
+capital = "Mbissel"
+is_city = yes
+culture = senegambian
+religion = shamanism
+trade_goods = slaves
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = KBU
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

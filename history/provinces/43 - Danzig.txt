@@ -1,0 +1,21 @@
+owner = POL
+controller = POL
+capital = "Danzig"
+is_city = yes
+culture = old_pommeranian
+religion = catholic
+trade_goods = gems
+base_tax = 5
+base_production = 3
+base_manpower = 2
+extra_cost = 26
+center_of_trade = 2
+add_core = POL
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = vistula_estuary_modifier
+	duration = -1
+}

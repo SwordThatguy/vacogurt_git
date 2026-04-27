@@ -1,0 +1,16 @@
+owner = ITA
+controller = ITA
+capital = "Gafsa"
+is_city = yes
+culture = berber
+religion = catholic
+trade_goods = salt
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = ITA
+add_core = TLC
+discovered_by = TUR
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = Z32
+controller = Z32
+capital = "Malé"
+is_city = yes
+culture = sinhala
+religion = hinduism
+trade_goods = gems
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = CEY
+add_core = Z32
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim

@@ -1,0 +1,16 @@
+owner = BEJ
+controller = BEJ
+capital = "Shendy"
+is_city = yes
+culture = nubian
+religion = coptic
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = BEJ
+add_core = NUB
+add_permanent_claim = NBI
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman

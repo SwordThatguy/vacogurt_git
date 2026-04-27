@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 140 9 8 }
+monarch_names = {
+	"Beno #1" = -1
+	"Bia #0" = -1
+	"Biowaya #1" = 10
+	"Bira #1" = 10
+	"Bobe #0" = 0
+	"Bouei #0" = 0
+	"Chaurmila #0" = -1
+	"Gulab #0" = -1
+	"Kalwar #1" = 10
+	"Kusuma #0" = -1
+	"Lomapada #0" = 0
+	"Sulu #0" = 0
+	"Tautal #2" = 10
+	"Woicha #0" = 0
+}

@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 177 51 9 }
+monarch_names = {
+	"Angintabo #0" = -1
+	"Bulakna #0" = -1
+	"Dimasangkay #2" = 10
+	"Dolangan #1" = 10
+	"Gamhanan #1" = 10
+	"Gihay #0" = -1
+	"Imbog #0" = -1
+	"Inday #0" = -1
+	"Kanor #1" = 10
+	"Lunti #0" = 0
+	"Maliuag #0" = 0
+	"Matampay #1" = 10
+	"Purubulawan #0" = 0
+	"Ragayan #0" = 0
+}

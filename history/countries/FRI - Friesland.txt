@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = dutch
+capital = 4383
+add_accepted_culture = frisian
+elector = yes
+1444.11.11= {
+	monarch = {
+		name = "Floris III"
+		dynasty = "Gerulfing"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1421.2.7
+		religion = catholic
+		culture = dutch
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Ida"
+		dynasty = "de Montfort"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = FRI
+		birth_date = 1417.6.18
+		death_date = 1477.6.18
+		female = yes
+		religion = catholic
+		culture = normand
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Floris"
+		monarch_name = "Floris IV"
+		dynasty = "Gerulfing"
+		adm = 1
+		dip = 1
+		mil = 0
+		birth_date = 1440.3.14
+		death_date = 1505.3.14
+		claim = 89
+		religion = catholic
+		culture = dutch
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 77
+}

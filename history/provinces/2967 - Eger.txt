@@ -1,0 +1,16 @@
+owner = BOH
+controller = BOH
+capital = "Cheb"
+is_city = yes
+culture = czech
+religion = catholic
+trade_goods = gold
+fort_15th = yes
+base_tax = 4
+base_production = 3
+base_manpower = 3
+add_core = BOH
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

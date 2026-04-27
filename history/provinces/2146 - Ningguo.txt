@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Ningguo"
+is_city = yes
+culture = wu
+religion = confucianism
+trade_goods = paper
+fort_15th = yes
+base_tax = 9
+base_production = 5
+base_manpower = 9
+add_core = WUU
+add_core = YUE
+discovered_by = chinese
+discovered_by = nomad_group

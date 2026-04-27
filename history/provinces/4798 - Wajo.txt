@@ -1,0 +1,16 @@
+owner = LUW
+controller = LUW
+capital = "Wajo"
+is_city = yes
+culture = sulawesi
+religion = animism
+trade_goods = spices
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = LUW
+add_core = MKS
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

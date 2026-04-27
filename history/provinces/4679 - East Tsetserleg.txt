@@ -1,0 +1,15 @@
+owner = KHA
+controller = KHA
+capital = "Khovsgol"
+is_city = yes
+culture = oirats
+religion = nestorian
+trade_goods = fur
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = KHA
+add_core = ZUN
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,15 @@
+owner = POR
+controller = POR
+capital = "Huelva"
+is_city = yes
+culture = dynamic-andalucian-berber-culture-num1
+religion = sunni
+trade_goods = copper
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = POR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

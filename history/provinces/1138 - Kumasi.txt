@@ -1,0 +1,15 @@
+owner = Z17
+controller = Z17
+capital = "Akyem Kotoko"
+is_city = yes
+culture = aka
+religion = sunni
+trade_goods = gold
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z17
+discovered_by = sub_saharan
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9

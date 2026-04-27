@@ -1,0 +1,14 @@
+owner = Z40
+controller = Z40
+is_city = yes
+culture = dynamic-tibetan-culture-num3
+religion = sunni
+trade_goods = gold
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = Z40
+add_permanent_claim = GUG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

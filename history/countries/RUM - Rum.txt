@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = ottoman
+religion = sunni
+primary_culture = turkish
+capital = 324
+religious_school = hanafi_school
+add_accepted_culture = anatolian
+1444.11.11= {
+	monarch = {
+		name = "Masud II"
+		dynasty = "Seljuk"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1377.12.25
+		religion = sunni
+		culture = turkish
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Muzhdah"
+		dynasty = "Mukhtarid"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = RUM
+		birth_date = 1394.1.15
+		death_date = 1454.1.15
+		female = yes
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Aydogan"
+		monarch_name = "Aydogan"
+		dynasty = "Seljuk"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1416.6.26
+		death_date = 1481.6.26
+		claim = 89
+		religion = sunni
+		culture = turkish
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 100
+	add_treasury = 0
+}

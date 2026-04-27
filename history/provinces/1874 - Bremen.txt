@@ -1,0 +1,23 @@
+owner = GER
+controller = GER
+capital = "Bremen"
+is_city = yes
+culture = lower_saxon
+religion = catholic
+trade_goods = fish
+hre = yes
+base_tax = 4
+base_production = 3
+base_manpower = 2
+extra_cost = 18
+center_of_trade = 1
+add_core = GER
+add_core = HAN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = weser_estuary_modifier
+	duration = -1
+}

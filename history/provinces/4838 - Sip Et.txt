@@ -1,0 +1,15 @@
+owner = KHM
+controller = KHM
+capital = "Sip Et"
+is_city = yes
+culture = lao
+religion = mahayana
+trade_goods = ivory
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = CHK
+add_core = KHM
+add_core = LUA
+discovered_by = chinese
+discovered_by = indian

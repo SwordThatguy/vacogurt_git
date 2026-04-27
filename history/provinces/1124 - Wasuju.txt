@@ -1,0 +1,14 @@
+owner = MAL
+controller = MAL
+capital = "Niani"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 1
+extra_cost = 8
+center_of_trade = 1
+add_core = MAL
+discovered_by = sub_saharan

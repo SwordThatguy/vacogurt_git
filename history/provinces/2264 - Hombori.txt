@@ -1,0 +1,16 @@
+owner = GUR
+controller = GUR
+capital = "Amanvi"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = livestock
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = GUR
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

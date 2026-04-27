@@ -1,0 +1,15 @@
+owner = JAP
+controller = JAP
+capital = "Gangneung"
+is_city = yes
+culture = korean
+religion = mahayana
+trade_goods = fish
+fort_15th = yes
+base_tax = 4
+base_production = 3
+base_manpower = 4
+add_core = JAP
+add_core = KOR
+discovered_by = chinese
+discovered_by = nomad_group

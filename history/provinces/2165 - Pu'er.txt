@@ -1,0 +1,15 @@
+owner = YUE
+controller = YUE
+capital = "Pu'er"
+is_city = yes
+culture = bai
+religion = vajrayana
+trade_goods = tea
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = CDL
+add_core = YUE
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

@@ -1,0 +1,17 @@
+owner = ETH
+controller = ETH
+capital = "Antalo"
+is_city = yes
+culture = tigray
+religion = coptic
+trade_goods = copper
+fort_15th = yes
+base_tax = 2
+base_production = 3
+base_manpower = 1
+add_core = ETH
+add_core = MED
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

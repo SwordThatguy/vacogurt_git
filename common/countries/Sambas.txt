@@ -1,0 +1,75 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 255 89 4 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Aditya #1" = 10
+	"Anakaji #0" = 0
+	"Deva #1" = 10
+	"Eka #0" = 0
+	"Kurnia #1" = -1
+	"Limou #0" = -1
+	"Mulawarni #0" = 0
+	"Pendekar #1" = 10
+	"Sangaji #1" = 10
+	"Saunggalah #0" = -1
+	"Sawerigading #1" = 10
+	"Sayang #1" = -1
+	"Sube #0" = -1
+	"Vagbhata #0" = 0
+	"Wetendriaben #0" = -1
+	"Wisuddha #0" = -1
+}
+leader_names = {
+	"Agung"
+	"Budi"
+	"Hamengku"
+	"Harto"
+	"Karno"
+	"Kencono"
+	"Mas"
+	"Ratri"
+	"Slamet"
+	"Wani"
+}
+ship_names = {
+	"Agong"
+	"Baris"
+	"Barong"
+	"Batukaru"
+	"Batur"
+	"Bratan"
+	"Catur"
+	"Kecak"
+	"Kelatakan"
+	"Legong"
+	"Lesong"
+	"Merbuk"
+	"Mesehe"
+	"Musi"
+	"Patas"
+	"Pendet"
+	"Pohen"
+	"Sanglang"
+	"Sangyang"
+	"Seraya"
+	"Topeng"
+}
