@@ -1,5 +1,5 @@
 owner = Z0S
-controller = Z0S
+#controller = Z0S
 capital = "Shekty"
 is_city = yes
 culture = nogaybak

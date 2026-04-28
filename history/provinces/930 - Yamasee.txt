@@ -1,5 +1,5 @@
 owner = KSI
-controller = KSI
+#controller = KSI
 capital = "Yamasee"
 is_city = yes
 culture = creek

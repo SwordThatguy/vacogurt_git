@@ -1,5 +1,5 @@
 owner = OSH
-controller = OSH
+#controller = OSH
 capital = "Hochelega"
 is_city = yes
 culture = laurentian

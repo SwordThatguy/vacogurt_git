@@ -1,5 +1,5 @@
 owner = JOL
-controller = JOL
+#controller = JOL
 capital = "Jowol"
 is_city = yes
 culture = senegambian

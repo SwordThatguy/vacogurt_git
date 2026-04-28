@@ -1,5 +1,5 @@
 owner = Z2D
-controller = Z2D
+#controller = Z2D
 capital = "Tyn"
 is_city = yes
 culture = cuman

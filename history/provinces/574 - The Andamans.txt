@@ -1,5 +1,5 @@
 owner = Z1E
-controller = Z1E
+#controller = Z1E
 capital = "The Andamans"
 is_city = yes
 culture = palaungic

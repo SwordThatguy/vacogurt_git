@@ -1,5 +1,5 @@
 owner = TRS
-controller = TRS
+#controller = TRS
 capital = "Geok-Tepe"
 is_city = yes
 culture = oghuz

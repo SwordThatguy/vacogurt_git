@@ -1,5 +1,5 @@
 owner = BTU
-controller = BTU
+#controller = BTU
 capital = "Api-Api"
 is_city = yes
 culture = filipino

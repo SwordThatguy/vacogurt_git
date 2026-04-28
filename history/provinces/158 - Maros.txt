@@ -1,5 +1,5 @@
 owner = HUN
-controller = HUN
+#controller = HUN
 capital = "Targu Mures"
 is_city = yes
 culture = transylvanian

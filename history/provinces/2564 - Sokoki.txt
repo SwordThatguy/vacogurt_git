@@ -1,5 +1,5 @@
 owner = ABE
-controller = ABE
+#controller = ABE
 capital = "Sokoki"
 is_city = yes
 culture = abenaki

@@ -1,5 +1,5 @@
 owner = KHA
-controller = KHA
+#controller = KHA
 capital = "Sainshand"
 is_city = yes
 culture = mongol

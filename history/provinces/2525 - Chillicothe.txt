@@ -1,5 +1,5 @@
 owner = CLG
-controller = CLG
+#controller = CLG
 capital = "Chillicothe"
 is_city = yes
 culture = shawnee

@@ -1,5 +1,5 @@
 owner = ATA
-controller = ATA
+#controller = ATA
 capital = "Tohome"
 is_city = yes
 culture = choctaw

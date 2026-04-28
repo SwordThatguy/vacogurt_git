@@ -1,5 +1,5 @@
 owner = HUN
-controller = HUN
+#controller = HUN
 capital = "Pressburg"
 is_city = yes
 culture = hungarian

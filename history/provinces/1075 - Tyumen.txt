@@ -1,5 +1,5 @@
 owner = PRM
-controller = PRM
+#controller = PRM
 capital = "Chimgi-Tura"
 is_city = yes
 culture = uralic

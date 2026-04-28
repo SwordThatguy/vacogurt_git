@@ -1,5 +1,5 @@
 owner = TBK
-controller = TBK
+#controller = TBK
 capital = "Kasungu"
 is_city = yes
 culture = nyasa

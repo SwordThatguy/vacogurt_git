@@ -1,5 +1,5 @@
 owner = CMN
-controller = CMN
+#controller = CMN
 capital = "Dzhaman-Kuduk"
 is_city = yes
 culture = nogaybak

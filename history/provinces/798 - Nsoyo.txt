@@ -1,5 +1,5 @@
 owner = KON
-controller = KON
+#controller = KON
 capital = "Nsoyo"
 is_city = yes
 culture = mbundu

@@ -1,5 +1,5 @@
 owner = Z05
-controller = Z05
+#controller = Z05
 capital = "Assinie"
 is_city = yes
 culture = dyola

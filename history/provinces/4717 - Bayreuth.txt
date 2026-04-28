@@ -1,5 +1,5 @@
 owner = BAV
-controller = BAV
+#controller = BAV
 capital = "Bayreuth"
 is_city = yes
 culture = dynamic-bavarian-culture-num1

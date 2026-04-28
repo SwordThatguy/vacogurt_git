@@ -1,5 +1,5 @@
 owner = TAN
-controller = TAN
+#controller = TAN
 capital = "Kirikiriroa"
 is_city = yes
 culture = maori

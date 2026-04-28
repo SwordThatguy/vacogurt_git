@@ -1,5 +1,5 @@
 owner = TSC
-controller = TSC
+#controller = TSC
 capital = "Tuscarora"
 is_city = yes
 culture = iroquois

@@ -1,5 +1,5 @@
 owner = Z5I
-controller = Z5I
+#controller = Z5I
 capital = "Viviers"
 is_city = yes
 culture = occitain

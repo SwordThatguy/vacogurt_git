@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = dynamic-swabian-culture-num1
 capital = 2957
 add_accepted_culture = bavarian
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Notker"

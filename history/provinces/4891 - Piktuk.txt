@@ -1,5 +1,5 @@
 owner = MIK
-controller = MIK
+#controller = MIK
 capital = "Piktuk"
 is_city = yes
 culture = mikmaq

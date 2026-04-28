@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = old_lombard
+capital = 2972
+elector = yes
+create_union = ANH
+1444.11.11= {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Vaco"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1392.12.24
+		religion = catholic
+		culture = old_lombard
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Ute"
+		dynasty = "von Zähringen"
+		adm = 3
+		dip = 2
+		mil = 2
+		country_of_origin = GER
+		birth_date = 1404.4.4
+		death_date = 1464.4.4
+		female = yes
+		religion = catholic
+		culture = swabian
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Bartolomeus"
+		monarch_name = "Bartolomeus"
+		dynasty = "Vaco"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1422.3.27
+		death_date = 1487.3.27
+		claim = 89
+		religion = catholic
+		culture = old_lombard
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 95
+	add_treasury = 68
+}

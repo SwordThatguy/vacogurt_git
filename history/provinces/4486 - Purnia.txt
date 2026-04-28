@@ -1,5 +1,5 @@
 owner = TRT
-controller = TRT
+#controller = TRT
 capital = "Purnia"
 is_city = yes
 culture = kochi

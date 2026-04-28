@@ -1,5 +1,5 @@
 owner = KIK
-controller = KIK
+#controller = KIK
 capital = "Kikondja"
 is_city = yes
 culture = luba

@@ -1,5 +1,5 @@
 owner = NBI
-controller = NBI
+#controller = NBI
 capital = "Kosti"
 is_city = yes
 culture = nubian

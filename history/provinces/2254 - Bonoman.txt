@@ -1,5 +1,5 @@
 owner = DGB
-controller = DGB
+#controller = DGB
 capital = "Bono Manso"
 is_city = yes
 culture = aka

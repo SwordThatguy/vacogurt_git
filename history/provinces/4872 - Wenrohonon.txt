@@ -1,5 +1,5 @@
 owner = WEN
-controller = WEN
+#controller = WEN
 capital = "Wenrohonon"
 is_city = yes
 culture = tionontate

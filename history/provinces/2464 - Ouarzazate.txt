@@ -1,5 +1,5 @@
 owner = TFL
-controller = TFL
+#controller = TFL
 capital = "Ouarzazate"
 is_city = yes
 culture = moroccan

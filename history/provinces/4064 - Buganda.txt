@@ -1,5 +1,5 @@
 owner = BUG
-controller = BUG
+#controller = BUG
 capital = "Kitala"
 is_city = yes
 culture = ganda

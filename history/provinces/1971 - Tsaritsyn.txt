@@ -1,5 +1,5 @@
 owner = Z10
-controller = Z10
+#controller = Z10
 capital = "Sary-Su"
 is_city = yes
 culture = cuman

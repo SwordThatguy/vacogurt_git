@@ -1,5 +1,5 @@
 owner = LON
-controller = LON
+#controller = LON
 capital = "Pontevedra"
 is_city = yes
 culture = galician

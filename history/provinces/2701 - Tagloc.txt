@@ -1,5 +1,5 @@
 owner = Z35
-controller = Z35
+#controller = Z35
 capital = "Tagloc"
 is_city = yes
 culture = filipino

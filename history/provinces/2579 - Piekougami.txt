@@ -1,5 +1,5 @@
 owner = INN
-controller = INN
+#controller = INN
 capital = "Piekougami"
 culture = innu
 religion = totemism

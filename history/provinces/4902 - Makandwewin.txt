@@ -1,5 +1,5 @@
 owner = CHY
-controller = CHY
+#controller = CHY
 capital = "Makandwewinni"
 is_city = yes
 culture = cheyenne

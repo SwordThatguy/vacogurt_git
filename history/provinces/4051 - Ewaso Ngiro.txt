@@ -1,5 +1,5 @@
 owner = MBA
-controller = MBA
+#controller = MBA
 capital = "Ewaso Ngiro"
 is_city = yes
 culture = swahili

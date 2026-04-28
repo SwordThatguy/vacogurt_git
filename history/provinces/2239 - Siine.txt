@@ -1,5 +1,5 @@
 owner = KBU
-controller = KBU
+#controller = KBU
 capital = "Mbissel"
 is_city = yes
 culture = senegambian

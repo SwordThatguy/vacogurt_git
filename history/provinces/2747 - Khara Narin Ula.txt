@@ -1,5 +1,5 @@
 owner = Z3N
-controller = Z3N
+#controller = Z3N
 capital = "Khara Narin Ula"
 is_city = yes
 culture = mongol

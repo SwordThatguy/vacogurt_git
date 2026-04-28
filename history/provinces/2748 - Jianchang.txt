@@ -1,5 +1,5 @@
 owner = YUE
-controller = YUE
+#controller = YUE
 capital = "Jianchang"
 is_city = yes
 culture = tangut

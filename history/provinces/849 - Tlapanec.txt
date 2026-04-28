@@ -1,5 +1,5 @@
 owner = TLA
-controller = TLA
+#controller = TLA
 capital = "Acapulco"
 is_city = yes
 culture = tlapanec

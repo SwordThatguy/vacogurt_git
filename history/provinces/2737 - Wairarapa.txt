@@ -1,5 +1,5 @@
 owner = TAK
-controller = TAK
+#controller = TAK
 capital = "Ahuriri"
 is_city = yes
 culture = maori

@@ -1,5 +1,5 @@
 owner = Z14
-controller = Z14
+#controller = Z14
 capital = "Cherkassk"
 is_city = yes
 culture = cuman

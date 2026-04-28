@@ -1,5 +1,5 @@
 owner = Z3D
-controller = Z3D
+#controller = Z3D
 capital = "Manokwari"
 is_city = yes
 culture = moluccan

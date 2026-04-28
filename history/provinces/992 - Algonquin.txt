@@ -1,5 +1,5 @@
 owner = AGQ
-controller = AGQ
+#controller = AGQ
 capital = "Algonquin"
 is_city = yes
 culture = algonquin

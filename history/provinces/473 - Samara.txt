@@ -1,5 +1,5 @@
 owner = Z2P
-controller = Z2P
+#controller = Z2P
 capital = "Samara"
 is_city = yes
 culture = mishary

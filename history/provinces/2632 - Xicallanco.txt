@@ -1,5 +1,5 @@
 owner = YOK
-controller = YOK
+#controller = YOK
 capital = "Xicallanco"
 is_city = yes
 culture = chontales

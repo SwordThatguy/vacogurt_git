@@ -1,5 +1,5 @@
 owner = YAQ
-controller = YAQ
+#controller = YAQ
 capital = "Yaqui"
 is_city = yes
 culture = piman

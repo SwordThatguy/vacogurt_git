@@ -1,5 +1,5 @@
 owner = LAK
-controller = LAK
+#controller = LAK
 capital = "Dakota"
 is_city = yes
 culture = dakota

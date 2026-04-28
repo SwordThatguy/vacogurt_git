@@ -1,5 +1,5 @@
 owner = MCA
-controller = MCA
+#controller = MCA
 capital = "Bogotá"
 is_city = yes
 culture = muisca

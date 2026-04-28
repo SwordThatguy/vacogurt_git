@@ -1,5 +1,5 @@
 owner = BTU
-controller = BTU
+#controller = BTU
 capital = "Brunei"
 is_city = yes
 culture = dayak

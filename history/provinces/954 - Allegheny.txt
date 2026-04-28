@@ -1,5 +1,5 @@
 owner = ERI
-controller = ERI
+#controller = ERI
 capital = "Allegheny"
 is_city = yes
 culture = tionontate

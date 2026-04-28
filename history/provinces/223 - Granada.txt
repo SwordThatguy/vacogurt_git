@@ -1,5 +1,5 @@
 owner = GRA
-controller = GRA
+#controller = GRA
 capital = "Granada"
 is_city = yes
 culture = andalucian

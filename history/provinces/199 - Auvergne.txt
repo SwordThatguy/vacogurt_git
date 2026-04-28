@@ -1,5 +1,4 @@
-owner = FRA
-controller = FRA
+owner = PRO
 capital = "Clermont"
 is_city = yes
 culture = occitain
@@ -9,7 +8,6 @@ fort_15th = yes
 base_tax = 2
 base_production = 2
 base_manpower = 5
-add_core = FRA
 add_core = PRO
 discovered_by = eastern
 discovered_by = muslim

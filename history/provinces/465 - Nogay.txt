@@ -1,5 +1,5 @@
 owner = Z5B
-controller = Z5B
+#controller = Z5B
 capital = "Saraychik"
 is_city = yes
 culture = turko_iranian

@@ -1,5 +1,5 @@
 owner = VAL
-controller = VAL
+#controller = VAL
 capital = "Albacete"
 is_city = yes
 culture = andalucian

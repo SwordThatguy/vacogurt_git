@@ -1,5 +1,5 @@
 owner = LND
-controller = LND
+#controller = LND
 capital = "Musumba"
 is_city = yes
 culture = lunda

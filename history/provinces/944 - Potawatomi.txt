@@ -1,5 +1,5 @@
 owner = FOX
-controller = FOX
+#controller = FOX
 capital = "Potawatomi"
 is_city = yes
 culture = mesquakie

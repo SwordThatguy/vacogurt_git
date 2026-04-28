@@ -1,5 +1,5 @@
 owner = PTE
-controller = PTE
+#controller = PTE
 capital = "Afgooye"
 is_city = yes
 culture = dynamic-somali-culture-num1

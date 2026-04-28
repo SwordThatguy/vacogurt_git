@@ -1,5 +1,5 @@
 owner = Z3S
-controller = Z3S
+#controller = Z3S
 capital = "Karagandy"
 is_city = yes
 culture = nogaybak

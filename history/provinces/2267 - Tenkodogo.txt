@@ -1,5 +1,5 @@
 owner = Z1Y
-controller = Z1Y
+#controller = Z1Y
 capital = "Tenkodogo"
 is_city = yes
 culture = mali

@@ -1,5 +1,5 @@
 owner = Z1R
-controller = Z1R
+#controller = Z1R
 capital = "Palpa"
 is_city = yes
 culture = nepali

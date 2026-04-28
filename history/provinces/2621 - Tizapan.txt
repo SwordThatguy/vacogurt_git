@@ -1,5 +1,5 @@
 owner = TON
-controller = TON
+#controller = TON
 capital = "Tizapan"
 is_city = yes
 culture = tepic

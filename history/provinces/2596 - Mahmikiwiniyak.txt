@@ -1,5 +1,5 @@
 owner = NEH
-controller = NEH
+#controller = NEH
 capital = "Mahmikiwiniyak"
 is_city = yes
 culture = plains_cree

@@ -1,5 +1,5 @@
 owner = YUE
-controller = YUE
+#controller = YUE
 capital = "Rebgong"
 is_city = yes
 culture = altaic_new

@@ -1,5 +1,5 @@
 owner = YAR
-controller = YAR
+#controller = YAR
 capital = "Kasimov"
 is_city = yes
 culture = ryazanian

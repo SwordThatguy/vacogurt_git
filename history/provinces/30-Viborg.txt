@@ -1,5 +1,5 @@
 owner = EST
-controller = EST
+#controller = EST
 capital = "Viborg"
 is_city = yes
 culture = finnish

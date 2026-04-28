@@ -1,5 +1,5 @@
 owner = EST
-controller = EST
+#controller = EST
 capital = "Arensburg"
 is_city = yes
 culture = estonian

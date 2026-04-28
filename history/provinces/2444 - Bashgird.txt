@@ -1,5 +1,5 @@
 owner = Z1H
-controller = Z1H
+#controller = Z1H
 capital = "Bashgird"
 is_city = yes
 culture = bashkir

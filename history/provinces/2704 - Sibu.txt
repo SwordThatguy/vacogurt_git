@@ -1,5 +1,5 @@
 owner = Z0D
-controller = Z0D
+#controller = Z0D
 capital = "Sibu"
 is_city = yes
 culture = dayak

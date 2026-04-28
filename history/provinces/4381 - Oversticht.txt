@@ -1,5 +1,5 @@
 owner = FRI
-controller = FRI
+#controller = FRI
 capital = "Zwolle"
 is_city = yes
 culture = frisian

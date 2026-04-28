@@ -1,5 +1,5 @@
 owner = APA
-controller = APA
+#controller = APA
 capital = "Apache"
 is_city = yes
 culture = apache

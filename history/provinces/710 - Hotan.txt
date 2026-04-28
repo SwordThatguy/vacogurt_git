@@ -1,5 +1,5 @@
 owner = Z3M
-controller = Z3M
+#controller = Z3M
 capital = "Hotan"
 is_city = yes
 culture = saka

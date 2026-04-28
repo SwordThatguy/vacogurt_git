@@ -1,5 +1,5 @@
 owner = TTT
-controller = TTT
+#controller = TTT
 capital = "Whangarei"
 is_city = yes
 culture = maori

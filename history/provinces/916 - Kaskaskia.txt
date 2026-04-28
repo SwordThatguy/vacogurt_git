@@ -1,5 +1,5 @@
 owner = KSK
-controller = KSK
+#controller = KSK
 capital = "Kaskaskia"
 is_city = yes
 culture = illini

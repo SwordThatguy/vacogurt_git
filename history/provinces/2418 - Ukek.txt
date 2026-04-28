@@ -1,5 +1,5 @@
 owner = GOL
-controller = GOL
+#controller = GOL
 capital = "Ukek"
 is_city = yes
 culture = cuman

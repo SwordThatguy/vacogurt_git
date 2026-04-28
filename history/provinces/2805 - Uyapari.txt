@@ -1,5 +1,5 @@
 owner = CAB
-controller = CAB
+#controller = CAB
 capital = "Uyapari"
 is_city = yes
 culture = carib

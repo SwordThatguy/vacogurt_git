@@ -1,5 +1,5 @@
 owner = GUR
-controller = GUR
+#controller = GUR
 capital = "Sah"
 is_city = yes
 culture = bozo

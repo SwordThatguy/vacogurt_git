@@ -1,5 +1,5 @@
 owner = NAK
-controller = NAK
+#controller = NAK
 capital = "Wappus"
 culture = bungi
 religion = totemism

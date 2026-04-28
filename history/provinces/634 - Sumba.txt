@@ -1,5 +1,5 @@
 owner = Z0E
-controller = Z0E
+#controller = Z0E
 capital = "Sumba"
 is_city = yes
 culture = moluccan

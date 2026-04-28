@@ -1,5 +1,5 @@
 owner = SOS
-controller = SOS
+#controller = SOS
 capital = "Tagmadert"
 is_city = yes
 culture = moroccan

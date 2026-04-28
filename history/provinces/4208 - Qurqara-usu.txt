@@ -1,5 +1,5 @@
 owner = CHG
-controller = CHG
+#controller = CHG
 capital = "Balikul"
 is_city = yes
 culture = dynamic-uyghur-culture-num1

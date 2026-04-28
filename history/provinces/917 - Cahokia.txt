@@ -1,5 +1,5 @@
 owner = CAO
-controller = CAO
+#controller = CAO
 capital = "Cahokia"
 is_city = yes
 culture = illini

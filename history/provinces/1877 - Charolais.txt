@@ -1,5 +1,5 @@
 owner = CHP
-controller = CHP
+#controller = CHP
 capital = "Charolles"
 is_city = yes
 culture = burgundian

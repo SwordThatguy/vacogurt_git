@@ -1,5 +1,5 @@
 owner = Z08
-controller = Z08
+#controller = Z08
 capital = "Tadmekka al-Suq"
 is_city = yes
 culture = berber

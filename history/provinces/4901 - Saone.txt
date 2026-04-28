@@ -1,5 +1,5 @@
 owner = WCY
-controller = WCY
+#controller = WCY
 capital = "Saone"
 is_city = yes
 culture = dakota

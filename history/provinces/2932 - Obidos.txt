@@ -1,5 +1,5 @@
 owner = Z25
-controller = Z25
+#controller = Z25
 capital = "Ouara"
 is_city = yes
 culture = tunjur

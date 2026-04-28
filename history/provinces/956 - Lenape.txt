@@ -1,5 +1,5 @@
 owner = LEN
-controller = LEN
+#controller = LEN
 capital = "Lenape"
 is_city = yes
 culture = delaware

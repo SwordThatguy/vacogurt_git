@@ -1,5 +1,5 @@
 owner = YKT
-controller = YKT
+#controller = YKT
 capital = "Choinumni"
 is_city = yes
 culture = yokuts

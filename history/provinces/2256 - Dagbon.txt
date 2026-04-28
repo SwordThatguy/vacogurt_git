@@ -1,5 +1,5 @@
 owner = Z27
-controller = Z27
+#controller = Z27
 capital = "Yendi"
 is_city = yes
 culture = mali

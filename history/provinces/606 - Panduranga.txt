@@ -1,5 +1,5 @@
 owner = CHA
-controller = CHA
+#controller = CHA
 capital = "Panduranga"
 is_city = yes
 culture = cham

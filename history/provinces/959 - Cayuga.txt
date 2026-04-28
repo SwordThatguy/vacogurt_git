@@ -1,5 +1,5 @@
 owner = CAY
-controller = CAY
+#controller = CAY
 capital = "Cayuga"
 is_city = yes
 culture = iroquois

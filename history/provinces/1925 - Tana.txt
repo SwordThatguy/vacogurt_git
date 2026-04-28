@@ -1,5 +1,5 @@
 owner = MBA
-controller = MBA
+#controller = MBA
 is_city = yes
 culture = swahili
 religion = sunni

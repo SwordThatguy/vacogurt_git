@@ -1,5 +1,5 @@
 owner = Z2T
-controller = Z2T
+#controller = Z2T
 capital = "Kwararafa"
 is_city = yes
 culture = hausa

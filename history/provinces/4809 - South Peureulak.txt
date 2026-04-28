@@ -1,5 +1,5 @@
 owner = PSA
-controller = PSA
+#controller = PSA
 capital = "Langkat"
 is_city = yes
 culture = acehnese

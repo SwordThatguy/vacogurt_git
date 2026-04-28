@@ -1,5 +1,5 @@
 owner = LOI
-controller = LOI
+#controller = LOI
 capital = "Skye"
 is_city = yes
 culture = highland_scottish

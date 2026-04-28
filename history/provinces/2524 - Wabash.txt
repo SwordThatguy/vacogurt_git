@@ -1,5 +1,5 @@
 owner = OSA
-controller = OSA
+#controller = OSA
 capital = "Wabash"
 is_city = yes
 culture = osage

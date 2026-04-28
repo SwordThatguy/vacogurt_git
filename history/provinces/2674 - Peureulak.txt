@@ -1,5 +1,5 @@
 owner = PSA
-controller = PSA
+#controller = PSA
 capital = "Peureulak"
 is_city = yes
 culture = acehnese

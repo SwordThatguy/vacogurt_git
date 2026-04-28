@@ -1,5 +1,5 @@
 owner = SCO
-controller = SCO
+#controller = SCO
 capital = "Inverness"
 is_city = yes
 culture = highland_scottish

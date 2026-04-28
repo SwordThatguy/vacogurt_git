@@ -1,5 +1,5 @@
 owner = KIE
-controller = KIE
+#controller = KIE
 capital = "Grodno"
 is_city = yes
 culture = byelorussian

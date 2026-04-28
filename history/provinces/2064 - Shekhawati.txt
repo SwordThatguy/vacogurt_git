@@ -1,5 +1,5 @@
 owner = DLH
-controller = DLH
+#controller = DLH
 capital = "Sikar"
 is_city = yes
 culture = rajput

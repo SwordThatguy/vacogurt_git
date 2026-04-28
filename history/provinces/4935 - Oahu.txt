@@ -1,5 +1,5 @@
 owner = OAH
-controller = OAH
+#controller = OAH
 capital = "Honolulu"
 is_city = yes
 culture = polynesian

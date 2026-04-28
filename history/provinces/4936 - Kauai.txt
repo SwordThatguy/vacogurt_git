@@ -1,5 +1,5 @@
 owner = KAA
-controller = KAA
+#controller = KAA
 capital = "Tapaa"
 is_city = yes
 culture = polynesian

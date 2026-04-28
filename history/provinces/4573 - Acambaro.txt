@@ -1,5 +1,5 @@
 owner = OTO
-controller = OTO
+#controller = OTO
 capital = "Acambaro"
 culture = otomi
 religion = nahuatl

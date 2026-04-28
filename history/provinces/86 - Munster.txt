@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = VAC
+#controller = VAC
 capital = "Münster"
 is_city = yes
 culture = hannoverian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 3
 base_production = 6
 base_manpower = 1
-add_core = GER
+add_core = VAC
 add_core = WES
 discovered_by = eastern
 discovered_by = muslim

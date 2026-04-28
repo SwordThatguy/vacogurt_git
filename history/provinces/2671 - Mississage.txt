@@ -1,5 +1,5 @@
 owner = MSG
-controller = MSG
+#controller = MSG
 capital = "Missisage"
 culture = anishinabe
 religion = totemism

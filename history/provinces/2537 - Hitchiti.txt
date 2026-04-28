@@ -1,5 +1,5 @@
 owner = ICH
-controller = ICH
+#controller = ICH
 capital = "Hitchiti"
 is_city = yes
 culture = yamasee

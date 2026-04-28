@@ -1,5 +1,5 @@
 owner = POR
-controller = POR
+#controller = POR
 capital = "Gibraltar"
 is_city = yes
 culture = dynamic-andalucian-berber-culture-num1

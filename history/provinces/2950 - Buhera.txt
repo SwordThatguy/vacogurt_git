@@ -1,5 +1,5 @@
 owner = ZIM
-controller = ZIM
+#controller = ZIM
 capital = "Buhera"
 is_city = yes
 culture = shona

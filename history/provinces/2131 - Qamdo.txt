@@ -1,5 +1,5 @@
 owner = Z1V
-controller = Z1V
+#controller = Z1V
 capital = "Qamdo"
 is_city = yes
 culture = tibetan

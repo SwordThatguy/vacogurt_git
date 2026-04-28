@@ -54,11 +54,4 @@ union=
 	end_date="1836.1.1"
 }
 
-union=
-{
-	first="ARA"
-	second="VAL"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
 

@@ -1,5 +1,5 @@
 owner = XAL
-controller = XAL
+#controller = XAL
 capital = "Amaxocotlan"
 culture = tepic
 religion = nahuatl

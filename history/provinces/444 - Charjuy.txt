@@ -1,5 +1,5 @@
 owner = KHO
-controller = KHO
+#controller = KHO
 capital = "Charjuy"
 is_city = yes
 culture = oghuz

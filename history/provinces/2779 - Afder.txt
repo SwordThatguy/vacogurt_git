@@ -1,5 +1,5 @@
 owner = AJU
-controller = AJU
+#controller = AJU
 capital = "Afder"
 is_city = yes
 culture = somali

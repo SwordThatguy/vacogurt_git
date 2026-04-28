@@ -1,5 +1,5 @@
 owner = Z0N
-controller = Z0N
+#controller = Z0N
 capital = "Stavropol"
 is_city = yes
 culture = cuman

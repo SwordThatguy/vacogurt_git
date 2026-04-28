@@ -1,5 +1,5 @@
 owner = BAV
-controller = BAV
+#controller = BAV
 capital = "Braunau am Inn"
 is_city = yes
 culture = bavarian

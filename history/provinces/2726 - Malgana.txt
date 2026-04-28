@@ -1,5 +1,5 @@
 owner = MLG
-controller = MLG
+#controller = MLG
 capital = "Malgana"
 is_city = yes
 culture = nyoongah

@@ -1,5 +1,5 @@
 owner = TRT
-controller = TRT
+#controller = TRT
 capital = "Palamau"
 is_city = yes
 culture = oriya

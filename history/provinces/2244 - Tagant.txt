@@ -1,5 +1,5 @@
 owner = Z2B
-controller = Z2B
+#controller = Z2B
 capital = "Kiffa"
 is_city = yes
 culture = dynamic-berber-soninke-culture-num1

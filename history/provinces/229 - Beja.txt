@@ -1,5 +1,5 @@
 owner = POR
-controller = POR
+#controller = POR
 capital = "Beja"
 is_city = yes
 culture = andalucian

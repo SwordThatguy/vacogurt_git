@@ -1,5 +1,5 @@
 owner = SKA
-controller = SKA
+#controller = SKA
 capital = "Majunga"
 is_city = yes
 culture = madagasque

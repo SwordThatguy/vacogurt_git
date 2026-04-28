@@ -1,5 +1,5 @@
 owner = MTR
-controller = MTR
+#controller = MTR
 capital = "Sumbawa"
 is_city = yes
 culture = javanese

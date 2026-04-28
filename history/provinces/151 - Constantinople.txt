@@ -1,5 +1,5 @@
 owner = BYZ
-controller = BYZ
+#controller = BYZ
 capital = "Constantinople"
 is_city = yes
 culture = greek

@@ -1,5 +1,5 @@
 owner = POT
-controller = POT
+#controller = POT
 capital = "Michigan"
 is_city = yes
 culture = anishinabe

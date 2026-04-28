@@ -1,5 +1,5 @@
 owner = JOA
-controller = JOA
+#controller = JOA
 capital = "Cheraw"
 is_city = yes
 culture = catawba

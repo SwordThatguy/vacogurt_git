@@ -1,5 +1,5 @@
 owner = KNG
-controller = KNG
+#controller = KNG
 capital = "Kong"
 is_city = yes
 culture = mali

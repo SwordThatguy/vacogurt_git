@@ -1,5 +1,5 @@
 owner = YUE
-controller = YUE
+#controller = YUE
 capital = "Son Nam"
 is_city = yes
 culture = vietnamese

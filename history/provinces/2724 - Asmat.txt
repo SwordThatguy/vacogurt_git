@@ -1,5 +1,5 @@
 owner = Z22
-controller = Z22
+#controller = Z22
 capital = "Asmat"
 is_city = yes
 culture = papuan

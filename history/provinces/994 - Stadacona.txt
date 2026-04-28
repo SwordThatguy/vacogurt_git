@@ -1,5 +1,5 @@
 owner = STA
-controller = STA
+#controller = STA
 capital = "Stadacona"
 is_city = yes
 culture = laurentian

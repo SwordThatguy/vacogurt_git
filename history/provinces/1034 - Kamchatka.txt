@@ -1,5 +1,5 @@
 owner = KMC
-controller = KMC
+#controller = KMC
 capital = "Kamchatka"
 is_city = yes
 culture = kamchatkan

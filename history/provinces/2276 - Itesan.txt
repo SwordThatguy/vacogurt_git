@@ -1,5 +1,5 @@
 owner = Z3L
-controller = Z3L
+#controller = Z3L
 capital = "Tahut"
 is_city = yes
 culture = hausa

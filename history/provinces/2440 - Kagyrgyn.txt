@@ -1,5 +1,5 @@
 owner = CHV
-controller = CHV
+#controller = CHV
 capital = "Kagyrgyn"
 is_city = yes
 culture = kamchatkan

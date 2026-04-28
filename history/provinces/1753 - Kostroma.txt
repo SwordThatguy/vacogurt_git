@@ -1,5 +1,5 @@
 owner = BJA
-controller = BJA
+#controller = BJA
 capital = "Kostroma"
 is_city = yes
 culture = vepsian

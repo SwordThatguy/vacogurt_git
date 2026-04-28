@@ -1,5 +1,5 @@
 owner = OHK
-controller = OHK
+#controller = OHK
 capital = "Ohkay Owingeh"
 is_city = yes
 culture = pueblo

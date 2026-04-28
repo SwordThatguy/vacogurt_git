@@ -1,5 +1,5 @@
 owner = IRQ
-controller = IRQ
+#controller = IRQ
 capital = "Kirmanshah"
 is_city = yes
 culture = kurdish

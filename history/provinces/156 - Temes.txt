@@ -1,5 +1,5 @@
 owner = HUN
-controller = HUN
+#controller = HUN
 capital = "Temesvár"
 is_city = yes
 culture = transylvanian

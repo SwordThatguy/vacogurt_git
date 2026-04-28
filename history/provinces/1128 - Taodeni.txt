@@ -1,5 +1,5 @@
 owner = Z2C
-controller = Z2C
+#controller = Z2C
 capital = "Tawdani"
 is_city = yes
 culture = berber

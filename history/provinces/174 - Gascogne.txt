@@ -1,5 +1,5 @@
 owner = FRA
-controller = FRA
+#controller = FRA
 capital = "Bordeaux"
 is_city = yes
 culture = aquitaine

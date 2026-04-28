@@ -1,5 +1,5 @@
 owner = Z22
-controller = Z22
+#controller = Z22
 capital = "Fak-Fak"
 is_city = yes
 culture = papuan

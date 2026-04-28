@@ -1,5 +1,5 @@
 owner = IRQ
-controller = IRQ
+#controller = IRQ
 capital = "Basra"
 is_city = yes
 culture = al_iraqiya_arabic

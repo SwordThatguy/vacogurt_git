@@ -1,5 +1,5 @@
 owner = UBH
-controller = UBH
+#controller = UBH
 capital = "Bushubi"
 is_city = yes
 culture = rwandan

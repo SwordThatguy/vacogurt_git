@@ -1,5 +1,5 @@
 owner = AFG
-controller = AFG
+#controller = AFG
 capital = "Kulob"
 is_city = yes
 culture = tajik

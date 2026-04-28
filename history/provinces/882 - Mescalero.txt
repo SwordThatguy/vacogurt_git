@@ -1,5 +1,5 @@
 owner = MSC
-controller = MSC
+#controller = MSC
 capital = "Mescalero"
 is_city = yes
 culture = mescalero

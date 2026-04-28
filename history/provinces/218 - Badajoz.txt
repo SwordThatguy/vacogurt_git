@@ -1,5 +1,5 @@
 owner = GRA
-controller = Z1Z
+#controller = Z1Z
 capital = "Badajoz"
 is_city = yes
 culture = andalucian

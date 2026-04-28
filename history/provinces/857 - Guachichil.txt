@@ -1,5 +1,5 @@
 owner = CCM
-controller = CCM
+#controller = CCM
 capital = "Guachichil"
 culture = chichimecan
 religion = animism

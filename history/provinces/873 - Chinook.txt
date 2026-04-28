@@ -1,5 +1,5 @@
 owner = CNK
-controller = CNK
+#controller = CNK
 capital = "Chinook"
 is_city = yes
 culture = chinook

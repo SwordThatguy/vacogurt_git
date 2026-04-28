@@ -1,5 +1,5 @@
 owner = PLB
-controller = PLB
+#controller = PLB
 capital = "Nias"
 is_city = yes
 culture = palaungic

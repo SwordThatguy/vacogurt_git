@@ -1,5 +1,5 @@
 owner = ARN
-controller = ARN
+#controller = ARN
 capital = "Arendaronon"
 is_city = yes
 culture = huron

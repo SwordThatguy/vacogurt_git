@@ -1,5 +1,5 @@
 owner = LAC
-controller = LAC
+#controller = LAC
 capital = "Jakaltek"
 is_city = yes
 culture = lacandon

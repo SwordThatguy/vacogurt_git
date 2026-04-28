@@ -1,5 +1,5 @@
 owner = CHM
-controller = CHM
+#controller = CHM
 capital = "Tucume"
 is_city = yes
 culture = chimuan

@@ -1,5 +1,5 @@
 owner = HOD
-controller = HOD
+#controller = HOD
 capital = "Karalveyem"
 culture = yukagyr
 religion = tengri_pagan

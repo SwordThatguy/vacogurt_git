@@ -1,5 +1,5 @@
 owner = WRU
-controller = WRU
+#controller = WRU
 capital = "Wurundjeri"
 is_city = yes
 culture = kulin

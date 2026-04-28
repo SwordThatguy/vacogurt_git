@@ -1,5 +1,4 @@
-owner = FRA
-controller = FRA
+owner = PRO
 capital = "Montpellier"
 is_city = yes
 culture = occitain
@@ -8,7 +7,6 @@ trade_goods = cloth
 base_tax = 2
 base_production = 4
 base_manpower = 4
-add_core = FRA
 add_core = PRO
 discovered_by = eastern
 discovered_by = muslim

@@ -1,5 +1,5 @@
 owner = Z3R
-controller = Z3R
+#controller = Z3R
 capital = "Bashkort"
 is_city = yes
 culture = bashkir

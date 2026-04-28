@@ -1,5 +1,5 @@
 owner = VNL
-controller = VNL
+#controller = VNL
 capital = "Labasa"
 is_city = yes
 culture = melanesian

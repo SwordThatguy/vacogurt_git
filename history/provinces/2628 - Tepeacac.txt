@@ -1,5 +1,5 @@
 owner = TEO
-controller = TEO
+#controller = TEO
 capital = "Tepeacac"
 is_city = yes
 culture = aztek

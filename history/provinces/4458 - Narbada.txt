@@ -1,5 +1,5 @@
 owner = TRT
-controller = TRT
+#controller = TRT
 capital = "Chauragar"
 is_city = yes
 culture = gondi

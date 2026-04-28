@@ -1,5 +1,5 @@
 owner = Z3T
-controller = Z3T
+#controller = Z3T
 capital = "Sabzevar"
 is_city = yes
 culture = khorasani

@@ -1,5 +1,5 @@
 owner = WCR
-controller = WCR
+#controller = WCR
 capital = "Kesagami"
 is_city = yes
 culture = cree

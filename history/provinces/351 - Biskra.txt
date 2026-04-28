@@ -1,5 +1,5 @@
 owner = Z0A
-controller = Z0A
+#controller = Z0A
 capital = "Biskra"
 is_city = yes
 culture = algerian

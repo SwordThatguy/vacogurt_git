@@ -1,5 +1,5 @@
 owner = HAB
-controller = HAB
+#controller = HAB
 capital = "Villach"
 is_city = yes
 culture = bavarian

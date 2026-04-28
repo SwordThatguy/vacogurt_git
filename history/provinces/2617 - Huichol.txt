@@ -1,5 +1,5 @@
 owner = TON
-controller = TON
+#controller = TON
 capital = "Huichol"
 culture = tepic
 religion = nahuatl

@@ -1,5 +1,5 @@
 owner = KSP
-controller = KSP
+#controller = KSP
 capital = "Shatteras"
 is_city = yes
 culture = shawnee

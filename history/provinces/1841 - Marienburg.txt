@@ -1,5 +1,5 @@
 owner = LIT
-controller = LIT
+#controller = LIT
 capital = "Marienburg"
 is_city = yes
 culture = pruthenian

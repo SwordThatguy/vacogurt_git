@@ -1,5 +1,5 @@
 owner = WAR
-controller = WAR
+#controller = WAR
 capital = "Maydh"
 is_city = yes
 culture = somali

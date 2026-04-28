@@ -1,5 +1,5 @@
 owner = MLW
-controller = MLW
+#controller = MLW
 capital = "Bhilwara"
 is_city = yes
 culture = rajput

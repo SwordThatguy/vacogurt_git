@@ -1,5 +1,5 @@
 owner = ALT
-controller = ALT
+#controller = ALT
 capital = "Yamasee"
 is_city = yes
 culture = yamasee

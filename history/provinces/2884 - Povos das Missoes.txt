@@ -1,5 +1,5 @@
 owner = GUA
-controller = GUA
+#controller = GUA
 capital = "Sao Borja"
 is_city = yes
 culture = guarani

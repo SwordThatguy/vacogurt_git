@@ -1,5 +1,5 @@
 owner = LDU
-controller = LDU
+#controller = LDU
 capital = "Nsenga"
 is_city = yes
 culture = nyasa

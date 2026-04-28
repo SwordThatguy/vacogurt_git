@@ -1,5 +1,5 @@
 owner = BEJ
-controller = BEJ
+#controller = BEJ
 capital = "Debarwa"
 is_city = yes
 culture = tigray

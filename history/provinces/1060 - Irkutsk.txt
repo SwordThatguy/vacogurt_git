@@ -1,5 +1,5 @@
 owner = Z2K
-controller = Z2K
+#controller = Z2K
 capital = "Irkutsk"
 is_city = yes
 culture = mongol

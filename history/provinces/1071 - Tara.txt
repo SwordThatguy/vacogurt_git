@@ -1,5 +1,5 @@
 owner = GLH
-controller = GLH
+#controller = GLH
 capital = "Tara"
 is_city = yes
 culture = ostyaki

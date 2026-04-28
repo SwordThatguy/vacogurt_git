@@ -1,5 +1,5 @@
 owner = Z1W
-controller = Z1W
+#controller = Z1W
 capital = "Dege"
 is_city = yes
 culture = tibetan

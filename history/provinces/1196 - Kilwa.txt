@@ -1,5 +1,5 @@
 owner = ZAN
-controller = ZAN
+#controller = ZAN
 capital = "Kilwa Kisiwani"
 is_city = yes
 culture = swahili

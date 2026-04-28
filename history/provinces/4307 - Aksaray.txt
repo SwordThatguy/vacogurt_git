@@ -1,5 +1,5 @@
 owner = RUM
-controller = RUM
+#controller = RUM
 capital = "Aksaray"
 is_city = yes
 culture = turkish

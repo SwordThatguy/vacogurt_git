@@ -1,5 +1,5 @@
 owner = LOT
-controller = LOT
+#controller = LOT
 capital = "Aachen"
 is_city = yes
 culture = dutch

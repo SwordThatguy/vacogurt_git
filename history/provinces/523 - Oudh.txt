@@ -1,5 +1,5 @@
 owner = PUN
-controller = PUN
+#controller = PUN
 capital = "Lucknow"
 is_city = yes
 culture = avadhi

@@ -1,5 +1,5 @@
 owner = ICM
-controller = ICM
+#controller = ICM
 capital = "Lima"
 is_city = yes
 culture = inca

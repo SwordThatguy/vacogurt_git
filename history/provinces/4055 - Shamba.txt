@@ -1,5 +1,5 @@
 owner = Z0W
-controller = Z0W
+#controller = Z0W
 capital = "Shambaa"
 is_city = yes
 culture = bantu

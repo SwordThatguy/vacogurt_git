@@ -1,5 +1,5 @@
 owner = FRA
-controller = FRA
+#controller = FRA
 capital = "Lyon"
 is_city = yes
 culture = arpitan

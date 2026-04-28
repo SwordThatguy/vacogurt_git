@@ -1,5 +1,5 @@
 owner = FEZ
-controller = FEZ
+#controller = FEZ
 capital = "Fez"
 is_city = yes
 culture = moroccan

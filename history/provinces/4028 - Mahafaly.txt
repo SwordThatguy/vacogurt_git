@@ -1,5 +1,5 @@
 owner = MFY
-controller = MFY
+#controller = MFY
 capital = "Mahafaly"
 is_city = yes
 culture = madagasque

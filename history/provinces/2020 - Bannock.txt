@@ -1,5 +1,5 @@
 owner = SHO
-controller = SHO
+#controller = SHO
 capital = "Bannock"
 is_city = yes
 culture = shoshone

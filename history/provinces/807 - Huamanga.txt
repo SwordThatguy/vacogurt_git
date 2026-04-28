@@ -1,5 +1,5 @@
 owner = CSU
-controller = CSU
+#controller = CSU
 capital = "Abancay"
 is_city = yes
 culture = inca

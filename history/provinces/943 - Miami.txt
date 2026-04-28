@@ -1,5 +1,5 @@
 owner = MMI
-controller = MMI
+#controller = MMI
 capital = "Miami"
 is_city = yes
 culture = miami

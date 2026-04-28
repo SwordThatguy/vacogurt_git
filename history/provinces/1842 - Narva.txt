@@ -1,5 +1,4 @@
-owner = GOT
-controller = GOT
+owner = EST
 capital = "Narva"
 is_city = yes
 culture = estonian
@@ -8,7 +7,7 @@ trade_goods = grain
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = GOT
+add_core = EST
 add_permanent_claim = EST
 discovered_by = AST
 discovered_by = CRI

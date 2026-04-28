@@ -1,5 +1,5 @@
 owner = BTS
-controller = BTS
+#controller = BTS
 capital = "Ambilobe"
 is_city = yes
 culture = madagasque

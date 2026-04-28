@@ -1,5 +1,5 @@
 owner = SWA
-controller = SWA
+#controller = SWA
 capital = "Konstanz"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 center_of_trade = 1
-add_core = GER
+add_core = VAC
 add_core = SWA
 discovered_by = eastern
 discovered_by = muslim

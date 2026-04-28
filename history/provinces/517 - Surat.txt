@@ -1,5 +1,5 @@
 owner = MLW
-controller = MLW
+#controller = MLW
 capital = "Surat"
 is_city = yes
 culture = gujarati

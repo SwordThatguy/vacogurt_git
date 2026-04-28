@@ -1,5 +1,5 @@
 owner = COC
-controller = COC
+#controller = COC
 capital = "Sotuta"
 is_city = yes
 culture = yucatec

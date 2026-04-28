@@ -1,5 +1,5 @@
 owner = LAI
-controller = LAI
+#controller = LAI
 capital = "Bau"
 is_city = yes
 culture = melanesian

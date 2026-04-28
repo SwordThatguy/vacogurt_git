@@ -1,5 +1,5 @@
 owner = Z0Z
-controller = Z0Z
+#controller = Z0Z
 capital = "Las Palmas"
 is_city = yes
 culture = berber

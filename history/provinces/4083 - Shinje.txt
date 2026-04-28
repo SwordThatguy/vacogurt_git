@@ -1,5 +1,5 @@
 owner = KSJ
-controller = KSJ
+#controller = KSJ
 capital = "Shinje"
 is_city = yes
 culture = mbangala

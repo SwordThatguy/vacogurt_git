@@ -1,5 +1,5 @@
 owner = NAV
-controller = NAV
+#controller = NAV
 capital = "Pamplona"
 is_city = yes
 culture = basque

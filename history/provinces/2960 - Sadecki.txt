@@ -1,5 +1,5 @@
 owner = POL
-controller = POL
+#controller = POL
 capital = "Nowy Sacz"
 is_city = yes
 culture = polish

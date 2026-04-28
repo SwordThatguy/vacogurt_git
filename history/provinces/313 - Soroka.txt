@@ -1,5 +1,5 @@
 owner = Z0V
-controller = Z0V
+#controller = Z0V
 capital = "Soroka"
 is_city = yes
 culture = bjarmian

@@ -1,5 +1,5 @@
 owner = ZNI
-controller = ZNI
+#controller = ZNI
 capital = "Zuni"
 is_city = yes
 culture = pueblo

@@ -1,5 +1,5 @@
 owner = SWA
-controller = SWA
+#controller = SWA
 capital = "Altkirch"
 is_city = yes
 culture = swabian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 6
 base_production = 4
 base_manpower = 5
-add_core = GER
+add_core = VAC
 add_core = SWA
 discovered_by = eastern
 discovered_by = muslim

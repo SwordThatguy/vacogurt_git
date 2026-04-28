@@ -1,5 +1,5 @@
 owner = CAQ
-controller = CAQ
+#controller = CAQ
 capital = "Quapaw"
 is_city = yes
 culture = yoron

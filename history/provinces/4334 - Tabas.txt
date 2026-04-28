@@ -1,5 +1,5 @@
 owner = ORM
-controller = ORM
+#controller = ORM
 capital = "Tabas"
 is_city = yes
 culture = khorasani

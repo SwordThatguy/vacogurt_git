@@ -1,5 +1,5 @@
 owner = TAH
-controller = TAH
+#controller = TAH
 capital = "Tahontaenrat"
 is_city = yes
 culture = huron

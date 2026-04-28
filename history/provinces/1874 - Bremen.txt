@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = VAC
+#controller = VAC
 capital = "Bremen"
 is_city = yes
 culture = lower_saxon
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 18
 center_of_trade = 1
-add_core = GER
+add_core = VAC
 add_core = HAN
 discovered_by = eastern
 discovered_by = muslim

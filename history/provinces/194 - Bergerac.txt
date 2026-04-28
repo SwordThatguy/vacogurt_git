@@ -1,5 +1,4 @@
-owner = FRA
-controller = FRA
+owner = TOU
 capital = "Bergerac"
 is_city = yes
 culture = aquitaine
@@ -9,7 +8,6 @@ fort_15th = yes
 base_tax = 6
 base_production = 4
 base_manpower = 3
-add_core = FRA
 add_core = TOU
 discovered_by = eastern
 discovered_by = muslim

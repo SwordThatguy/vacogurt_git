@@ -1,5 +1,5 @@
 owner = Z3O
-controller = Z3O
+#controller = Z3O
 capital = "Asatarabad"
 is_city = yes
 culture = mazandarani

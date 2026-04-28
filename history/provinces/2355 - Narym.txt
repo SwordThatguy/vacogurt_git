@@ -1,5 +1,5 @@
 owner = Z07
-controller = Z07
+#controller = Z07
 capital = "Narym"
 is_city = yes
 culture = dynamic-nogaybak-culture-num1

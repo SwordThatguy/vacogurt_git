@@ -1,5 +1,5 @@
 owner = KER
-controller = KER
+#controller = KER
 capital = "Zia"
 is_city = yes
 culture = pueblo

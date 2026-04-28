@@ -1,5 +1,5 @@
 owner = PTG
-controller = PTG
+#controller = PTG
 capital = "Ceara"
 is_city = yes
 culture = tupinamba

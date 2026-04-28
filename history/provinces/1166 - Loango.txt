@@ -1,5 +1,5 @@
 owner = LOA
-controller = LOA
+#controller = LOA
 capital = "Loango"
 is_city = yes
 culture = kongolese

@@ -1,5 +1,5 @@
 owner = CLM
-controller = CLM
+#controller = CLM
 capital = "Tecoman"
 is_city = yes
 culture = tecos

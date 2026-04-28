@@ -1,5 +1,5 @@
 owner = BND
-controller = BND
+#controller = BND
 capital = "Jhansi"
 is_city = yes
 culture = malvi

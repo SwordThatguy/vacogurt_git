@@ -1,5 +1,5 @@
 owner = CLA
-controller = CLA
+#controller = CLA
 capital = "Hatuncolla"
 is_city = yes
 culture = aimara

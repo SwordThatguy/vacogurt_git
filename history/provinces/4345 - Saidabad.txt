@@ -1,5 +1,5 @@
 owner = KRM
-controller = KRM
+#controller = KRM
 capital = "Saidabad"
 is_city = yes
 culture = persian

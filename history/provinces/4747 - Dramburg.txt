@@ -1,5 +1,5 @@
 owner = POM
-controller = POM
+#controller = POM
 capital = "Dramburg"
 is_city = yes
 culture = old_pommeranian

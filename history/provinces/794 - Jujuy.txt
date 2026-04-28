@@ -1,5 +1,5 @@
 owner = CCQ
-controller = CCQ
+#controller = CCQ
 capital = "Jujuy"
 is_city = yes
 culture = diaguita

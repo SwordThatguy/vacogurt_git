@@ -1,5 +1,5 @@
 owner = SOL
-controller = SOL
+#controller = SOL
 capital = "Udi"
 is_city = yes
 culture = evenk

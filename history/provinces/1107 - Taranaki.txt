@@ -1,5 +1,5 @@
 owner = TNK
-controller = TNK
+#controller = TNK
 capital = "Ngamotu"
 is_city = yes
 culture = maori

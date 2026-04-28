@@ -1,5 +1,5 @@
 owner = Z3V
-controller = Z3V
+#controller = Z3V
 capital = "Satara"
 is_city = yes
 culture = marathi

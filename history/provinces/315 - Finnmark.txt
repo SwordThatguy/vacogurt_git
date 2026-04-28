@@ -1,5 +1,4 @@
-owner = NOR
-controller = NOR
+owner = SMI
 capital = "Vardø"
 is_city = yes
 culture = norwegian
@@ -8,7 +7,7 @@ trade_goods = fish
 base_tax = 2
 base_production = 2
 base_manpower = 1
-add_core = NOR
+add_core = SMI
 add_permanent_claim = SMI
 discovered_by = eastern
 discovered_by = western

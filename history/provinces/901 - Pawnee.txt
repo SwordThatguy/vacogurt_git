@@ -1,5 +1,5 @@
 owner = PAW
-controller = PAW
+#controller = PAW
 capital = "Pawnee"
 is_city = yes
 culture = pawnee

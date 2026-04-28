@@ -1,5 +1,5 @@
 owner = RWA
-controller = RWA
+#controller = RWA
 capital = "Bafuriru"
 is_city = yes
 culture = rwandan

@@ -1,5 +1,5 @@
 owner = COM
-controller = COM
+#controller = COM
 capital = "Cheyenne"
 is_city = yes
 culture = shoshone

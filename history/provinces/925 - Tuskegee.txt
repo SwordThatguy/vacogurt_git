@@ -1,5 +1,5 @@
 owner = COW
-controller = COW
+#controller = COW
 capital = "Tuskegee"
 is_city = yes
 culture = creek

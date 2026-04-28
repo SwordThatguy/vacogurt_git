@@ -1,5 +1,5 @@
 owner = BND
-controller = BND
+#controller = BND
 capital = "Garha"
 is_city = yes
 culture = vindhyan

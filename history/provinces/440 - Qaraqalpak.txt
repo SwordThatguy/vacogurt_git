@@ -1,5 +1,5 @@
 owner = TRS
-controller = TRS
+#controller = TRS
 capital = "Chimbay"
 is_city = yes
 culture = oghuz

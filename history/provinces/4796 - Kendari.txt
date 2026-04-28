@@ -1,5 +1,5 @@
 owner = Z0J
-controller = Z0J
+#controller = Z0J
 capital = "Kendari"
 is_city = yes
 culture = sulawesi

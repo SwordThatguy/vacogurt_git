@@ -1,5 +1,5 @@
 owner = Z59
-controller = Z59
+#controller = Z59
 capital = "Penukonda"
 is_city = yes
 culture = kannada

@@ -1,5 +1,5 @@
 owner = Z1C
-controller = Z1C
+#controller = Z1C
 capital = "Amanvi"
 is_city = yes
 culture = aka

@@ -1,5 +1,5 @@
 owner = ITA
-controller = ITA
+#controller = ITA
 capital = "Urbino"
 is_city = yes
 culture = umbrian

@@ -1,5 +1,5 @@
 owner = VOL
-controller = VOL
+#controller = VOL
 capital = "Chelm"
 is_city = yes
 culture = ruthenian

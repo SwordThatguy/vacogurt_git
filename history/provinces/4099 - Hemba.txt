@@ -1,5 +1,5 @@
 owner = LUB
-controller = LUB
+#controller = LUB
 capital = "Hemba"
 is_city = yes
 culture = luba

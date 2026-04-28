@@ -1,5 +1,5 @@
 owner = ENG
-controller = ENG
+#controller = ENG
 capital = "Oxford"
 is_city = yes
 culture = english

@@ -1,5 +1,5 @@
 owner = BSH
-controller = BSH
+#controller = BSH
 capital = "Iglino"
 is_city = yes
 culture = uralic

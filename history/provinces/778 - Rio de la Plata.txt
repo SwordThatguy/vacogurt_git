@@ -1,5 +1,5 @@
 owner = CUA
-controller = CUA
+#controller = CUA
 capital = "Rio de la Plata"
 is_city = yes
 culture = charruan

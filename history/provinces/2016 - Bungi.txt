@@ -1,5 +1,5 @@
 owner = ASI
-controller = ASI
+#controller = ASI
 capital = "Bungi"
 is_city = yes
 culture = nakota

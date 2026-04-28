@@ -1,5 +1,5 @@
 owner = QTO
-controller = QTO
+#controller = QTO
 capital = "Esmeraldas"
 is_city = yes
 culture = cara

@@ -1,5 +1,5 @@
 owner = MAI
-controller = MAI
+#controller = MAI
 capital = "Mainz"
 is_city = yes
 culture = hessian
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
-add_core = GER
+add_core = VAC
 add_core = MAI
 discovered_by = eastern
 discovered_by = muslim

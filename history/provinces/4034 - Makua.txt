@@ -1,5 +1,5 @@
 owner = MKU
-controller = MKU
+#controller = MKU
 capital = "Makua"
 is_city = yes
 culture = makua

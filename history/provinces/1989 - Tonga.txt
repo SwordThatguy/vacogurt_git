@@ -1,5 +1,5 @@
 owner = TOG
-controller = TOG
+#controller = TOG
 capital = "Mu'a"
 is_city = yes
 culture = polynesian

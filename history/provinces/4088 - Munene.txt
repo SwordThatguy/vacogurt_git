@@ -1,5 +1,5 @@
 owner = KUB
-controller = KUB
+#controller = KUB
 capital = "Mai Munene"
 is_city = yes
 culture = kuba

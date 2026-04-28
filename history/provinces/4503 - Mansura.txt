@@ -1,5 +1,5 @@
 owner = SND
-controller = SND
+#controller = SND
 capital = "Mansura"
 is_city = yes
 culture = sindhi

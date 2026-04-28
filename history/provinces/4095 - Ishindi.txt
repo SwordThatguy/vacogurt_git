@@ -1,5 +1,5 @@
 owner = CKW
-controller = CKW
+#controller = CKW
 capital = "Ishindi"
 is_city = yes
 culture = chokwe

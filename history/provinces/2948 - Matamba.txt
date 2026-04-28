@@ -1,5 +1,5 @@
 owner = NDO
-controller = NDO
+#controller = NDO
 capital = "Matamba"
 is_city = yes
 culture = mbundu

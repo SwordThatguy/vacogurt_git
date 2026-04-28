@@ -1,5 +1,5 @@
 owner = Z1Q
-controller = Z1Q
+#controller = Z1Q
 capital = "Kuznetsk"
 is_city = yes
 culture = tuvan

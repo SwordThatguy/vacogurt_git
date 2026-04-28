@@ -1,5 +1,5 @@
 owner = Z1L
-controller = Z1L
+#controller = Z1L
 capital = "Sayan"
 is_city = yes
 culture = dynamic-mongol-culture-num1

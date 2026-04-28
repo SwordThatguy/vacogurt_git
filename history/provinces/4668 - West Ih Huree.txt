@@ -1,5 +1,5 @@
 owner = KHA
-controller = KHA
+#controller = KHA
 capital = "Orkhon"
 is_city = yes
 culture = mongol

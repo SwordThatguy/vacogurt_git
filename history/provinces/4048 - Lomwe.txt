@@ -1,5 +1,5 @@
 owner = MRA
-controller = MRA
+#controller = MRA
 capital = "Lomwe"
 is_city = yes
 culture = makua

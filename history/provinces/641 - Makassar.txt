@@ -1,5 +1,5 @@
 owner = BNJ
-controller = BNJ
+#controller = BNJ
 capital = "Makassar"
 is_city = yes
 culture = sulawesi

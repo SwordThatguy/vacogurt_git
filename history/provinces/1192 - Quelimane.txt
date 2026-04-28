@@ -1,5 +1,5 @@
 owner = SFA
-controller = SFA
+#controller = SFA
 capital = "Quelimane"
 is_city = yes
 culture = nyasa

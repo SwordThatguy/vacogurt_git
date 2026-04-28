@@ -1,5 +1,5 @@
 owner = CCA
-controller = CCA
+#controller = CCA
 capital = "Ouasioto"
 is_city = yes
 culture = yuchi

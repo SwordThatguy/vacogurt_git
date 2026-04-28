@@ -1,5 +1,5 @@
 owner = NOR
-controller = NOR
+#controller = NOR
 capital = "Frösön"
 is_city = yes
 culture = dynamic-norwegian-culture-num1

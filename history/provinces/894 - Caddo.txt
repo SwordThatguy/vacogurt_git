@@ -1,5 +1,5 @@
 owner = CAD
-controller = CAD
+#controller = CAD
 capital = "Caddo"
 is_city = yes
 culture = caddo

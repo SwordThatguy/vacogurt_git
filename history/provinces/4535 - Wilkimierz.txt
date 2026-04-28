@@ -1,5 +1,5 @@
 owner = NOV
-controller = NOV
+#controller = NOV
 capital = "Vilkmerge"
 is_city = yes
 culture = byelorussian

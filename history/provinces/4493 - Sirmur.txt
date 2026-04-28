@@ -1,5 +1,5 @@
 owner = GUG
-controller = GUG
+#controller = GUG
 capital = "Malaun"
 is_city = yes
 culture = tibetan

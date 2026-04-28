@@ -1,5 +1,5 @@
 owner = SMI
-controller = SMI
+#controller = SMI
 capital = "Kola"
 is_city = yes
 culture = sapmi

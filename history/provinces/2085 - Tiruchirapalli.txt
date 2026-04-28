@@ -1,5 +1,5 @@
 owner = Z11
-controller = Z11
+#controller = Z11
 capital = "Tiruchirapalli"
 is_city = yes
 culture = tamil

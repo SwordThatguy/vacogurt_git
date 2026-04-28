@@ -1,5 +1,5 @@
 owner = LUW
-controller = LUW
+#controller = LUW
 capital = "Poso"
 is_city = yes
 culture = sulawesi

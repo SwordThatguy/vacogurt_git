@@ -1,5 +1,5 @@
 owner = Z26
-controller = Z26
+#controller = Z26
 capital = "Mohshi"
 is_city = yes
 culture = mordvin

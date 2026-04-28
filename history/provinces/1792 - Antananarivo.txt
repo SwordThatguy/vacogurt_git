@@ -1,5 +1,5 @@
 owner = MIR
-controller = MIR
+#controller = MIR
 capital = "Alasora"
 is_city = yes
 culture = madagasque

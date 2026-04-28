@@ -1,5 +1,5 @@
 owner = OEO
-controller = OEO
+#controller = OEO
 capital = "Fox"
 culture = chiwere
 religion = totemism

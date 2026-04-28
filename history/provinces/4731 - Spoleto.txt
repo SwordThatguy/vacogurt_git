@@ -1,5 +1,5 @@
 owner = SPL
-controller = SPL
+#controller = SPL
 capital = "Spoleto"
 is_city = yes
 culture = umbrian

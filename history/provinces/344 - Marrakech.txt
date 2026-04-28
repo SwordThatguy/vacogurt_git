@@ -1,5 +1,5 @@
 owner = MRK
-controller = MRK
+#controller = MRK
 capital = "Marrakech"
 is_city = yes
 culture = moroccan

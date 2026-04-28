@@ -1,5 +1,5 @@
 owner = BAL
-controller = BAL
+#controller = BAL
 capital = "Nasirpur"
 is_city = yes
 culture = sindhi

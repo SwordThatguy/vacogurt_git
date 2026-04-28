@@ -1,5 +1,5 @@
 owner = TPA
-controller = TPA
+#controller = TPA
 capital = "Belém"
 is_city = yes
 culture = tupinamba

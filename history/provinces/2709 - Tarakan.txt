@@ -1,5 +1,5 @@
 owner = KUT
-controller = KUT
+#controller = KUT
 capital = "Tarakan"
 is_city = yes
 culture = dayak

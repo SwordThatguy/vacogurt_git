@@ -1,5 +1,5 @@
 owner = ETO
-controller = ETO
+#controller = ETO
 capital = "Coweta"
 is_city = yes
 culture = creek

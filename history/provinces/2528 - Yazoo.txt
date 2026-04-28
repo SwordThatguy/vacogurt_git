@@ -1,5 +1,5 @@
 owner = QUI
-controller = QUI
+#controller = QUI
 capital = "Yazoo"
 is_city = yes
 culture = natchez

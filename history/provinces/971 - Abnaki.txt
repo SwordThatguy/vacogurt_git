@@ -1,5 +1,5 @@
 owner = PEN
-controller = PEN
+#controller = PEN
 capital = "Abnaki"
 is_city = yes
 culture = abenaki

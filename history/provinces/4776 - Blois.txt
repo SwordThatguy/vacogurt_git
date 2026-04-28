@@ -1,5 +1,5 @@
 owner = FRA
-controller = FRA
+#controller = FRA
 capital = "Blois"
 is_city = yes
 culture = cosmopolitan_french

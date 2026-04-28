@@ -1,5 +1,5 @@
 owner = PTE
-controller = PTE
+#controller = PTE
 capital = "Malindi"
 is_city = yes
 culture = swahili

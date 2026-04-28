@@ -1,5 +1,5 @@
 owner = Z3H
-controller = Z3H
+#controller = Z3H
 capital = "Nadym"
 is_city = yes
 culture = nogaybak

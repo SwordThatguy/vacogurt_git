@@ -1,5 +1,5 @@
 owner = ARA
-controller = ARA
+#controller = ARA
 capital = "Cuneo"
 is_city = yes
 culture = occitain

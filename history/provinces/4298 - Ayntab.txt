@@ -1,5 +1,5 @@
 owner = ARB
-controller = ARB
+#controller = ARB
 capital = "Ayntab"
 is_city = yes
 culture = armenian

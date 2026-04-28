@@ -1,5 +1,5 @@
 owner = Z03
-controller = Z03
+#controller = Z03
 capital = "Plasencia"
 is_city = yes
 culture = leonese

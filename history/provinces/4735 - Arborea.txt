@@ -1,5 +1,5 @@
 owner = ITA
-controller = ITA
+#controller = ITA
 capital = "Arborea"
 is_city = yes
 culture = sardinian

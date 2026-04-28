@@ -1,5 +1,5 @@
 owner = Z12
-controller = Z12
+#controller = Z12
 capital = "Angara"
 is_city = yes
 culture = dynamic-mongol-culture-num1

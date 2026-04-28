@@ -1,5 +1,5 @@
 owner = HDA
-controller = HDA
+#controller = HDA
 capital = "Haida"
 is_city = yes
 culture = haida

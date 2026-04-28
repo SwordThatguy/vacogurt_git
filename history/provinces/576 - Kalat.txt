@@ -1,5 +1,5 @@
 owner = PUN
-controller = PUN
+#controller = PUN
 capital = "Kalat"
 is_city = yes
 culture = afghani

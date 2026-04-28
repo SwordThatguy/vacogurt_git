@@ -1,5 +1,5 @@
 owner = Z3I
-controller = Z3I
+#controller = Z3I
 capital = "Juketau"
 is_city = yes
 culture = uralic

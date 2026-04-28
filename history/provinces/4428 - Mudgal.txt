@@ -1,5 +1,5 @@
 owner = Z23
-controller = Z23
+#controller = Z23
 capital = "Mudgal"
 is_city = yes
 culture = dynamic-kannada-tajik-culture-num1

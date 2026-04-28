@@ -1,5 +1,5 @@
 owner = WKA
-controller = WKA
+#controller = WKA
 capital = "Jauja"
 is_city = yes
 culture = inca

@@ -1,5 +1,5 @@
 owner = Z1F
-controller = Z1F
+#controller = Z1F
 capital = "Idah"
 is_city = yes
 culture = nupe

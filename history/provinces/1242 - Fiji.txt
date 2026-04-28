@@ -1,5 +1,5 @@
 owner = VIL
-controller = VIL
+#controller = VIL
 capital = "Viseisei"
 is_city = yes
 culture = melanesian

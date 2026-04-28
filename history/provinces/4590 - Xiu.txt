@@ -1,5 +1,5 @@
 owner = XIU
-controller = XIU
+#controller = XIU
 capital = "Mani"
 is_city = yes
 culture = yucatec

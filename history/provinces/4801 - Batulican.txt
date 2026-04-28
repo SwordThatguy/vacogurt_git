@@ -1,5 +1,5 @@
 owner = BNJ
-controller = BNJ
+#controller = BNJ
 capital = "Batulican"
 is_city = yes
 culture = dayak

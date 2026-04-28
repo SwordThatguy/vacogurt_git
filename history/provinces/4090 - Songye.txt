@@ -1,5 +1,5 @@
 owner = KLD
-controller = KLD
+#controller = KLD
 capital = "Songye"
 is_city = yes
 culture = luba

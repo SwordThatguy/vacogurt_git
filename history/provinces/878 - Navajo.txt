@@ -1,5 +1,5 @@
 owner = NAH
-controller = NAH
+#controller = NAH
 capital = "Navajo"
 is_city = yes
 culture = navajo

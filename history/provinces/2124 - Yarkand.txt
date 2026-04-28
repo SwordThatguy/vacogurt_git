@@ -1,5 +1,5 @@
 owner = KAS
-controller = KAS
+#controller = KAS
 capital = "Yarkant"
 is_city = yes
 culture = uyghur

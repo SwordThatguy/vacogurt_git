@@ -1,5 +1,5 @@
 owner = ETH
-controller = ETH
+#controller = ETH
 capital = "Lalibela"
 is_city = yes
 culture = afar

@@ -1,5 +1,5 @@
 owner = CLM
-controller = CLM
+#controller = CLM
 capital = "Apatzingan"
 is_city = yes
 culture = purepecha

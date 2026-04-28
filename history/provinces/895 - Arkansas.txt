@@ -1,5 +1,5 @@
 owner = ANL
-controller = ANL
+#controller = ANL
 capital = "Arkansas"
 is_city = yes
 culture = yoron

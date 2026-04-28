@@ -1,5 +1,5 @@
 owner = Z2B
-controller = Z2B
+#controller = Z2B
 capital = "Koumbi"
 is_city = yes
 culture = senegambian

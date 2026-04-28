@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = VAC
+#controller = VAC
 capital = "Lauenburg"
 is_city = yes
 culture = lower_saxon
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = GER
+add_core = VAC
 add_core = HAN
 discovered_by = eastern
 discovered_by = muslim

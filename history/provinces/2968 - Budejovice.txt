@@ -1,5 +1,5 @@
 owner = BOH
-controller = BOH
+#controller = BOH
 capital = "Budejovice"
 is_city = yes
 culture = czech

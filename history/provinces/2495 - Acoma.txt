@@ -1,5 +1,5 @@
 owner = ACO
-controller = ACO
+#controller = ACO
 capital = "Acoma"
 is_city = yes
 culture = pueblo

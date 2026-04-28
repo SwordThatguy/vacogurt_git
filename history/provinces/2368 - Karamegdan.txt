@@ -1,5 +1,5 @@
 owner = Z30
-controller = Z30
+#controller = Z30
 capital = "Karamegdan"
 is_city = yes
 culture = uzbehk

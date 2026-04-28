@@ -1,5 +1,5 @@
 owner = DAR
-controller = DAR
+#controller = DAR
 capital = "Al-Junaynahr"
 is_city = yes
 culture = daju

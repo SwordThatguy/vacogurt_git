@@ -1,5 +1,5 @@
 owner = HJA
-controller = HJA
+#controller = HJA
 capital = "Huanuco"
 is_city = yes
 culture = inca

@@ -1,5 +1,5 @@
 owner = SUD
-controller = SUD
+#controller = SUD
 capital = "Budyšín"
 is_city = yes
 culture = sudeten

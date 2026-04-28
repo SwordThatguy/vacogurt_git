@@ -1,5 +1,5 @@
 owner = KHA
-controller = KHA
+#controller = KHA
 capital = "Udinskoye"
 is_city = yes
 culture = buryat

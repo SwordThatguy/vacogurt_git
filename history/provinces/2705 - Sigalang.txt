@@ -1,5 +1,5 @@
 owner = SMB
-controller = SMB
+#controller = SMB
 capital = "Sigalang"
 is_city = yes
 culture = dayak

@@ -1,5 +1,5 @@
 owner = CIA
-controller = CIA
+#controller = CIA
 capital = "Cherokee"
 is_city = yes
 culture = yuchi

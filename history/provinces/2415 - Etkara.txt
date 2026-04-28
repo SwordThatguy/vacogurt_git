@@ -1,5 +1,5 @@
 owner = CVS
-controller = CVS
+#controller = CVS
 capital = "Etkara"
 is_city = yes
 culture = chuvash

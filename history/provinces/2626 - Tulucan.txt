@@ -1,5 +1,5 @@
 owner = MAT
-controller = MAT
+#controller = MAT
 capital = "Matlatzinca"
 is_city = yes
 culture = matlatzinca

@@ -1,12 +1,11 @@
 government = theocracy
-add_government_reform = leading_clergy_reform
+add_government_reform = free_city
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = hessian
 capital = 78
 fixed_capital = 78
-elector = yes
 1396.1.1= {
 	monarch = {
 		name = "Johann II"

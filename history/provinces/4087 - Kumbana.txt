@@ -1,5 +1,5 @@
 owner = YAK
-controller = YAK
+#controller = YAK
 capital = "Mwata Kumbana"
 is_city = yes
 culture = yaka

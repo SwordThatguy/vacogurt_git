@@ -1,5 +1,5 @@
 owner = PRM
-controller = PRM
+#controller = PRM
 capital = "Ust-Vym"
 is_city = yes
 culture = uralic

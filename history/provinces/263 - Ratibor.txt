@@ -1,5 +1,5 @@
 owner = POL
-controller = POL
+#controller = POL
 capital = "Ratibor"
 is_city = yes
 culture = schlesian

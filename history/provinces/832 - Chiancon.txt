@@ -1,5 +1,5 @@
 owner = MCA
-controller = MCA
+#controller = MCA
 capital = "Tunja"
 is_city = yes
 culture = muisca

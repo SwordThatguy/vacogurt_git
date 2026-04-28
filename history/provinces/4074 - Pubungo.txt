@@ -1,5 +1,5 @@
 owner = BNY
-controller = BNY
+#controller = BNY
 capital = "Pubungo"
 is_city = yes
 culture = acholi

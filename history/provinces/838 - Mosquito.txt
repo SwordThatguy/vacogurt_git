@@ -1,5 +1,5 @@
 owner = MIS
-controller = MIS
+#controller = MIS
 capital = "Mosquito"
 is_city = yes
 culture = miskito

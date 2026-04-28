@@ -1,5 +1,5 @@
 owner = MAH
-controller = MAH
+#controller = MAH
 capital = "Pocumtuk"
 is_city = yes
 culture = mahican

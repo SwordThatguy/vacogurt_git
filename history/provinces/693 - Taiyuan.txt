@@ -1,5 +1,5 @@
 owner = YUE
-controller = YUE
+#controller = YUE
 capital = "Taiyuan"
 is_city = yes
 culture = dynamic-chihan-culture-num2

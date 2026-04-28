@@ -1,5 +1,5 @@
 owner = CHG
-controller = CHG
+#controller = CHG
 capital = "Almaty"
 is_city = yes
 culture = khitan

@@ -1,5 +1,5 @@
 owner = KHO
-controller = KHO
+#controller = KHO
 capital = "Balkh"
 is_city = yes
 culture = khorasani

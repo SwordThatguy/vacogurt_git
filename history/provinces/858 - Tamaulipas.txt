@@ -1,5 +1,5 @@
 owner = HST
-controller = HST
+#controller = HST
 capital = "Tamaulipas"
 is_city = yes
 culture = wastek

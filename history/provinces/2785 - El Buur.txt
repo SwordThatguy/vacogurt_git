@@ -1,5 +1,5 @@
 owner = MDI
-controller = MDI
+#controller = MDI
 capital = "El Buur"
 is_city = yes
 culture = somali

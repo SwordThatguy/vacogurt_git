@@ -1,5 +1,5 @@
 owner = Z0F
-controller = Z0F
+#controller = Z0F
 capital = "Kelang"
 is_city = yes
 culture = polynesian

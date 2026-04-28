@@ -1,5 +1,5 @@
 owner = Z33
-controller = Z33
+#controller = Z33
 capital = "Lifau"
 is_city = yes
 culture = moluccan

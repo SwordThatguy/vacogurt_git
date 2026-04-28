@@ -1,5 +1,5 @@
 owner = ASH
-controller = ASH
+#controller = ASH
 capital = "Axim"
 is_city = yes
 culture = aka

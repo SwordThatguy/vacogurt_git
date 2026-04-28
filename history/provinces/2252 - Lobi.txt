@@ -1,5 +1,5 @@
 owner = Z1X
-controller = Z1X
+#controller = Z1X
 capital = "Lobi"
 is_city = yes
 culture = mali

@@ -1,5 +1,5 @@
 owner = XAL
-controller = XAL
+#controller = XAL
 capital = "Tzapotzingo"
 is_city = yes
 culture = tepic

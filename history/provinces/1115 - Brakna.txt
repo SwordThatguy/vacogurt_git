@@ -1,5 +1,5 @@
 owner = Z04
-controller = Z04
+#controller = Z04
 capital = "Aligh"
 is_city = yes
 culture = dynamic-berber-soninke-culture-num1

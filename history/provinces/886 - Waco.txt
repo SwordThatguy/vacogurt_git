@@ -1,5 +1,5 @@
 owner = WIC
-controller = WIC
+#controller = WIC
 capital = "Waco"
 is_city = yes
 culture = wichita

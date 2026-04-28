@@ -1,5 +1,5 @@
 owner = BRA
-controller = BRA
+#controller = BRA
 capital = "Neuruppin"
 is_city = yes
 culture = prussian

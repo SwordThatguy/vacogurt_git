@@ -1,5 +1,5 @@
 owner = CTM
-controller = CTM
+#controller = CTM
 capital = "Moran"
 is_city = yes
 culture = putun

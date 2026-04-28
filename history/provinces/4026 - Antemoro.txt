@@ -1,5 +1,5 @@
 owner = ANT
-controller = ANT
+#controller = ANT
 capital = "Vohipeno"
 is_city = yes
 culture = madagasque

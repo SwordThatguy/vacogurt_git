@@ -1,5 +1,5 @@
 owner = NKO
-controller = NKO
+#controller = NKO
 capital = "Nkore"
 is_city = yes
 culture = ganda

@@ -1,5 +1,5 @@
 owner = CNP
-controller = CNP
+#controller = CNP
 capital = "Campeche"
 is_city = yes
 culture = yucatec

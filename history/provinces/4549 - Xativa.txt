@@ -1,5 +1,5 @@
 owner = VAL
-controller = Z2N
+#controller = Z2N
 capital = "Xativa"
 is_city = yes
 culture = andalucian

@@ -1,5 +1,5 @@
 owner = LON
-controller = LON
+#controller = LON
 capital = "Orense"
 is_city = yes
 culture = leonese

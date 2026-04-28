@@ -1,5 +1,5 @@
 owner = CRA
-controller = CRA
+#controller = CRA
 capital = "Choquechaca"
 is_city = yes
 culture = aimara

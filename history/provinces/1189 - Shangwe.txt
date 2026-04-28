@@ -1,5 +1,5 @@
 owner = RZW
-controller = RZW
+#controller = RZW
 capital = "Shangwe"
 is_city = yes
 culture = shona

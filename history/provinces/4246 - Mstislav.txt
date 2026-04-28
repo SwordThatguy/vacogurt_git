@@ -1,5 +1,5 @@
 owner = NOV
-controller = NOV
+#controller = NOV
 capital = "Mstsislaw"
 is_city = yes
 culture = byelorussian

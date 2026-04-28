@@ -1,5 +1,5 @@
 owner = FRA
-controller = FRA
+#controller = FRA
 capital = "Bayonne"
 is_city = yes
 culture = basque

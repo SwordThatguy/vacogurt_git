@@ -1,5 +1,5 @@
 owner = MAL
-controller = MAL
+#controller = MAL
 capital = "Timbo"
 is_city = yes
 culture = fulani

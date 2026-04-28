@@ -72,8 +72,24 @@ vassal=
 
 vassal=
 {
-	first="VAL"
-	second="Z2N"
+	first="ARA"
+	second="VAL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="TOU"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="PRO"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }

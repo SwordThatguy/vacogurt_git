@@ -1,5 +1,5 @@
 owner = AIR
-controller = AIR
+#controller = AIR
 capital = "Asodé"
 is_city = yes
 culture = berber

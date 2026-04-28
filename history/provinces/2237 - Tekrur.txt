@@ -1,5 +1,5 @@
 owner = Z1N
-controller = Z1N
+#controller = Z1N
 capital = "Tekrur"
 is_city = yes
 culture = dynamic-berber-soninke-culture-num1

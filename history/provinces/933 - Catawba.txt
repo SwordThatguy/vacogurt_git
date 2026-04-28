@@ -1,5 +1,5 @@
 owner = COF
-controller = COF
+#controller = COF
 capital = "Catawba"
 is_city = yes
 culture = catawba

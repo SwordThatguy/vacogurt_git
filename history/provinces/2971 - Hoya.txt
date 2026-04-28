@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = VAC
+#controller = VAC
 capital = "Hoya"
 is_city = yes
 culture = old_lombard
@@ -10,7 +10,7 @@ hre = yes
 base_tax = 5
 base_production = 1
 base_manpower = 4
-add_core = GER
+add_core = VAC
 add_core = WES
 discovered_by = eastern
 discovered_by = muslim

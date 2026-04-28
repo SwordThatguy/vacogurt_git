@@ -1,5 +1,5 @@
 owner = Z02
-controller = Z02
+#controller = Z02
 capital = "Niuman"
 is_city = yes
 culture = manchu

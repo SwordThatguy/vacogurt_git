@@ -1,5 +1,5 @@
 owner = Z0I
-controller = Z0I
+#controller = Z0I
 capital = "Ternate"
 is_city = yes
 culture = moluccan

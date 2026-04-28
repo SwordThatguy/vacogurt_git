@@ -1,5 +1,5 @@
 owner = Z16
-controller = Z16
+#controller = Z16
 capital = "Dundgovi"
 is_city = yes
 culture = mongol

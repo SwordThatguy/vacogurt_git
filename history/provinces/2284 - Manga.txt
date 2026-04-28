@@ -1,5 +1,5 @@
 owner = AIR
-controller = AIR
+#controller = AIR
 capital = "Manga"
 is_city = yes
 culture = kanuri

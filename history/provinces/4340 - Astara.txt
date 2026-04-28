@@ -1,5 +1,5 @@
 owner = ARL
-controller = ARL
+#controller = ARL
 capital = "Astara"
 is_city = yes
 culture = mazandarani

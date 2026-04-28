@@ -1,5 +1,5 @@
 owner = Z1N
-controller = Z1N
+#controller = Z1N
 capital = "Awlil"
 is_city = yes
 culture = senegambian

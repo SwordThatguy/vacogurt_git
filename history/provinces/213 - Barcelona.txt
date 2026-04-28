@@ -1,5 +1,5 @@
 owner = ARA
-controller = CAT
+#controller = CAT
 capital = "Barcelona"
 is_city = yes
 culture = catalan

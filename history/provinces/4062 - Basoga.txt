@@ -1,5 +1,5 @@
 owner = BSG
-controller = BSG
+#controller = BSG
 capital = "Bukaleeba"
 is_city = yes
 culture = masaba

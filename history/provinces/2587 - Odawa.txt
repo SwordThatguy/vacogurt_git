@@ -1,5 +1,5 @@
 owner = OTT
-controller = OTT
+#controller = OTT
 capital = "Odawa"
 is_city = yes
 culture = anishinabe

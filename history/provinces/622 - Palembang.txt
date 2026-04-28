@@ -1,5 +1,5 @@
 owner = PLB
-controller = PLB
+#controller = PLB
 capital = "Palembang"
 is_city = yes
 culture = sumatran

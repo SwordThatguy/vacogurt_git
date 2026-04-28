@@ -1,5 +1,5 @@
 owner = ISL
-controller = ISL
+#controller = ISL
 capital = "Cochiti"
 is_city = yes
 culture = pueblo

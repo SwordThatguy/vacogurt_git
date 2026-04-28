@@ -1,5 +1,5 @@
 owner = HUN
-controller = HUN
+#controller = HUN
 capital = "Bács"
 is_city = yes
 culture = hungarian

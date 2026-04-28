@@ -1,5 +1,5 @@
 owner = Z44
-controller = Z44
+#controller = Z44
 capital = "Malatiya"
 is_city = yes
 culture = turkish

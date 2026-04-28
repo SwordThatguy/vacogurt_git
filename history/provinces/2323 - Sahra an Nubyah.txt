@@ -1,5 +1,5 @@
 owner = ARB
-controller = ARB
+#controller = ARB
 capital = "Sahra an Nübyah"
 is_city = yes
 culture = beja

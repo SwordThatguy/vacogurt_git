@@ -1,5 +1,5 @@
 owner = ARB
-controller = ARB
+#controller = ARB
 capital = "Diyar Bekir"
 is_city = yes
 culture = kurdish

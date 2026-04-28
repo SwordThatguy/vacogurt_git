@@ -1,5 +1,5 @@
 owner = KOK
-controller = KOK
+#controller = KOK
 capital = "Kokand"
 is_city = yes
 culture = uzbehk

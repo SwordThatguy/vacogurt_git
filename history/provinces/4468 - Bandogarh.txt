@@ -1,5 +1,5 @@
 owner = Z00
-controller = Z00
+#controller = Z00
 capital = "Bandogarh"
 is_city = yes
 culture = jharkhandi

@@ -1,5 +1,5 @@
 owner = YOR
-controller = YOR
+#controller = YOR
 capital = "Kondavidu"
 is_city = yes
 culture = telegu

@@ -1,5 +1,5 @@
 owner = Z3J
-controller = Z3J
+#controller = Z3J
 capital = "Muniyo"
 is_city = yes
 culture = kanuri

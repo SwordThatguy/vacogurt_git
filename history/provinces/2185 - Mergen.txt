@@ -1,5 +1,5 @@
 owner = JAP
-controller = JAP
+#controller = JAP
 capital = "Mergen"
 is_city = yes
 culture = khitan

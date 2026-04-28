@@ -1,5 +1,5 @@
 owner = GAM
-controller = GAM
+#controller = GAM
 capital = "Pechichitane"
 is_city = yes
 culture = guamares

@@ -1,5 +1,5 @@
 owner = JNN
-controller = JNN
+#controller = JNN
 capital = "Say"
 is_city = yes
 culture = mali

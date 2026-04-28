@@ -1,5 +1,5 @@
 owner = PRM
-controller = PRM
+#controller = PRM
 capital = "Tetyushi"
 is_city = yes
 culture = mordvin

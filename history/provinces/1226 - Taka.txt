@@ -1,5 +1,5 @@
 owner = BEJ
-controller = BEJ
+#controller = BEJ
 capital = "Qoz Rajab"
 is_city = yes
 culture = beja

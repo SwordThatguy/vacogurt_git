@@ -1,5 +1,5 @@
 owner = FKN
-controller = FKN
+#controller = FKN
 capital = "Aschaffenburg"
 is_city = yes
 culture = franconian

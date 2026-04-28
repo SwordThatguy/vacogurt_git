@@ -1,5 +1,5 @@
 owner = SOL
-controller = SOL
+#controller = SOL
 is_city = yes
 culture = evenk
 religion = tengri_pagan

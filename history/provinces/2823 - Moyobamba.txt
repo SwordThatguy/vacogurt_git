@@ -1,5 +1,5 @@
 owner = CYA
-controller = CYA
+#controller = CYA
 capital = "Moyobamba"
 is_city = yes
 culture = chachapoyan

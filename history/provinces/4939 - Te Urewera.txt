@@ -1,5 +1,5 @@
 owner = MAA
-controller = MAA
+#controller = MAA
 capital = "Tauwhare"
 is_city = yes
 culture = maori

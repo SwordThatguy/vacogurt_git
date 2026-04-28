@@ -1,5 +1,5 @@
 owner = ANH
-controller = ANH
+#controller = ANH
 capital = "Halle"
 is_city = yes
 culture = saxon

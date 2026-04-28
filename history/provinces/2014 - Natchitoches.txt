@@ -1,5 +1,5 @@
 owner = NTC
-controller = NTC
+#controller = NTC
 capital = "Natchitoches"
 is_city = yes
 culture = caddo

@@ -1,5 +1,5 @@
 owner = Z1D
-controller = Z1D
+#controller = Z1D
 capital = "Qardho"
 is_city = yes
 culture = somali

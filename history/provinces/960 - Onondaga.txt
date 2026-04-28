@@ -1,5 +1,5 @@
 owner = ONO
-controller = ONO
+#controller = ONO
 capital = "Onondaga"
 is_city = yes
 culture = iroquois

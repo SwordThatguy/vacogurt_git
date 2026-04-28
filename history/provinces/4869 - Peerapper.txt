@@ -1,5 +1,5 @@
 owner = PLW
-controller = PLW
+#controller = PLW
 capital = "Peerapper"
 is_city = yes
 culture = palawa

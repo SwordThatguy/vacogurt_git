@@ -1,5 +1,5 @@
 owner = FRI
-controller = FRI
+#controller = FRI
 capital = "'s-Gravenhage"
 is_city = yes
 culture = dutch

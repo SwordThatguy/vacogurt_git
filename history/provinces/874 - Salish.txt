@@ -1,5 +1,5 @@
 owner = SAL
-controller = SAL
+#controller = SAL
 capital = "Salish"
 is_city = yes
 culture = salish

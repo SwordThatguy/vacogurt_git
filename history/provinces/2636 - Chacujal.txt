@@ -1,5 +1,5 @@
 owner = KAQ
-controller = KAQ
+#controller = KAQ
 capital = "Chacujal"
 is_city = yes
 culture = highland_mayan

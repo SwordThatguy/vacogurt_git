@@ -1,5 +1,5 @@
 owner = Z40
-controller = Z40
+#controller = Z40
 is_city = yes
 culture = dynamic-tibetan-culture-num3
 religion = sunni

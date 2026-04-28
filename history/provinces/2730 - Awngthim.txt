@@ -1,5 +1,5 @@
 owner = AWN
-controller = AWN
+#controller = AWN
 capital = "Awngthim"
 is_city = yes
 culture = paman

@@ -1,5 +1,5 @@
 owner = BHU
-controller = BHU
+#controller = BHU
 capital = "Nyingchi"
 is_city = yes
 culture = dynamic-tibetan-culture-num2

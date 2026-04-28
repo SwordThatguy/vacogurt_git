@@ -1,5 +1,5 @@
 owner = LAR
-controller = LAR
+#controller = LAR
 capital = "Woolna"
 is_city = yes
 culture = gunwinyguan

@@ -1,5 +1,5 @@
 owner = KAU
-controller = KAU
+#controller = KAU
 capital = "Kaurna"
 is_city = yes
 culture = yura

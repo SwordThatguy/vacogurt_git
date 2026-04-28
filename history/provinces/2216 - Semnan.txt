@@ -1,5 +1,5 @@
 owner = KSH
-controller = KSH
+#controller = KSH
 capital = "Semnan"
 is_city = yes
 culture = persian

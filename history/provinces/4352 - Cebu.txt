@@ -1,5 +1,5 @@
 owner = CEB
-controller = CEB
+#controller = CEB
 capital = "Cebu"
 is_city = yes
 culture = filipino

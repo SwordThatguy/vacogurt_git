@@ -1,5 +1,5 @@
 owner = SCO
-controller = SCO
+#controller = SCO
 capital = "Aberdeen"
 is_city = yes
 culture = scottish

@@ -1,5 +1,5 @@
 owner = CHU
-controller = CHU
+#controller = CHU
 capital = "Penzhinsky"
 culture = kamchatkan
 religion = tengri_pagan

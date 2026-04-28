@@ -1,5 +1,5 @@
 owner = ANS
-controller = ANS
+#controller = ANS
 capital = "Rothenburg ob der Tauber"
 is_city = yes
 culture = dynamic-franconian-culture-num1

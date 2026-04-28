@@ -1,5 +1,5 @@
 owner = WLS
-controller = WLS
+#controller = WLS
 capital = "Carmarthen"
 is_city = yes
 culture = welsh

@@ -1,5 +1,5 @@
 owner = ZAN
-controller = ZAN
+#controller = ZAN
 capital = "Mozambique"
 is_city = yes
 culture = swahili

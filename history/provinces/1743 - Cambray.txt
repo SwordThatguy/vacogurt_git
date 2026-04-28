@@ -1,5 +1,5 @@
-owner = BRA
-controller = BRA
+owner = FLA
+#controller = BRA
 capital = "Cambray"
 is_city = yes
 culture = dutch
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 2
 add_core = LOT
 add_core = NED
-add_core = BRA
+add_core = FLA
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

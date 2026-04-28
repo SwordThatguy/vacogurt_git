@@ -1,5 +1,5 @@
 owner = TIO
-controller = TIO
+#controller = TIO
 capital = "Tionontate"
 is_city = yes
 culture = tionontate

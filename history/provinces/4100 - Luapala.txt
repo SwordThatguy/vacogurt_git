@@ -1,5 +1,5 @@
 owner = KZB
-controller = KZB
+#controller = KZB
 capital = "Kazembe Luapula"
 is_city = yes
 culture = luba

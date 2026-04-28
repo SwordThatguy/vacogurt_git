@@ -1,5 +1,5 @@
 owner = KRW
-controller = KRW
+#controller = KRW
 capital = "Buzinza"
 is_city = yes
 culture = takama

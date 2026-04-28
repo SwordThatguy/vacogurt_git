@@ -1,5 +1,5 @@
 owner = ZAP
-controller = ZAP
+#controller = ZAP
 capital = "Tehuantepec"
 is_city = yes
 culture = zapotek

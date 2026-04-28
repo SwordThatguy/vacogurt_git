@@ -1,5 +1,5 @@
 owner = PCH
-controller = PCH
+#controller = PCH
 capital = "Satsukhdin"
 is_city = yes
 culture = yoron

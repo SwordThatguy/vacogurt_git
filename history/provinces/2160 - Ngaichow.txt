@@ -1,5 +1,5 @@
 owner = YUE
-controller = YUE
+#controller = YUE
 capital = "Ngaichow"
 is_city = yes
 culture = chimin

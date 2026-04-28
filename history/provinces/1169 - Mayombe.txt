@@ -1,5 +1,5 @@
 owner = TYO
-controller = TYO
+#controller = TYO
 capital = "Anziku"
 is_city = yes
 culture = kongolese

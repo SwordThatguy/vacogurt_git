@@ -1,5 +1,5 @@
 owner = Z06
-controller = Z06
+#controller = Z06
 capital = "Van"
 is_city = yes
 culture = armenian

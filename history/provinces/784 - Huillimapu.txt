@@ -1,5 +1,5 @@
 owner = MPC
-controller = MPC
+#controller = MPC
 capital = "Huillimapu"
 is_city = yes
 culture = mapuche

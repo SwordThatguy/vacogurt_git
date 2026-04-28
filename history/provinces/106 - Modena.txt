@@ -1,5 +1,5 @@
 owner = ITA
-controller = ITA
+#controller = ITA
 capital = "Modena"
 is_city = yes
 culture = romagnan

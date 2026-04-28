@@ -1,5 +1,5 @@
 owner = Z0R
-controller = Z0R
+#controller = Z0R
 capital = "Kirenga"
 is_city = yes
 culture = mongol

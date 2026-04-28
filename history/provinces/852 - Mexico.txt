@@ -1,5 +1,5 @@
 owner = AZT
-controller = AZT
+#controller = AZT
 capital = "Tenochtitlan"
 is_city = yes
 culture = aztek

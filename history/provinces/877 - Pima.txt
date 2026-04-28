@@ -1,5 +1,5 @@
 owner = PIM
-controller = PIM
+#controller = PIM
 capital = "Pima"
 is_city = yes
 culture = piman

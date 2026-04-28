@@ -1,5 +1,5 @@
 owner = TRS
-controller = TRS
+#controller = TRS
 capital = "Kungirot"
 is_city = yes
 culture = dynamic-tajik-culture-num2

@@ -1,5 +1,5 @@
 owner = GLH
-controller = GLH
+#controller = GLH
 capital = "Pegaya Orda"
 is_city = yes
 culture = ostyaki

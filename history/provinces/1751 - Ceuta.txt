@@ -1,5 +1,5 @@
 owner = Z24
-controller = Z24
+#controller = Z24
 capital = "Cebta"
 is_city = yes
 culture = moroccan

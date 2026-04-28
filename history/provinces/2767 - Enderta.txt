@@ -1,5 +1,5 @@
 owner = ETH
-controller = ETH
+#controller = ETH
 capital = "Antalo"
 is_city = yes
 culture = tigray

@@ -1,5 +1,5 @@
 owner = EOR
-controller = EOR
+#controller = EOR
 capital = "Eora"
 is_city = yes
 culture = aboriginal

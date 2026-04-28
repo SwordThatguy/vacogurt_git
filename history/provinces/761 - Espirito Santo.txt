@@ -1,5 +1,5 @@
 owner = TUA
-controller = TUA
+#controller = TUA
 capital = "Espirito Santo"
 is_city = yes
 culture = ge

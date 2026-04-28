@@ -1,5 +1,5 @@
 owner = Z1U
-controller = Z1U
+#controller = Z1U
 capital = "Mansur"
 is_city = yes
 culture = cuman

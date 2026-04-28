@@ -1,5 +1,5 @@
 owner = NOV
-controller = NOV
+#controller = NOV
 capital = "Dünaburg"
 is_city = yes
 culture = latvian

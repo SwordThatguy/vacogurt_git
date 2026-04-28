@@ -1,5 +1,5 @@
 owner = Z2Y
-controller = Z2Y
+#controller = Z2Y
 capital = "Daman"
 is_city = yes
 culture = gujarati

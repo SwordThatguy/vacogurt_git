@@ -1,5 +1,5 @@
 owner = OMA
-controller = OMA
+#controller = OMA
 capital = "Masirah"
 is_city = yes
 culture = mahri_culture

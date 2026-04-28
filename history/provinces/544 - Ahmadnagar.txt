@@ -1,5 +1,5 @@
 owner = MAR
-controller = MAR
+#controller = MAR
 capital = "Ahmednagar"
 is_city = yes
 culture = marathi

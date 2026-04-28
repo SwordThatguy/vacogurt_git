@@ -1,5 +1,5 @@
 owner = CHE
-controller = CHE
+#controller = CHE
 capital = "Kituwah"
 is_city = yes
 culture = cherokee

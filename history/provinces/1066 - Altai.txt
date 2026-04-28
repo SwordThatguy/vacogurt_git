@@ -1,5 +1,5 @@
 owner = KHA
-controller = KHA
+#controller = KHA
 capital = "Altai Uriankhai"
 is_city = yes
 culture = oirats

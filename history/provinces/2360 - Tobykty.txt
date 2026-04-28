@@ -1,5 +1,5 @@
 owner = Z1P
-controller = Z1P
+#controller = Z1P
 capital = "Tobykty"
 is_city = yes
 culture = dynamic-nogaybak-culture-num1

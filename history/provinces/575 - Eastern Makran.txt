@@ -1,5 +1,5 @@
 owner = BAL
-controller = BAL
+#controller = BAL
 capital = "Gwadar"
 is_city = yes
 culture = baluchi

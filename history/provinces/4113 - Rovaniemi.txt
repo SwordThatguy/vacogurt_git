@@ -1,5 +1,4 @@
-owner = LOI
-controller = LOI
+owner = SMI
 capital = "Rovaniemi"
 is_city = yes
 culture = sapmi
@@ -8,7 +7,7 @@ trade_goods = fur
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = LOI
+add_core = SMI
 add_permanent_claim = SMI
 discovered_by = eastern
 discovered_by = western

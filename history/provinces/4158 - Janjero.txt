@@ -1,5 +1,5 @@
 owner = Z31
-controller = Z31
+#controller = Z31
 capital = "Fofa"
 is_city = yes
 culture = sidamo

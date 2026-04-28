@@ -1,5 +1,5 @@
 owner = BGL
-controller = BGL
+#controller = BGL
 capital = "Wairagarh"
 is_city = yes
 culture = gondi

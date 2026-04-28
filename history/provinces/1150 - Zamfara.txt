@@ -1,5 +1,5 @@
 owner = ZZZ
-controller = ZZZ
+#controller = ZZZ
 capital = "Dutsi"
 is_city = yes
 culture = nupe

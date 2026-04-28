@@ -1,5 +1,5 @@
 owner = CHT
-controller = CHT
+#controller = CHT
 capital = "Chortli"
 is_city = yes
 culture = highland_mayan

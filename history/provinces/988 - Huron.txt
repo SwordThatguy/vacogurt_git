@@ -1,5 +1,5 @@
 owner = ATT
-controller = ATT
+#controller = ATT
 capital = "Attignawantan"
 is_city = yes
 culture = huron

@@ -1,5 +1,5 @@
 owner = SAV
-controller = SAV
+#controller = SAV
 capital = "Sion"
 is_city = yes
 culture = arpitan

@@ -1,5 +1,5 @@
 owner = Z3Q
-controller = Z3Q
+#controller = Z3Q
 capital = "Calabar"
 is_city = yes
 culture = nupe

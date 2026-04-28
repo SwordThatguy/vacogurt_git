@@ -1,5 +1,5 @@
 owner = IRE
-controller = IRE
+#controller = IRE
 capital = "Carrickfergus"
 is_city = yes
 culture = irish

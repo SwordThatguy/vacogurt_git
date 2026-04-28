@@ -1,5 +1,5 @@
 owner = POW
-controller = POW
+#controller = POW
 capital = "Powhatan"
 is_city = yes
 culture = powhatan

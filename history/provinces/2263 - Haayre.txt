@@ -1,5 +1,5 @@
 owner = YAT
-controller = YAT
+#controller = YAT
 capital = "Douentza"
 is_city = yes
 culture = mali

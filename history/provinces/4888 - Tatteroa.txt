@@ -1,5 +1,5 @@
 owner = HWK
-controller = HWK
+#controller = HWK
 capital = "Tatteroa"
 is_city = yes
 culture = shawnee

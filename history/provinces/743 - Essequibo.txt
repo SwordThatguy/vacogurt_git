@@ -1,5 +1,5 @@
 owner = ARW
-controller = ARW
+#controller = ARW
 capital = "Essequibo"
 is_city = yes
 culture = guajiro

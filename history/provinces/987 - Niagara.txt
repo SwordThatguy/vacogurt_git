@@ -1,5 +1,5 @@
 owner = ATW
-controller = ATW
+#controller = ATW
 capital = "Niagara"
 is_city = yes
 culture = tionontate

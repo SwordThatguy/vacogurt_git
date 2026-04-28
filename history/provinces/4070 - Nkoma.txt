@@ -1,5 +1,5 @@
 owner = BUU
-controller = BUU
+#controller = BUU
 capital = "Nkoma"
 is_city = yes
 culture = rwandan

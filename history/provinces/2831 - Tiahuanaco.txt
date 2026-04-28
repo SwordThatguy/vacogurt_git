@@ -1,5 +1,5 @@
 owner = PCJ
-controller = PCJ
+#controller = PCJ
 capital = "Tiahuanoco"
 is_city = yes
 culture = aimara

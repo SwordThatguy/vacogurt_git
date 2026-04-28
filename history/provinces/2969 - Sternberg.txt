@@ -1,5 +1,5 @@
 owner = POL
-controller = POL
+#controller = POL
 capital = "Frankfurt an der Oder"
 is_city = yes
 culture = polish

@@ -1,5 +1,5 @@
 owner = GLH
-controller = GLH
+#controller = GLH
 capital = "Ekibastuz"
 is_city = yes
 culture = dynamic-nogaybak-culture-num3

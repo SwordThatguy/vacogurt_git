@@ -1,5 +1,5 @@
 owner = OYO
-controller = OYO
+#controller = OYO
 capital = "Ondo"
 is_city = yes
 culture = yorumba

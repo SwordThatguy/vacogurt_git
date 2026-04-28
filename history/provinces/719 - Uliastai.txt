@@ -1,5 +1,5 @@
 owner = Z2L
-controller = Z2L
+#controller = Z2L
 capital = "Uliastai"
 is_city = yes
 culture = buryat

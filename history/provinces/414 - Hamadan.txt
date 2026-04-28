@@ -1,5 +1,5 @@
 owner = Z3P
-controller = Z3P
+#controller = Z3P
 capital = "Hamedan"
 is_city = yes
 culture = luri

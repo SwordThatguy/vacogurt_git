@@ -1,5 +1,5 @@
 owner = BHU
-controller = BHU
+#controller = BHU
 capital = "Sakya"
 is_city = yes
 culture = nepali

@@ -1,5 +1,5 @@
 owner = YNU
-controller = YNU
+#controller = YNU
 capital = "Yunawa"
 is_city = yes
 culture = paman

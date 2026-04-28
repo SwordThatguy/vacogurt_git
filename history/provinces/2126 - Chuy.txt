@@ -1,5 +1,5 @@
 owner = CHG
-controller = CHG
+#controller = CHG
 capital = "Chuy"
 is_city = yes
 culture = uzbehk

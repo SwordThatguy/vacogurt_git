@@ -1,5 +1,4 @@
-owner = FRA
-controller = FRA
+owner = PRO
 capital = "Saintes"
 is_city = yes
 culture = occitain
@@ -8,7 +7,6 @@ trade_goods = grain
 base_tax = 4
 base_production = 4
 base_manpower = 2
-add_core = FRA
 add_core = PRO
 discovered_by = eastern
 discovered_by = muslim

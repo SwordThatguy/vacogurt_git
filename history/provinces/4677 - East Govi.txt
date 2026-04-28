@@ -1,5 +1,5 @@
 owner = KHA
-controller = KHA
+#controller = KHA
 capital = "Noyon"
 is_city = yes
 culture = dynamic-mongol-culture-num2

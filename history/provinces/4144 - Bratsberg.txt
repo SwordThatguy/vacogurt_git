@@ -1,5 +1,5 @@
 owner = NOR
-controller = NOR
+#controller = NOR
 capital = "Skien"
 is_city = yes
 culture = norwegian

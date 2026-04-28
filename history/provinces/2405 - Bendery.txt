@@ -1,5 +1,5 @@
 owner = Z58
-controller = Z58
+#controller = Z58
 capital = "Bender"
 is_city = yes
 culture = romanian

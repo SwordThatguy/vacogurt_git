@@ -1,5 +1,5 @@
 owner = Z36
-controller = Z36
+#controller = Z36
 capital = "Taytay"
 is_city = yes
 culture = filipino

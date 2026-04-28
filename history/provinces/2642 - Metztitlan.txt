@@ -1,5 +1,5 @@
 owner = OTO
-controller = OTO
+#controller = OTO
 capital = "Metztitlan"
 is_city = yes
 culture = otomi

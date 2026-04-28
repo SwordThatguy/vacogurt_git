@@ -1,5 +1,5 @@
 owner = BAV
-controller = BAV
+#controller = BAV
 capital = "Chur"
 is_city = yes
 culture = bavarian

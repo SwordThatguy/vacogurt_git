@@ -1,5 +1,5 @@
 owner = DAN
-controller = DAN
+#controller = DAN
 capital = "Halmstad"
 is_city = yes
 culture = danish

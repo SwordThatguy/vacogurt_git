@@ -1,5 +1,5 @@
 owner = GRA
-controller = Z3K
+#controller = Z3K
 capital = "Córdoba"
 is_city = yes
 culture = andalucian

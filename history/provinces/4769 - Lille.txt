@@ -1,5 +1,5 @@
 owner = FRA
-controller = FRA
+#controller = FRA
 capital = "Lille"
 is_city = yes
 culture = dynamic-cosmopolitan_french-culture-num1

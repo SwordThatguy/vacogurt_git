@@ -1,5 +1,5 @@
 owner = PEQ
-controller = PEQ
+#controller = PEQ
 capital = "Connecticut"
 is_city = yes
 culture = pequot

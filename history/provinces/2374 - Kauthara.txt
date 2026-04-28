@@ -1,5 +1,5 @@
 owner = KHM
-controller = KHM
+#controller = KHM
 capital = "Kauthara"
 is_city = yes
 culture = cham

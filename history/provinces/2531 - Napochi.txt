@@ -1,5 +1,5 @@
 owner = ABI
-controller = ABI
+#controller = ABI
 capital = "Napochi"
 is_city = yes
 culture = creek

@@ -1,5 +1,5 @@
 owner = CRO
-controller = CRO
+#controller = CRO
 capital = "Rijeka"
 is_city = yes
 culture = dynamic-croatian-hungarian-culture-num1

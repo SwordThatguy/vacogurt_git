@@ -1,5 +1,5 @@
 owner = SON
-controller = SON
+#controller = SON
 capital = "Nupe"
 is_city = yes
 culture = nupe

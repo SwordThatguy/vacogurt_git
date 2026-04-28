@@ -1,5 +1,5 @@
 owner = CTM
-controller = CTM
+#controller = CTM
 capital = "Uaymil"
 is_city = yes
 culture = yucatec

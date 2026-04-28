@@ -1,5 +1,5 @@
 owner = SAX
-controller = SAX
+#controller = SAX
 capital = "Wittenberg"
 is_city = yes
 culture = saxon

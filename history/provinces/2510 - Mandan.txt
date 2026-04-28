@@ -1,5 +1,5 @@
 owner = ARP
-controller = ARP
+#controller = ARP
 capital = "Mandan"
 is_city = yes
 culture = arapaho

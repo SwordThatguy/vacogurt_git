@@ -1,5 +1,5 @@
 owner = TIW
-controller = TIW
+#controller = TIW
 capital = "Tiwi"
 is_city = yes
 culture = gunwinyguan

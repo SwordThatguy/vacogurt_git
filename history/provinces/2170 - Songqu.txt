@@ -1,5 +1,5 @@
 owner = Z18
-controller = Z18
+#controller = Z18
 capital = "Songqu"
 is_city = yes
 culture = dynamic-tibetan-culture-num4

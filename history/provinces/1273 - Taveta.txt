@@ -1,5 +1,5 @@
 owner = Z0W
-controller = Z0W
+#controller = Z0W
 is_city = yes
 culture = bantu
 religion = sunni

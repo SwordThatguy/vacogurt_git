@@ -1,5 +1,5 @@
 owner = HAW
-controller = HAW
+#controller = HAW
 capital = "Kailua-Kona"
 is_city = yes
 culture = polynesian

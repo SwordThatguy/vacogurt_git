@@ -1,5 +1,5 @@
 owner = GOT
-controller = GOT
+#controller = GOT
 capital = "Visby"
 is_city = yes
 culture = swedish

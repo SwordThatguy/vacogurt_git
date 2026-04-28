@@ -1,5 +1,5 @@
 owner = KHM
-controller = KHM
+#controller = KHM
 capital = "Stung Treng"
 is_city = yes
 culture = khmer

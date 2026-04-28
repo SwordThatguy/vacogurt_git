@@ -1,5 +1,5 @@
 owner = Z5G
-controller = Z5G
+#controller = Z5G
 capital = "Orda-Bazar"
 is_city = yes
 culture = dynamic-nogaybak-culture-num3

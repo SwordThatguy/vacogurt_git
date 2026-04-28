@@ -1,5 +1,5 @@
 owner = TPQ
-controller = TPQ
+#controller = TPQ
 capital = "Ilheus"
 is_city = yes
 culture = tupinamba

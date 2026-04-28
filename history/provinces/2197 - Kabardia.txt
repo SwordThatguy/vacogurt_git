@@ -1,5 +1,5 @@
 owner = GEO
-controller = GEO
+#controller = GEO
 capital = "Nalchik"
 is_city = yes
 culture = circassian

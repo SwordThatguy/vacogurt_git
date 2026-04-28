@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = old_lombard
 capital = 2972
 elector = yes
-create_union = ANH
 1444.11.11= {
 	monarch = {
 		name = "Alexander"

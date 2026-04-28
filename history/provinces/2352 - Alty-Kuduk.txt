@@ -1,5 +1,5 @@
 owner = Z0M
-controller = Z0M
+#controller = Z0M
 capital = "Alty-Kuduk"
 is_city = yes
 culture = nogaybak

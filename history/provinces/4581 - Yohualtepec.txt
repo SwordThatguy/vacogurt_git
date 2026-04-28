@@ -1,5 +1,5 @@
 owner = COI
-controller = COI
+#controller = COI
 capital = "Yohualtepec"
 is_city = yes
 culture = mixtec

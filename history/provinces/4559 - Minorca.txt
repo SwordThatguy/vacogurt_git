@@ -1,5 +1,5 @@
 owner = ARA
-controller = ARA
+#controller = ARA
 capital = "Mahon"
 is_city = yes
 culture = catalan

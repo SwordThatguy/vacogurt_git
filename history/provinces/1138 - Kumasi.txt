@@ -1,5 +1,5 @@
 owner = Z17
-controller = Z17
+#controller = Z17
 capital = "Akyem Kotoko"
 is_city = yes
 culture = aka

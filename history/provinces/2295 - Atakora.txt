@@ -1,5 +1,5 @@
 owner = Z0X
-controller = Z0X
+#controller = Z0X
 capital = "Sansanné Mango"
 is_city = yes
 culture = mali

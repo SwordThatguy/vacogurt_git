@@ -1,5 +1,5 @@
 owner = GEO
-controller = GEO
+#controller = GEO
 capital = "Telavi"
 is_city = yes
 culture = georgian

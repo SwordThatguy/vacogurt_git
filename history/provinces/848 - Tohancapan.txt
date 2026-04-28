@@ -1,5 +1,5 @@
 owner = TOT
-controller = TOT
+#controller = TOT
 capital = "Tohancapan"
 is_city = yes
 culture = totonac

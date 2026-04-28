@@ -1,5 +1,5 @@
 owner = Z38
-controller = Z38
+#controller = Z38
 capital = "Panay"
 is_city = yes
 culture = filipino

@@ -1,5 +1,5 @@
 owner = ARM
-controller = ARM
+#controller = ARM
 capital = "Shamakhi"
 is_city = yes
 culture = azerbaijani

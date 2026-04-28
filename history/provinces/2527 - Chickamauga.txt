@@ -1,5 +1,5 @@
 owner = SAT
-controller = SAT
+#controller = SAT
 capital = "Atali"
 culture = creek
 religion = totemism

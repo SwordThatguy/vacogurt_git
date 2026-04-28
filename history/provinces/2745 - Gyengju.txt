@@ -1,5 +1,5 @@
 owner = JAP
-controller = JAP
+#controller = JAP
 capital = "Gyeongju"
 is_city = yes
 culture = korean

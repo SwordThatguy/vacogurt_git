@@ -1,5 +1,5 @@
 owner = KON
-controller = KON
+#controller = KON
 capital = "Okango"
 is_city = yes
 culture = kongolese

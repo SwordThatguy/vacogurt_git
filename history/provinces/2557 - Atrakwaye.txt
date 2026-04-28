@@ -1,5 +1,5 @@
 owner = SUS
-controller = SUS
+#controller = SUS
 capital = "Atrakwaye"
 is_city = yes
 culture = susquehannock

@@ -1,5 +1,5 @@
 owner = CHI
-controller = CHI
+#controller = CHI
 capital = "Chickasaw"
 is_city = yes
 culture = chickasaw

@@ -1,5 +1,5 @@
 owner = FRS
-controller = FRS
+#controller = FRS
 capital = "Yasuj"
 is_city = yes
 culture = luri

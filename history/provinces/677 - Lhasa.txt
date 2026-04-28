@@ -1,5 +1,5 @@
 owner = UTS
-controller = UTS
+#controller = UTS
 capital = "Lhasa"
 is_city = yes
 culture = tibetan

@@ -1,5 +1,5 @@
 owner = CJA
-controller = CJA
+#controller = CJA
 capital = "Cajamarca"
 is_city = yes
 culture = inca

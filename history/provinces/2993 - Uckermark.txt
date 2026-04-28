@@ -1,5 +1,5 @@
 owner = BRA
-controller = BRA
+#controller = BRA
 capital = "Prenzlau"
 is_city = yes
 culture = pommeranian

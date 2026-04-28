@@ -1,5 +1,5 @@
 owner = BHU
-controller = BHU
+#controller = BHU
 capital = "Yuksom"
 is_city = yes
 culture = dynamic-assamese-nepali-culture-num1

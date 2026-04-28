@@ -1,5 +1,5 @@
 owner = KIC
-controller = KIC
+#controller = KIC
 capital = "Tapachula"
 is_city = yes
 culture = highland_mayan

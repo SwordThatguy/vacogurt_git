@@ -1,5 +1,5 @@
 owner = TEA
-controller = TEA
+#controller = TEA
 capital = "Tauranga"
 is_city = yes
 culture = maori
