@@ -1,4 +1,4 @@
-owner = JAP
+owner = Z16
 #controller = JAP
 capital = "Barag"
 is_city = yes
@@ -8,6 +8,8 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = JAP
+controller = Z16
+add_core = Z16
+add_core = KHA
 discovered_by = chinese
 discovered_by = nomad_group

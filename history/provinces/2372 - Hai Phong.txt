@@ -13,6 +13,7 @@ add_core = DAI
 add_core = YUE
 discovered_by = chinese
 discovered_by = indian
+controller = YUE
 add_permanent_province_modifier = {
 	name = red_river_estuary_modifier
 	duration = -1

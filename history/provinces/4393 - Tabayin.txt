@@ -1,4 +1,4 @@
-owner = Z00
+owner = TAU
 #controller = Z00
 capital = "Tabayin"
 is_city = yes
@@ -9,6 +9,6 @@ base_tax = 1
 base_production = 3
 base_manpower = 1
 add_core = TAU
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian
+controller = TAU

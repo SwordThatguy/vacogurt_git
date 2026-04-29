@@ -1,4 +1,4 @@
-owner = GLH
+owner = NOG
 #controller = GLH
 capital = "Altyn"
 is_city = yes
@@ -8,9 +8,9 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = GLH
-add_core = NOG
 add_permanent_claim = CMN
+controller = NOG
+add_core = NOG
 discovered_by = KAS
 discovered_by = KAZ
 discovered_by = KZH

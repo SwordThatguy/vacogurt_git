@@ -1,4 +1,4 @@
-owner = JAP
+owner = TKD
 #controller = JAP
 capital = "Sunpu"
 is_city = yes
@@ -8,9 +8,10 @@ trade_goods = tea
 base_tax = 4
 base_production = 1
 base_manpower = 2
-add_core = JAP
+add_core = TKD
 discovered_by = KHA
 discovered_by = MCH
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = chinese
+controller = TKD

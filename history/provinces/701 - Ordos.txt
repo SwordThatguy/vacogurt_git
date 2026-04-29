@@ -1,17 +1,18 @@
-owner = YUE
+owner = Z3N
 #controller = YUE
 capital = "Ordos"
 is_city = yes
-culture = tangut
 religion = confucianism
 trade_goods = livestock
 base_tax = 4
 base_production = 3
 base_manpower = 3
+controller = Z3N
 add_core = TAU
-add_core = YUE
+add_core = Z3N
+add_core = KHA
 discovered_by = chinese
 discovered_by = nomad_group
 latent_trade_goods = {
-	coal
+	coal 
 }

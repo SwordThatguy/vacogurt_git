@@ -1,4 +1,4 @@
-owner = TRT
+owner = GDW
 #controller = TRT
 capital = "Mandla"
 is_city = yes
@@ -8,9 +8,9 @@ trade_goods = tropical_wood
 base_tax = 4
 base_production = 2
 base_manpower = 4
-add_core = GDW
-add_core = TRT
 add_permanent_claim = BGL
+controller = GDW
+add_core = GDW
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

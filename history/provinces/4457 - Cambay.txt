@@ -1,4 +1,4 @@
-owner = MLW
+owner = GUJ
 #controller = MLW
 capital = "Khambhat"
 is_city = yes
@@ -10,8 +10,8 @@ base_production = 3
 base_manpower = 2
 extra_cost = 24
 center_of_trade = 3
+controller = GUJ
 add_core = GUJ
-add_core = MLW
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = indian

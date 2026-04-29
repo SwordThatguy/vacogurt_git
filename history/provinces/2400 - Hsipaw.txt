@@ -1,13 +1,14 @@
-owner = Z00
+owner = TAU
 #controller = Z00
 capital = "Hsipaw"
 is_city = yes
-culture = dynamic-burmese-culture-num1
 religion = buddhism
 trade_goods = grain
 base_tax = 1
 base_production = 3
 base_manpower = 1
-add_core = Z00
+controller = TAU
+add_core = TAU
 discovered_by = chinese
 discovered_by = indian
+culture = karen

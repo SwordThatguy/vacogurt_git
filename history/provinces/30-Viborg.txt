@@ -1,4 +1,4 @@
-owner = EST
+owner = NOV
 #controller = EST
 capital = "Viborg"
 is_city = yes
@@ -8,7 +8,8 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = EST
 add_core = FIN
+add_core = NOV
 discovered_by = eastern
 discovered_by = western
+controller = NOV

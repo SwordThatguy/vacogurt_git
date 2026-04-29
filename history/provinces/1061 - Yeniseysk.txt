@@ -1,6 +1,6 @@
 capital = "Novoselovo"
 culture = tungus
-religion = tengri_pagan
+religion = siberian_pagan
 trade_goods = unknown
 base_tax = 1
 base_production = 1
@@ -8,3 +8,7 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3
+owner = Z12
+controller = Z12
+is_city = no
+add_core = Z12

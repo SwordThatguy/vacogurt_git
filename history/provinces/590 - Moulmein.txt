@@ -1,4 +1,4 @@
-owner = Z00
+owner = PEG
 #controller = Z00
 capital = "Martaban"
 is_city = yes
@@ -9,8 +9,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 add_core = PEG
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+controller = PEG

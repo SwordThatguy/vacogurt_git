@@ -1,4 +1,4 @@
-owner = Z06
+owner = IRQ
 #controller = Z06
 capital = "Sulimaniyeh"
 is_city = yes
@@ -8,7 +8,9 @@ trade_goods = wool
 base_tax = 4
 base_production = 4
 base_manpower = 2
+controller = IRQ
 add_core = ARD
+add_core = IRQ
 add_core = Z06
 discovered_by = east_african
 discovered_by = eastern

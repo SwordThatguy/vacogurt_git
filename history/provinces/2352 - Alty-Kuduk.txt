@@ -1,4 +1,4 @@
-owner = Z0M
+owner = NOG
 #controller = Z0M
 capital = "Alty-Kuduk"
 is_city = yes
@@ -8,9 +8,9 @@ trade_goods = fish
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = NOG
-add_core = Z0M
 add_permanent_claim = CMN
+controller = NOG
+add_core = NOG
 discovered_by = KAS
 discovered_by = KAZ
 discovered_by = KZH

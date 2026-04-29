@@ -1176,3 +1176,12 @@ ZUL = "countries/Zulu.txt"
 ZUN = "countries/Zunghar.txt"
 ZZZ = "countries/Zazzau.txt"
 
+
+SLL = "countries/Silla.txt"
+PRH = "countries/Parhae.txt"
+YEE = "countries/Ye.txt"
+TKO = "countries/Takeo.txt"
+ARI = "countries/Arai.txt"
+NAA = "countries/Naga.txt"
+YUM = "countries/Yumi.txt"
+GAW = "countries/Gawa.txt"

@@ -1,4 +1,4 @@
-owner = YOR
+owner = Z00
 #controller = YOR
 capital = "Udayagiri"
 is_city = yes
@@ -9,9 +9,10 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = GOC
-add_core = YOR
+add_core = Z00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = nomad_group
 discovered_by = ottoman
+controller = Z00

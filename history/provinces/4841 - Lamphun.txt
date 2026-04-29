@@ -1,4 +1,4 @@
-owner = Z00
+owner = AYU
 #controller = Z00
 capital = "Lamphun"
 is_city = yes
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 add_core = PEG
-add_core = Z00
+add_core = AYU
 discovered_by = chinese
 discovered_by = indian
+controller = AYU

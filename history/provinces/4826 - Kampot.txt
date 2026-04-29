@@ -1,4 +1,4 @@
-owner = Z00
+owner = KHM
 #controller = Z00
 capital = "Kampot"
 is_city = yes
@@ -8,7 +8,8 @@ trade_goods = grain
 base_tax = 2
 base_production = 3
 base_manpower = 1
-add_core = Z00
 add_permanent_claim = KHM
+add_core = KHM
 discovered_by = chinese
 discovered_by = indian
+controller = KHM

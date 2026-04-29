@@ -1,14 +1,14 @@
-owner = JAP
+owner = LIO
 #controller = JAP
 capital = "Chengde"
 is_city = yes
-culture = khitan
 religion = confucianism
 trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = JAP
+controller = LIO
 add_core = LIO
 discovered_by = chinese
 discovered_by = nomad_group
+culture = chahar

@@ -1,22 +1,23 @@
-owner = Z00
+owner = PLB
 #controller = Z00
 capital = "Bengkulu"
 is_city = yes
 culture = sumatran
 religion = animism
 trade_goods = unknown
-fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = Z00
+native_size = 20
+native_ferocity = 7
+native_hostileness = 5
+add_core = PLB
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-native_size = 20
-native_ferocity = 7
-native_hostileness = 5
+fort_15th = yes
+controller = PLB
 latent_trade_goods = {
-	coal
+	coal 
 }

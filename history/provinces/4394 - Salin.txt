@@ -1,4 +1,4 @@
-owner = Z00
+owner = PEG
 #controller = Z00
 capital = "Salin"
 is_city = yes
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 add_core = TAU
-add_core = Z00
+add_core = PEG
 discovered_by = chinese
 discovered_by = indian
+controller = PEG

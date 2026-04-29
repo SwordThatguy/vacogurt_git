@@ -1,4 +1,4 @@
-owner = KHO
+owner = AFG
 #controller = KHO
 capital = "Kunduz"
 is_city = yes
@@ -8,9 +8,10 @@ trade_goods = cotton
 base_tax = 5
 base_production = 9
 base_manpower = 4
-add_core = KHO
+add_core = AFG
 discovered_by = KAS
 discovered_by = indian
 discovered_by = muslim
 discovered_by = nomad_group
 discovered_by = ottoman
+controller = AFG

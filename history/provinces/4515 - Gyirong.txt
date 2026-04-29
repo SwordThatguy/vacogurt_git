@@ -1,4 +1,4 @@
-owner = Z00
+owner = Z40
 #controller = Z00
 capital = "Gyirong"
 is_city = yes
@@ -8,7 +8,8 @@ trade_goods = livestock
 base_tax = 1
 base_production = 5
 base_manpower = 1
-add_core = Z00
+add_core = Z40
 discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
+controller = Z40

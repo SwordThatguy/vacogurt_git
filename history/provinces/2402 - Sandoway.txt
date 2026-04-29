@@ -1,4 +1,4 @@
-owner = Z00
+owner = BNG
 #controller = Z00
 capital = "Sandoway"
 is_city = yes
@@ -9,8 +9,8 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 add_core = BNG
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+controller = BNG

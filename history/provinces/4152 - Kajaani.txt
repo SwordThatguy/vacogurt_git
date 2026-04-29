@@ -1,6 +1,6 @@
-owner = SWE
+owner = SMI
 #controller = SWE
-capital = "Maanselkä"
+capital = "Maanselkï¿½"
 is_city = yes
 culture = finnish
 religion = catholic
@@ -9,6 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = FIN
-add_core = SWE
+add_core = SMI
 discovered_by = eastern
 discovered_by = western
+controller = SMI

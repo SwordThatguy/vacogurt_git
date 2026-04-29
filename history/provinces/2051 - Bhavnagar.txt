@@ -1,4 +1,4 @@
-owner = MLW
+owner = GUJ
 #controller = MLW
 capital = "Bhavnagar"
 is_city = yes
@@ -8,8 +8,8 @@ trade_goods = salt
 base_tax = 4
 base_production = 3
 base_manpower = 2
+controller = GUJ
 add_core = GUJ
-add_core = MLW
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = indian

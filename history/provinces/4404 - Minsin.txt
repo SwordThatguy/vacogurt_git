@@ -1,4 +1,4 @@
-owner = YUE
+owner = WPG
 #controller = YUE
 capital = "Minsin"
 is_city = yes
@@ -8,8 +8,9 @@ trade_goods = grain
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = NPL
-add_core = YUE
 add_permanent_claim = BHU
+controller = WPG
+add_core = NPL
+add_core = WPG
 discovered_by = chinese
 discovered_by = indian

@@ -13,3 +13,4 @@ add_core = KHM
 add_core = LUA
 discovered_by = chinese
 discovered_by = indian
+controller = KHM

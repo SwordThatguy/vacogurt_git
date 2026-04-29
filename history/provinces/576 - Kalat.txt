@@ -1,4 +1,4 @@
-owner = PUN
+owner = BAL
 #controller = PUN
 capital = "Kalat"
 is_city = yes
@@ -8,9 +8,10 @@ trade_goods = dyes
 base_tax = 4
 base_production = 4
 base_manpower = 2
-add_core = PUN
+add_core = BAL
 discovered_by = KAS
 discovered_by = indian
 discovered_by = muslim
 discovered_by = nomad_group
 discovered_by = ottoman
+controller = BAL

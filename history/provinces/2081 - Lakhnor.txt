@@ -1,4 +1,4 @@
-owner = Z00
+owner = BNG
 #controller = Z00
 capital = "Lakhnor"
 is_city = yes
@@ -8,13 +8,13 @@ trade_goods = naval_supplies
 base_tax = 3
 base_production = 1
 base_manpower = 2
+controller = BNG
 add_core = BNG
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = nomad_group
 discovered_by = ottoman
 latent_trade_goods = {
-	coal
+	coal 
 }

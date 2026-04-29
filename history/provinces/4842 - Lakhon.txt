@@ -1,14 +1,14 @@
-owner = Z00
+owner = AYU
 #controller = Z00
 capital = "Lakhon"
 is_city = yes
-culture = central_thai
+culture = mon
 religion = buddhism
 trade_goods = grain
 base_tax = 1
 base_production = 3
 base_manpower = 1
+controller = AYU
 add_core = AYU
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian

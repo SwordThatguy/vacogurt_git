@@ -1,4 +1,4 @@
-owner = Z00
+owner = Z1R
 #controller = Z00
 capital = "Makwanpur"
 is_city = yes
@@ -8,8 +8,9 @@ trade_goods = wool
 base_tax = 3
 base_production = 1
 base_manpower = 2
+controller = Z1R
 add_core = NPL
-add_core = Z00
+add_core = Z1R
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

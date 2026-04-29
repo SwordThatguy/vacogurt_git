@@ -1,13 +1,14 @@
-owner = Z00
+owner = KHM
 #controller = Z00
 capital = "Nongbua Lamphu"
 is_city = yes
-culture = dynamic-central_thai-culture-num1
 religion = vajrayana
 trade_goods = grain
 base_tax = 3
 base_production = 6
 base_manpower = 1
-add_core = Z00
+controller = KHM
+add_core = KHM
 discovered_by = chinese
 discovered_by = indian
+culture = lao

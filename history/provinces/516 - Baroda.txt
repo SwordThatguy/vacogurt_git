@@ -1,4 +1,4 @@
-owner = MLW
+owner = GUJ
 #controller = MLW
 capital = "Baroda"
 is_city = yes
@@ -9,10 +9,10 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = GUJ
-add_core = MLW
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
 discovered_by = nomad_group
 discovered_by = ottoman
+controller = GUJ

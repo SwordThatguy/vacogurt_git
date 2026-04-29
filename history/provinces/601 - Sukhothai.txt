@@ -1,4 +1,4 @@
-owner = Z00
+owner = AYU
 #controller = Z00
 capital = "Sukhothai"
 is_city = yes
@@ -8,7 +8,7 @@ trade_goods = chinaware
 base_tax = 2
 base_production = 1
 base_manpower = 1
+controller = AYU
 add_core = AYU
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian

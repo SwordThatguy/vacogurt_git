@@ -1,4 +1,4 @@
-owner = PUN
+owner = Z1R
 #controller = PUN
 capital = "Kathmandu"
 is_city = yes
@@ -10,8 +10,9 @@ base_production = 5
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
+controller = Z1R
 add_core = NPL
-add_core = PUN
+add_core = Z1R
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

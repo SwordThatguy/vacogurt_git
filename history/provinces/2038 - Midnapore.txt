@@ -1,4 +1,4 @@
-owner = Z00
+owner = BNG
 #controller = Z00
 capital = "Midnapore"
 is_city = yes
@@ -8,9 +8,8 @@ trade_goods = spices
 base_tax = 1
 base_production = 1
 base_manpower = 2
+controller = BNG
 add_core = BNG
-add_core = ORI
-add_core = Z00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

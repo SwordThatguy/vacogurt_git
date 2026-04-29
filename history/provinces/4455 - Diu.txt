@@ -1,4 +1,4 @@
-owner = MLW
+owner = GUJ
 #controller = MLW
 capital = "Diu"
 is_city = yes
@@ -8,8 +8,9 @@ trade_goods = sugar
 base_tax = 4
 base_production = 3
 base_manpower = 2
+controller = GUJ
 add_core = JGD
-add_core = MLW
+add_core = GUJ
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = indian
